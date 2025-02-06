@@ -8,7 +8,6 @@ on:
 jobs:
   lint-and-validate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -17,27 +16,21 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Check modified paths
-        id: check_paths
-        uses: dorny/paths-filter@v2
+        id: paths
+        uses: dorny/paths-filter@v3
         with:
           filters: |
-            valid:
-              - 'chains/**'
-            all:
+            illegal:
               - '**'
+              - '!chains/**'
 
       - name: Fail if PR modifies files outside chains
+        if: steps.paths.outputs.illegal == 'true'
         run: |
-          all_files="${{ steps.check_paths.outputs.all }}"
-          valid_files="${{ steps.check_paths.outputs.valid }}"
-          if [ "$all_files" != "$valid_files" ]; then
-            echo "PR contains changes outside the chains directory. :("
-            echo "All modified files:"
-            echo "$all_files"
-            echo "Valid modified files:"
-            echo "$valid_files"
-            exit 1
-          fi
+          echo "PR contains changes outside the chains directory."
+          echo "Illegal files:"
+          echo "${{ steps.paths.outputs.illegal_files }}"
+          exit 1
 
       - name: Setup environment
         run: make setup
