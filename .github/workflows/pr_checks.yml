@@ -34,7 +34,7 @@ jobs:
             echo "PR contains modifications outside the chains directory."
             echo "All modified files:"
             echo "$all_files"
-            echo "Valid modified files (within chains):"
+            echo "Valid modified files:"
             echo "$valid_files"
             exit 1
           fi
