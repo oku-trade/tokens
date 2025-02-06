@@ -31,7 +31,7 @@ jobs:
           all_files="${{ steps.check_paths.outputs.all }}"
           valid_files="${{ steps.check_paths.outputs.valid }}"
           if [ "$all_files" != "$valid_files" ]; then
-            echo "PR contains changes outside the chains directory."
+            echo "PR contains changes outside the chains directory. :("
             echo "All modified files:"
             echo "$all_files"
             echo "Valid modified files:"
