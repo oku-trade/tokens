@@ -22,7 +22,6 @@ jobs:
           list-files: "json"
           filters: |
             illegal:
-              - '**'
               - '!chains/**'
 
       - name: Fail if PR modifies files outside chains
