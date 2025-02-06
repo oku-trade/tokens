@@ -27,6 +27,11 @@ The `info.json` file should adhere to the following schema:
 - **explorer** (string, optional): A valid HTTPS URL to the token's block explorer.
 - **address** (string): The token's address. This must be a checksummed address and match the token folder name. use https://ethsum.netlify.app/ if you are unsure how to do this.
 
+## Logo File
+
+Each token folder must include a logo.png file. This file should be a valid PNG image representing the token's logo.
+The image should be square and no larger than 256x256 pixels or smaller than 64x64 pixels.
+
 ## How to Submit a PR
 
 1. **Fork the Repository:**  
