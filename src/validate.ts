@@ -1,8 +1,8 @@
-import { isAddress } from "viem";
 import * as fs from "fs/promises";
 import * as path from "path";
 import { MAINNET_CHAINS as chains } from "@gfxlabs/oku-chains";
 import { Token } from "./types";
+import { actuallyStrictIsAddress } from "./isAddress";
 
 const SUPPORTED_CHAINS: number[] = chains.map(
   (chain: { id: number }) => chain.id,
@@ -34,7 +34,7 @@ async function validateJsonFiles(baseDirectory: string) {
     const tokenFolders = await fs.readdir(chainFolderPath);
 
     for (const tokenFolder of tokenFolders) {
-      if (!isAddress(tokenFolder, { strict: true })) {
+      if (!actuallyStrictIsAddress(tokenFolder)) {
         throw new Error(
           `Token folder "${tokenFolder}" is not a valid Ethereum address.`,
         );
