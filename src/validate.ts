@@ -36,7 +36,7 @@ async function validateJsonFiles(baseDirectory: string) {
     for (const tokenFolder of tokenFolders) {
       if (!actuallyStrictIsAddress(tokenFolder)) {
         throw new Error(
-          `Token folder "${tokenFolder}" is not a valid Ethereum address.`,
+          `Token folder "${tokenFolder}" is not a valid address. Please use the checksummed address. Go to https://ethsum.netlify.app/ to check your address.`,
         );
       }
 
