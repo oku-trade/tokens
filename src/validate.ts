@@ -42,8 +42,17 @@ async function validateJsonFiles(baseDirectory: string) {
       const tokenFolderStats = await fs.stat(tokenFolderPath);
       if (!tokenFolderStats.isDirectory()) continue;
 
-      const infoFilePath = path.join(tokenFolderPath, "info.json");
+      const logoFilePath = path.join(tokenFolderPath, "logo.png");
+      try {
+        const logoStats = await fs.stat(logoFilePath);
+        if (!logoStats.isFile()) {
+          throw new Error(`Logo file "${logoFilePath}" is not a file.`);
+        }
+      } catch (err) {
+        throw new Error(`Logo file "${logoFilePath}" does not exist.`);
+      }
 
+      const infoFilePath = path.join(tokenFolderPath, "info.json");
       try {
         const fileContent = await fs.readFile(infoFilePath, "utf-8");
         const jsonData = JSON.parse(fileContent);
@@ -51,7 +60,11 @@ async function validateJsonFiles(baseDirectory: string) {
 
         if (!validationResult.success) {
           throw new Error(
-            `File ${infoFilePath} is invalid: ${JSON.stringify(validationResult.error.errors, null, 2)}`,
+            `File ${infoFilePath} is invalid: ${JSON.stringify(
+              validationResult.error.errors,
+              null,
+              2,
+            )}`,
           );
         }
 
@@ -65,7 +78,7 @@ async function validateJsonFiles(baseDirectory: string) {
         console.log(`File ${infoFilePath} is valid.`);
       } catch (parseError) {
         throw new Error(
-          `Error parsing JSON in file ${infoFilePath}: ${parseError}`,
+          `Error processing JSON in file ${infoFilePath}: ${parseError}`,
         );
       }
     }
