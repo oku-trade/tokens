@@ -27,7 +27,9 @@ async function validateJsonFiles(baseDirectory: string) {
 
     const chainFolderPath = path.join(baseDirectory, chainFolder);
     const chainFolderStats = await fs.stat(chainFolderPath);
-    if (!chainFolderStats.isDirectory()) continue;
+    if (!chainFolderStats.isDirectory()) {
+      throw new Error(`Chain folder "${chainFolder}" is not a directory.`);
+    }
 
     const tokenFolders = await fs.readdir(chainFolderPath);
 
@@ -40,7 +42,9 @@ async function validateJsonFiles(baseDirectory: string) {
 
       const tokenFolderPath = path.join(chainFolderPath, tokenFolder);
       const tokenFolderStats = await fs.stat(tokenFolderPath);
-      if (!tokenFolderStats.isDirectory()) continue;
+      if (!tokenFolderStats.isDirectory()) {
+        throw new Error(`Token folder "${tokenFolder}" is not a directory.`);
+      }
 
       const logoFilePath = path.join(tokenFolderPath, "logo.png");
       try {
