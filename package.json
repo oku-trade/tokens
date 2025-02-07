@@ -4,6 +4,7 @@
   "scripts": {
     "build": "yarn tsc",
     "validate": "yarn build && yarn node dist/validate.js",
+    "checksum": "yarn build && yarn node dist/checksumUpdate.js",
     "list": "yarn build && yarn node dist/list.js",
     "prettier:check": "./node_modules/.bin/prettier --check chains/**/*.json",
     "prettier:write": "./node_modules/.bin/prettier --cache --write chains/**/*.json"

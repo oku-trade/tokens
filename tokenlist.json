@@ -1,6 +1,6 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-02-06T22:11:17.817Z",
+  "timestamp": "2025-02-07T00:18:12.761Z",
   "version": {
     "major": 27,
     "minor": 13,
@@ -40,7 +40,7 @@
       "logoURI": "https://cdn.oku.trade/logos/1/0x6985884c4392d348587b19cb9eaaf157f13271cd.png"
     },
     {
-      "address": "0x8236a87084f8b84306f72007f36f2618a5634494",
+      "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
       "name": "Lombard",
       "symbol": "LBTC",
       "decimals": 8,
@@ -48,7 +48,7 @@
       "logoURI": "https://cdn.oku.trade/logos/1/0x8236a87084f8b84306f72007f36f2618a5634494.png"
     },
     {
-      "address": "0x97ad75064b20fb2b2447fed4fa953bf7f007a706",
+      "address": "0x97Ad75064b20fb2B2447feD4fa953bF7F007a706",
       "name": "Berachain STONE",
       "symbol": "beraSTONE",
       "decimals": 18,
@@ -106,7 +106,7 @@
       "logoURI": "https://cdn.oku.trade/logos/1/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.png"
     },
     {
-      "address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+      "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
       "name": "Eigen",
       "symbol": "EIGEN",
       "decimals": 18,
@@ -122,7 +122,7 @@
       "logoURI": "https://cdn.oku.trade/logos/10/0x2416092f143378750bb29b79ed961ab195cceea5.png"
     },
     {
-      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
       "name": "USD Coin (Bridged from Ethereum)",
       "symbol": "USDC.e",
       "decimals": 6,
@@ -138,7 +138,7 @@
       "logoURI": "https://cdn.oku.trade/logos/10/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91.png"
     },
     {
-      "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+      "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
       "name": "Wrapped xDAI",
       "symbol": "WxDAI",
       "decimals": 18,
@@ -146,7 +146,7 @@
       "logoURI": "https://cdn.oku.trade/logos/100/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d.png"
     },
     {
-      "address": "0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5",
+      "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
       "name": "USD Coin",
       "symbol": "USDC.E",
       "decimals": 6,
@@ -154,7 +154,7 @@
       "logoURI": "https://cdn.oku.trade/logos/1101/0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5.png"
     },
     {
-      "address": "0x744c5860ba161b5316f7e80d9ec415e2727e5bd5",
+      "address": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -162,7 +162,7 @@
       "logoURI": "https://cdn.oku.trade/logos/1101/0x744c5860ba161b5316f7e80d9ec415e2727e5bd5.png"
     },
     {
-      "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+      "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
       "name": "Legacy Dai",
       "symbol": "DAI",
       "decimals": 18,
@@ -274,7 +274,7 @@
       "logoURI": "https://cdn.oku.trade/logos/137/0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6.png"
     },
     {
-      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "name": "USD Coin (PoS)",
       "symbol": "USDC.e",
       "decimals": 6,
@@ -322,7 +322,7 @@
       "logoURI": "https://cdn.oku.trade/logos/146/0x50c42deacd8fc9773493ed674b675be577f2634b.png"
     },
     {
-      "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+      "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
       "name": "Solv BTC",
       "symbol": "SolvBTC",
       "decimals": 18,
@@ -346,7 +346,7 @@
       "logoURI": "https://cdn.oku.trade/logos/146/0xe6cc4d855b4fd4a9d02f46b9adae4c5efb1764b5.png"
     },
     {
-      "address": "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
+      "address": "0x07d83526730c7438048D55A4fc0b850e2aaB6f0b",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -354,7 +354,7 @@
       "logoURI": "https://cdn.oku.trade/logos/167000/0x07d83526730c7438048d55a4fc0b850e2aab6f0b.png"
     },
     {
-      "address": "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c",
+      "address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
       "name": "Bridged USDC (Stargate)",
       "symbol": "USDC.e",
       "decimals": 6,
@@ -362,7 +362,7 @@
       "logoURI": "https://cdn.oku.trade/logos/167000/0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c.png"
     },
     {
-      "address": "0x2def195713cf4a606b49d07e520e22c17899a736",
+      "address": "0x2DEF195713CF4a606B49D07E520e22C17899a736",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -378,7 +378,7 @@
       "logoURI": "https://cdn.oku.trade/logos/167000/0x9c2dc7377717603eb92b2655c5f2e7997a4945bd.png"
     },
     {
-      "address": "0xa51894664a773981c6c112c43ce576f315d5b1b6",
+      "address": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
@@ -386,7 +386,7 @@
       "logoURI": "https://cdn.oku.trade/logos/167000/0xa51894664a773981c6c112c43ce576f315d5b1b6.png"
     },
     {
-      "address": "0xa9d23408b9ba935c230493c40c73824df71a0975",
+      "address": "0xA9d23408b9bA935c230493c40C73824Df71A0975",
       "name": "Taiko Token",
       "symbol": "TAIKO",
       "decimals": 18,
@@ -394,7 +394,7 @@
       "logoURI": "https://cdn.oku.trade/logos/167000/0xa9d23408b9ba935c230493c40c73824df71a0975.png"
     },
     {
-      "address": "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704",
+      "address": "0xc4C410459fbaF8f7F86b6cEE52b4fA1282FF9704",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -410,7 +410,7 @@
       "logoURI": "https://cdn.oku.trade/logos/167000/0xfe93132c6015bdf9d0b0f4329cb4cae8e6819a8d.png"
     },
     {
-      "address": "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
+      "address": "0x305E88d809c9DC03179554BFbf85Ac05Ce8F18d6",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
@@ -434,7 +434,7 @@
       "logoURI": "https://cdn.oku.trade/logos/169/0x91647632245cabf3d66121f86c387ae0ad295f9a.png"
     },
     {
-      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
+      "address": "0x95CeF13441Be50d20cA4558CC0a27B601aC544E5",
       "name": "Manta",
       "symbol": "MANTA",
       "decimals": 18,
@@ -442,15 +442,7 @@
       "logoURI": "https://cdn.oku.trade/logos/169/0x95cef13441be50d20ca4558cc0a27b601ac544e5.png"
     },
     {
-      "address": "0xbdad407f77f44f7da6684b416b1951eca461fb07",
-      "name": "Wrapped Mountain Protocol USD",
-      "symbol": "wUSDM",
-      "decimals": 18,
-      "chainId": 169,
-      "logoURI": "https://cdn.oku.trade/logos/169/0xbdad407f77f44f7da6684b416b1951eca461fb07.png"
-    },
-    {
-      "address": "0xe22e3d44ea9fb0a87ea3f7a8f41d869c677f0020",
+      "address": "0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020",
       "name": "Quickswap",
       "symbol": "QUICK",
       "decimals": 18,
@@ -458,7 +450,7 @@
       "logoURI": "https://cdn.oku.trade/logos/169/0xe22e3d44ea9fb0a87ea3f7a8f41d869c677f0020.png"
     },
     {
-      "address": "0xec901da9c68e90798bbbb74c11406a32a70652c3",
+      "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3",
       "name": "StakeStone Ether",
       "symbol": "STONE",
       "decimals": 18,
@@ -466,7 +458,15 @@
       "logoURI": "https://cdn.oku.trade/logos/169/0xec901da9c68e90798bbbb74c11406a32a70652c3.png"
     },
     {
-      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
+      "address": "0xbdAd407F77f44F7Da6684B416b1951ECa461FB07",
+      "name": "Wrapped Mountain Protocol USD",
+      "symbol": "wUSDM",
+      "decimals": 18,
+      "chainId": 169,
+      "logoURI": "https://cdn.oku.trade/logos/169/0xbdad407f77f44f7da6684b416b1951eca461fb07.png"
+    },
+    {
+      "address": "0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -514,7 +514,7 @@
       "logoURI": "https://cdn.oku.trade/logos/21000000/0x485bbc4f98c071c9bd74ac255262e61f866f071a.png"
     },
     {
-      "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+      "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
       "name": "Solv BTC",
       "symbol": "SolvBTC",
       "decimals": 18,
@@ -522,7 +522,7 @@
       "logoURI": "https://cdn.oku.trade/logos/21000000/0x541fd749419ca806a8bc7da8ac23d346f2df8b77.png"
     },
     {
-      "address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
+      "address": "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642",
       "name": "ether.fi BTC",
       "symbol": "eBTC",
       "decimals": 8,
@@ -554,6 +554,14 @@
       "logoURI": "https://cdn.oku.trade/logos/21000000/0xeaedd2b1b3f0fec6388a4d6b2fe500b59fd9f755.png"
     },
     {
+      "address": "0xF469fBD2abcd6B9de8E169d128226C0Fc90a012e",
+      "name": "pumpBTC",
+      "symbol": "pumpBTC",
+      "decimals": 8,
+      "chainId": 21000000,
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0xf469fbd2abcd6b9de8e169d128226c0fc90a012e.png"
+    },
+    {
       "address": "0xda5dDd7270381A7C2717aD10D1c0ecB19e3CDFb2",
       "name": "Wrapped Bitcorn",
       "symbol": "WBTCN",
@@ -570,15 +578,7 @@
       "logoURI": "https://cdn.oku.trade/logos/21000000/0xecac9c5f704e954931349da37f60e39f515c11c1.png"
     },
     {
-      "address": "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e",
-      "name": "pumpBTC",
-      "symbol": "pumpBTC",
-      "decimals": 8,
-      "chainId": 21000000,
-      "logoURI": "https://cdn.oku.trade/logos/21000000/0xf469fbd2abcd6b9de8e169d128226c0fc90a012e.png"
-    },
-    {
-      "address": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+      "address": "0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3",
       "name": "Lorenzo stBTC",
       "symbol": "stBTC",
       "decimals": 18,
@@ -634,7 +634,7 @@
       "logoURI": "https://cdn.oku.trade/logos/324/0x9929bcac4417a21d7e6fc86f6dae1cc7f27a2e41.png"
     },
     {
-      "address": "0xc1fa6e2e8667d9be0ca938a54c7e0285e9df924a",
+      "address": "0xc1Fa6E2E8667d9bE0Ca938a54c7E0285E9Df924a",
       "name": "Wrapped eETH",
       "symbol": "weETH",
       "decimals": 18,
@@ -642,7 +642,7 @@
       "logoURI": "https://cdn.oku.trade/logos/324/0xc1fa6e2e8667d9be0ca938a54c7e0285e9df924a.png"
     },
     {
-      "address": "0xd03465338226ea0178337f4abb16fdd6df529f57",
+      "address": "0xd03465338226ea0178337F4abb16FdD6df529F57",
       "name": "Interport Token",
       "symbol": "ITP",
       "decimals": 18,
@@ -658,7 +658,7 @@
       "logoURI": "https://cdn.oku.trade/logos/40/0x8d97cea50351fb4329d591682b148d43a0c3611b.png"
     },
     {
-      "address": "0xd102ce6a4db07d247fcc28f366a623df0938ca9e",
+      "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
       "name": "Wrapped TLOS",
       "symbol": "WTLOS",
       "decimals": 18,
@@ -674,7 +674,7 @@
       "logoURI": "https://cdn.oku.trade/logos/42161/0x2416092f143378750bb29b79ed961ab195cceea5.png"
     },
     {
-      "address": "0x2e9a6df78e42a30712c10a9dc4b1c8656f8f2879",
+      "address": "0x2e9a6Df78E42a30712c10a9Dc4b1C8656f8F2879",
       "name": "Maker",
       "symbol": "MKR",
       "decimals": 18,
@@ -690,6 +690,14 @@
       "logoURI": "https://cdn.oku.trade/logos/42161/0x3d2bd0e15829aa5c362a4144fdf4a1112fa29b5c.png"
     },
     {
+      "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+      "name": "SolvBTC Babylon",
+      "symbol": "SolvBTC.BBN",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://cdn.oku.trade/logos/42161/0xcc0966d8418d412c599a6421b760a847eb169a8c.png"
+    },
+    {
       "address": "0xDFB8BE6F8c87f74295A87de951974362CedCFA30",
       "name": "EdgeMatrix Computing network",
       "symbol": "EMC",
@@ -698,15 +706,7 @@
       "logoURI": "https://cdn.oku.trade/logos/42161/0xdfb8be6f8c87f74295a87de951974362cedcfa30.png"
     },
     {
-      "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
-      "name": "SolvBTC Babylon",
-      "symbol": "SolvBTC.BBN",
-      "decimals": 18,
-      "chainId": 42161,
-      "logoURI": "https://cdn.oku.trade/logos/42161/0xcc0966d8418d412c599a6421b760a847eb169a8c.png"
-    },
-    {
-      "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
       "name": "Bridged USDC",
       "symbol": "USDC.e",
       "decimals": 6,
@@ -786,7 +786,7 @@
       "logoURI": "https://cdn.oku.trade/logos/5000/0xe6829d9a7ee3040e1276fa75293bde931859e8fa.png"
     },
     {
-      "address": "0x17a60bb4649a7bb885d05c008d7118a5e513d895",
+      "address": "0x17a60bB4649A7Bb885d05c008D7118a5E513d895",
       "name": "BAGGOR",
       "symbol": "BAGGOR",
       "decimals": 18,
@@ -802,7 +802,7 @@
       "logoURI": "https://cdn.oku.trade/logos/534352/0x80137510979822322193fc997d400d5a6c747bf7.png"
     },
     {
-      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+      "address": "0xd29687c813D741E2F938F4aC377128810E217b1b",
       "name": "Scroll",
       "symbol": "SCR",
       "decimals": 18,
@@ -810,7 +810,7 @@
       "logoURI": "https://cdn.oku.trade/logos/534352/0xd29687c813d741e2f938f4ac377128810e217b1b.png"
     },
     {
-      "address": "0x03158f64179cff71ee3206024cee79d55b70ca9d",
+      "address": "0x03158F64179CfF71ee3206024CeE79D55B70CA9D",
       "name": "TREND BSC Token",
       "symbol": "TDT",
       "decimals": 2,
@@ -834,7 +834,7 @@
       "logoURI": "https://cdn.oku.trade/logos/59144/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png"
     },
     {
-      "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
+      "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -842,7 +842,7 @@
       "logoURI": "https://cdn.oku.trade/logos/59144/0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4.png"
     },
     {
-      "address": "0x5b16228b94b68c7ce33af2acc5663ebde4dcfa2d",
+      "address": "0x5B16228B94b68C7cE33AF2ACc5663eBdE4dCFA2d",
       "name": "ChainLink Token",
       "symbol": "LINK",
       "decimals": 18,
@@ -866,7 +866,7 @@
       "logoURI": "https://cdn.oku.trade/logos/59144/0x636b22bc471c955a8db60f28d4795066a8201fa3.png"
     },
     {
-      "address": "0x63ba74893621d3d12f13cec1e86517ec3d329837",
+      "address": "0x63bA74893621d3d12F13CEc1e86517eC3d329837",
       "name": "LUSD Stablecoin",
       "symbol": "LUSD",
       "decimals": 18,
@@ -874,7 +874,7 @@
       "logoURI": "https://cdn.oku.trade/logos/59144/0x63ba74893621d3d12f13cec1e86517ec3d329837.png"
     },
     {
-      "address": "0xb97f21d1f2508ff5c73e7b5af02847640b1ff75d",
+      "address": "0xB97F21D1f2508fF5c73E7B5AF02847640B1ff75d",
       "name": "LineaBank Token",
       "symbol": "LAB",
       "decimals": 18,
@@ -882,7 +882,7 @@
       "logoURI": "https://cdn.oku.trade/logos/59144/0xb97f21d1f2508ff5c73e7b5af02847640b1ff75d.png"
     },
     {
-      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+      "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -898,7 +898,7 @@
       "logoURI": "https://cdn.oku.trade/logos/60808/0x05d032ac25d322df992303dca074ee7392c117b9.png"
     },
     {
-      "address": "0x236f8c0a61da474db21b693fb2ea7aab0c803894",
+      "address": "0x236f8c0a61dA474dB21B693fB2ea7AAB0c803894",
       "name": "Universal BTC",
       "symbol": "uniBTC",
       "decimals": 8,
@@ -930,7 +930,7 @@
       "logoURI": "https://cdn.oku.trade/logos/60808/0x541fd749419ca806a8bc7da8ac23d346f2df8b77.png"
     },
     {
-      "address": "0x6c851f501a3f24e29a8e39a29591cddf09369080",
+      "address": "0x6c851F501a3F24E29A8E39a29591cddf09369080",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -946,6 +946,14 @@
       "logoURI": "https://cdn.oku.trade/logos/60808/0x78fea795cbfcc5ffd6fb5b845a4f53d25c283bdb.png"
     },
     {
+      "address": "0xA45d4121b3D47719FF57a947A9d961539Ba33204",
+      "name": "Lombard Staked Bitcoin",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "chainId": 60808,
+      "logoURI": "https://cdn.oku.trade/logos/60808/0xa45d4121b3d47719ff57a947a9d961539ba33204.png"
+    },
+    {
       "address": "0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2",
       "name": "tBTC v2",
       "symbol": "tBTC",
@@ -954,28 +962,20 @@
       "logoURI": "https://cdn.oku.trade/logos/60808/0xbba2ef945d523c4e2608c9e1214c2cc64d4fc2e2.png"
     },
     {
+      "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+      "name": "Fire Bitcoin",
+      "symbol": "FBTC",
+      "decimals": 8,
+      "chainId": 60808,
+      "logoURI": "https://cdn.oku.trade/logos/60808/0xc96de26018a54d51c097160568752c4e3bd6c364.png"
+    },
+    {
       "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
       "name": "SolvBTC Babylon",
       "symbol": "SolvBTC.BBN",
       "decimals": 18,
       "chainId": 60808,
       "logoURI": "https://cdn.oku.trade/logos/60808/0xcc0966d8418d412c599a6421b760a847eb169a8c.png"
-    },
-    {
-      "address": "0xa45d4121b3d47719ff57a947a9d961539ba33204",
-      "name": "Lombard Staked Bitcoin",
-      "symbol": "LBTC",
-      "decimals": 8,
-      "chainId": 60808,
-      "logoURI": "https://cdn.oku.trade/logos/60808/0xa45d4121b3d47719ff57a947a9d961539ba33204.png"
-    },
-    {
-      "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
-      "name": "Fire Bitcoin",
-      "symbol": "FBTC",
-      "decimals": 8,
-      "chainId": 60808,
-      "logoURI": "https://cdn.oku.trade/logos/60808/0xc96de26018a54d51c097160568752c4e3bd6c364.png"
     },
     {
       "address": "0xe75D0fB2C24A55cA1e3F96781a2bCC7bdba058F0",
@@ -1002,7 +1002,7 @@
       "logoURI": "https://cdn.oku.trade/logos/81457/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png"
     },
     {
-      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
       "name": "Renzo Restaked ETH",
       "symbol": "ezETH",
       "decimals": 18,
@@ -1010,15 +1010,7 @@
       "logoURI": "https://cdn.oku.trade/logos/81457/0x2416092f143378750bb29b79ed961ab195cceea5.png"
     },
     {
-      "address": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
-      "name": "Blast",
-      "symbol": "BLAST",
-      "decimals": 18,
-      "chainId": 81457,
-      "logoURI": "https://cdn.oku.trade/logos/81457/0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad.png"
-    },
-    {
-      "address": "0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692",
+      "address": "0xF7bc58b8D8f97ADC129cfC4c9f45Ce3C0E1D2692",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -1026,7 +1018,15 @@
       "logoURI": "https://cdn.oku.trade/logos/81457/0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692.png"
     },
     {
-      "address": "0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938",
+      "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+      "name": "Blast",
+      "symbol": "BLAST",
+      "decimals": 18,
+      "chainId": 81457,
+      "logoURI": "https://cdn.oku.trade/logos/81457/0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad.png"
+    },
+    {
+      "address": "0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938",
       "name": "USDz",
       "symbol": "USDz",
       "decimals": 18,
@@ -1066,7 +1066,7 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0x1b6a569dd61edce3c383f6d565e2f79ec3a12980.png"
     },
     {
-      "address": "0x1c93d155bd388241f9ab5df500d69eb529ce9583",
+      "address": "0x1c93d155bD388241F9AB5Df500D69eb529cE9583",
       "name": "Flaunchy",
       "symbol": "FLNCHY",
       "decimals": 18,
@@ -1122,7 +1122,7 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0x4379c13143eb91148ff9282cfb2f93536687a45b.png"
     },
     {
-      "address": "0x62d481eaeb30985b886f8f5b7bdf3a8386c3bc27",
+      "address": "0x62d481Eaeb30985B886F8f5B7BdF3a8386c3bC27",
       "name": "faina",
       "symbol": "FAINA",
       "decimals": 18,
@@ -1210,12 +1210,28 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xc8f716028344b0bc959878a88848108dd37fdaa3.png"
     },
     {
+      "address": "0xDCEFd8C8fCc492630B943ABcaB3429F12Ea9Fea2",
+      "name": "KlimaDAO",
+      "symbol": "KLIMA",
+      "decimals": 9,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xdcefd8c8fcc492630b943abcab3429f12ea9fea2.png"
+    },
+    {
       "address": "0xE3086852A4B125803C815a158249ae468A3254Ca",
       "name": "mfercoin",
       "symbol": "mfer",
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xe3086852a4b125803c815a158249ae468a3254ca.png"
+    },
+    {
+      "address": "0xF1B4ddF712E108cf43711B1C39f2fDDb0d5Ce243",
+      "name": "BrianArmstrongCoinbaseUSDC2012Normie",
+      "symbol": "BASE",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xf1b4ddf712e108cf43711b1c39f2fddb0d5ce243.png"
     },
     {
       "address": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
@@ -1250,7 +1266,7 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452.png"
     },
     {
-      "address": "0xc27468b12ffa6d714b1b5fbc87ef403f38b82ad4",
+      "address": "0xc27468b12ffA6d714B1b5fBC87eF403F38b82AD4",
       "name": "OFFICIAL TRUMP",
       "symbol": "TRUMP",
       "decimals": 18,
@@ -1258,7 +1274,7 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xc27468b12ffa6d714b1b5fbc87ef403f38b82ad4.png"
     },
     {
-      "address": "0xc3de830ea07524a0761646a6a4e4be0e114a3c83",
+      "address": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83",
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
@@ -1274,7 +1290,7 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xc4cb7b43f7f97d18b4c4a545b589f95ec06829fb.png"
     },
     {
-      "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
       "name": "Coinbase Wrapped BTC",
       "symbol": "cbBTC",
       "decimals": 8,
@@ -1290,7 +1306,7 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xd6af14b278a168660cfa3f10ac546c029c4aa191.png"
     },
     {
-      "address": "0xd722e55c1d9d9fa0021a5215cbb904b92b3dc5d4",
+      "address": "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4",
       "name": "Radiant",
       "symbol": "RDNT",
       "decimals": 18,
@@ -1304,14 +1320,6 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xd77cd13c2a72b20668bed8899321daf97404fd71.png"
-    },
-    {
-      "address": "0xdcefd8c8fcc492630b943abcab3429f12ea9fea2",
-      "name": "KlimaDAO",
-      "symbol": "KLIMA",
-      "decimals": 9,
-      "chainId": 8453,
-      "logoURI": "https://cdn.oku.trade/logos/8453/0xdcefd8c8fcc492630b943abcab3429f12ea9fea2.png"
     },
     {
       "address": "0xdf00fdE26A6819507649904Ca52FE5062eF75Ba7",
@@ -1328,14 +1336,6 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xebff2db643cf955247339c8c6bcd8406308ca437.png"
-    },
-    {
-      "address": "0xf1b4ddf712e108cf43711b1c39f2fddb0d5ce243",
-      "name": "BrianArmstrongCoinbaseUSDC2012Normie",
-      "symbol": "BASE",
-      "decimals": 18,
-      "chainId": 8453,
-      "logoURI": "https://cdn.oku.trade/logos/8453/0xf1b4ddf712e108cf43711b1c39f2fddb0d5ce243.png"
     },
     {
       "address": "0xfc6E858c43CA492934BdeF2A7fCBa80380279373",

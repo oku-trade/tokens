@@ -11,5 +11,8 @@ lint:
 validate:
 	yarn validate
 
+checksum:
+	yarn checksum
+
 list:
 	yarn list
