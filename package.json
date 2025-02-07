@@ -5,6 +5,7 @@
     "build": "yarn tsc",
     "validate": "yarn build && yarn node dist/validate.js",
     "checksum": "yarn build && yarn node dist/checksumUpdate.js",
+    "generate_token": "yarn build && yarn node dist/generateToken.js",
     "list": "yarn build && yarn node dist/list.js",
     "prettier:check": "./node_modules/.bin/prettier --check chains/**/*.json",
     "prettier:write": "./node_modules/.bin/prettier --cache --write chains/**/*.json"
@@ -14,6 +15,7 @@
     "@gfxlabs/oku-chains": "^1.1.161",
     "fs": "^0.0.1-security",
     "fs.promises": "^0.1.2",
+    "minimist": "^1.2.8",
     "path": "^0.12.7",
     "sharp": "^0.33.5",
     "typescript": "^5.7.3",
@@ -21,6 +23,7 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
+    "@types/minimist": "^1",
     "@types/node": "^22.12.0",
     "prettier": "^3.4.2"
   }

@@ -1482,6 +1482,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/minimist@npm:^1":
+  version: 1.2.5
+  resolution: "@types/minimist@npm:1.2.5"
+  checksum: 10/477047b606005058ab0263c4f58097136268007f320003c348794f74adedc3166ffc47c80ec3e94687787f2ab7f4e72c468223946e79892cf0fd9e25e9970a90
+  languageName: node
+  linkType: hard
+
 "@types/node@npm:^22.12.0":
   version: 22.12.0
   resolution: "@types/node@npm:22.12.0"
@@ -1611,15 +1618,24 @@ __metadata:
   languageName: node
   linkType: hard
 
+"minimist@npm:^1.2.8":
+  version: 1.2.8
+  resolution: "minimist@npm:1.2.8"
+  checksum: 10/908491b6cc15a6c440ba5b22780a0ba89b9810e1aea684e253e43c4e3b8d56ec1dcdd7ea96dde119c29df59c936cde16062159eae4225c691e19c70b432b6e6f
+  languageName: node
+  linkType: hard
+
 "oku-tokens@workspace:.":
   version: 0.0.0-use.local
   resolution: "oku-tokens@workspace:."
   dependencies:
     "@aws-sdk/client-s3": "npm:^3.740.0"
     "@gfxlabs/oku-chains": "npm:^1.1.161"
+    "@types/minimist": "npm:^1"
     "@types/node": "npm:^22.12.0"
     fs: "npm:^0.0.1-security"
     fs.promises: "npm:^0.1.2"
+    minimist: "npm:^1.2.8"
     path: "npm:^0.12.7"
     prettier: "npm:^3.4.2"
     sharp: "npm:^0.33.5"
