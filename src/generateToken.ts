@@ -45,7 +45,6 @@ async function main() {
     process.exit(1)
   }
 
-  // Get the properly checksummed token address using viem
   const tokenAddress: Address = getAddress(tokenAddressArg)
 
   const client = createPublicClient({
@@ -53,7 +52,6 @@ async function main() {
     transport: http(rpcUrl),
   })
 
-  // Make RPC calls to get token info
   const name = await client.readContract({
     address: tokenAddress,
     abi: erc20Abi,
@@ -79,18 +77,15 @@ async function main() {
     decimals,
   }
 
-  // Create directory structure: <chainId>/<tokenAddress>/
   const baseDir = path.join(process.cwd(), "chains/evm")
   const chainDir = path.join(baseDir, chainId.toString())
   const tokenDir = path.join(chainDir, tokenAddress)
   fs.mkdirSync(tokenDir, { recursive: true })
 
-  // Write info.json
   const infoPath = path.join(tokenDir, 'info.json')
   fs.writeFileSync(infoPath, JSON.stringify(tokenInfo, null, 2))
   console.log(`Token info file created at ${infoPath}`)
 
-  // Copy the logo file into tokenDir with its original filename
   const destLogoPath = path.join(tokenDir, 'logo.png')
   fs.copyFileSync(logoPath, destLogoPath)
   console.log(`Token logo copied to ${destLogoPath}`)
