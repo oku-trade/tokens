@@ -1,0 +1,9 @@
+{
+  "name": "Backed CSPX S&P 500",
+  "website": "https://backed.fi/",
+  "description": "bCSPX is a tokenized S&P 500 product, issued by Backed",
+  "explorer": "https://blockscout.com/xdai/mainnet/tokens/0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
+  "symbol": "bCSPX",
+  "decimals": 18,
+  "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59"
+}

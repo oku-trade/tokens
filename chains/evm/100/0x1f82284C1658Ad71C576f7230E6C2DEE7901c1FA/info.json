@@ -1,0 +1,9 @@
+{
+  "name": "Wrapped Backed Tesla",
+  "website": "https://backed.fi/",
+  "description": "wbTSLA is a wrapper of bTSLA, a  tokenized Tesla product, issued by Backed",
+  "explorer": "https://blockscout.com/xdai/mainnet/tokens/0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA",
+  "symbol": "wbTSLA",
+  "decimals": 18,
+  "address": "0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA"
+}

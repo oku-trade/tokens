@@ -1,0 +1,9 @@
+{
+  "name": "Wrapped Backed Strategy",
+  "website": "https://backed.fi/",
+  "description": "wbMSTR is a wrapper of bMSTR, a tokenized Strategy product, issued by Backed",
+  "explorer": "https://blockscout.com/xdai/mainnet/tokens/0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+  "symbol": "wbMSTR",
+  "decimals": 18,
+  "address": "0x1a4F71B0Ff3C22540887bcf83b50054a213c673d"
+}

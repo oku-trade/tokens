@@ -1,0 +1,9 @@
+{
+  "name": "Wrapped Backed Coinbase",
+  "website": "https://backed.fi/",
+  "description": "wbCOIN is a wrapper of bCOIN, a tokenized Coinbase product, issued by Backed",
+  "explorer": "https://blockscout.com/xdai/mainnet/tokens/0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+  "symbol": "wbCOIN",
+  "decimals": 18,
+  "address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F"
+}

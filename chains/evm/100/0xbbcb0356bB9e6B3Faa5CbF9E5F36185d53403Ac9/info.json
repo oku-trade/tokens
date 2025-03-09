@@ -1,0 +1,9 @@
+{
+  "name": "Backed Coinbase",
+  "website": "https://backed.fi/",
+  "description": "bCOIN is a tokenized Coinbase product, issued by Backed",
+  "explorer": "https://blockscout.com/xdai/mainnet/tokens/0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
+  "symbol": "bCOIN",
+  "decimals": 18,
+  "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9"
+}

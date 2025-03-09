@@ -1,0 +1,9 @@
+{
+  "name": "Backed NVIDIA",
+  "website": "https://backed.fi/",
+  "description": "bNVDA is a tokenized NVIDIA product, issued by Backed",
+  "explorer": "https://blockscout.com/xdai/mainnet/tokens/0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
+  "symbol": "bNVDA",
+  "decimals": 18,
+  "address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495"
+}

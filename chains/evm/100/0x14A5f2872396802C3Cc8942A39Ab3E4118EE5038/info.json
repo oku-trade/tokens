@@ -1,0 +1,9 @@
+{
+  "name": "Backed Tesla",
+  "website": "https://backed.fi/",
+  "description": "bTSLA is a tokenized Tesla product, issued by Backed",
+  "explorer": "https://blockscout.com/xdai/mainnet/tokens/0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
+  "symbol": "bTSLA",
+  "decimals": 18,
+  "address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038"
+}

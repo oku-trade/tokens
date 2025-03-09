@@ -1,0 +1,9 @@
+{
+  "name": "Backed Strategy",
+  "website": "https://backed.fi/",
+  "description": "bMSTR is a tokenized Strategy product, issued by Backed",
+  "explorer": "https://blockscout.com/xdai/mainnet/tokens/0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
+  "symbol": "bMSTR",
+  "decimals": 18,
+  "address": "0xaC28C9178ACc8BA4A11A29E013a3A2627086e422"
+}

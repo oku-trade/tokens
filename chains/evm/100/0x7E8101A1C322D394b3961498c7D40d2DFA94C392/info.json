@@ -1,0 +1,9 @@
+{
+  "name": "Wrapped Backed NVIDIA",
+  "website": "https://backed.fi/",
+  "description": "wbNVDA is a wrapper of bNVDA, a tokenized NVIDIA product, issued by Backed",
+  "explorer": "https://blockscout.com/xdai/mainnet/tokens/0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+  "symbol": "wbNVDA",
+  "decimals": 18,
+  "address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392"
+}
