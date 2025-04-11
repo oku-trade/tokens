@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-04-11T21:38:46.716Z",
+  "timestamp": "2025-04-11T23:38:45.350Z",
   "version": {
     "major": 33,
-    "minor": 193,
+    "minor": 194,
     "patch": 342
   },
   "tokens": [
@@ -2059,6 +2059,14 @@
       "decimals": 6,
       "chainId": 40,
       "logoURI": "https://cdn.oku.trade/logos/40/0x8d97cea50351fb4329d591682b148d43a0c3611b.png"
+    },
+    {
+      "address": "0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9",
+      "name": "USDM Stablecoin",
+      "symbol": "USDM",
+      "decimals": 18,
+      "chainId": 40,
+      "logoURI": "https://cdn.oku.trade/logos/40/0x8f7d64ea96d729ef24a0f30b4526d47b80d877b9.png"
     },
     {
       "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
