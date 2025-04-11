@@ -1,10 +1,10 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-03-28T17:42:22.683Z",
+  "timestamp": "2025-04-09T04:07:47.733Z",
   "version": {
     "major": 33,
-    "minor": 187,
-    "patch": 340
+    "minor": 191,
+    "patch": 342
   },
   "tokens": [
     {
@@ -1565,6 +1565,14 @@
       "logoURI": "https://cdn.oku.trade/logos/21000000/0x85adfa60ddf86b67e6fd493bd2c774b2ed772d14.png"
     },
     {
+      "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      "name": "USD₮0",
+      "symbol": "USD₮0",
+      "decimals": 6,
+      "chainId": 21000000,
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png"
+    },
+    {
       "address": "0xDF0B24095e15044538866576754F3C964e902Ee6",
       "name": "Bridged USDC",
       "symbol": "USDC.e",
@@ -1861,6 +1869,14 @@
       "logoURI": "https://cdn.oku.trade/logos/30/0x4e630f665a5e911eba14b4e850375613d6a05c06.png"
     },
     {
+      "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+      "name": "Solv BTC",
+      "symbol": "SolvBTC",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://cdn.oku.trade/logos/30/0x541fd749419ca806a8bc7da8ac23d346f2df8b77.png"
+    },
+    {
       "address": "0x5b0c93ED5e3Ab653CC5d1dD850c4bF8C0A1260c5",
       "name": "MicroStrategy Inc Tokenized by Sailing",
       "symbol": "MSTRs",
@@ -1915,6 +1931,14 @@
       "decimals": 18,
       "chainId": 30,
       "logoURI": "https://cdn.oku.trade/logos/30/0xb314095f4efd9cb0e800fc72a85878d9e3a4109b.png"
+    },
+    {
+      "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+      "name": "xSolvBTC",
+      "symbol": "xSolvBTC",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://cdn.oku.trade/logos/30/0xcc0966d8418d412c599a6421b760a847eb169a8c.png"
     },
     {
       "address": "0xDC661977F72973601621247B1F3c5E9eA624Fd38",
@@ -2171,6 +2195,14 @@
       "decimals": 18,
       "chainId": 43111,
       "logoURI": "https://cdn.oku.trade/logos/43111/0x6fd31f56eb971113bea12c5883dec68337b3b7b5.png"
+    },
+    {
+      "address": "0x78E26E8b953C7c78A58d69d8B9A91745C2BbB258",
+      "name": "uBTC",
+      "symbol": "uBTC",
+      "decimals": 18,
+      "chainId": 43111,
+      "logoURI": "https://cdn.oku.trade/logos/43111/0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258.png"
     },
     {
       "address": "0x7A06C4AeF988e7925575C50261297a946aD204A8",
