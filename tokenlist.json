@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-04-11T23:38:45.350Z",
+  "timestamp": "2025-04-12T13:56:25.923Z",
   "version": {
     "major": 33,
-    "minor": 194,
+    "minor": 195,
     "patch": 342
   },
   "tokens": [
@@ -1603,6 +1603,14 @@
       "decimals": 18,
       "chainId": 21000000,
       "logoURI": "https://cdn.oku.trade/logos/21000000/0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2.png"
+    },
+    {
+      "address": "0xe53dCec07d16D88e386AE0710E86d9a400f83c31",
+      "name": "Babylon",
+      "symbol": "BABY",
+      "decimals": 6,
+      "chainId": 21000000,
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0xe53dcec07d16d88e386ae0710e86d9a400f83c31.png"
     },
     {
       "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
