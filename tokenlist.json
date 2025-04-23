@@ -1,10 +1,10 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-04-18T21:44:31.927Z",
+  "timestamp": "2025-04-23T08:36:00.941Z",
   "version": {
     "major": 34,
     "minor": 195,
-    "patch": 342
+    "patch": 343
   },
   "tokens": [
     {
@@ -2278,7 +2278,7 @@
     },
     {
       "name": "Wrapped XDC",
-      "symbol": "WXCC",
+      "symbol": "WXDC",
       "decimals": 18,
       "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
       "chainId": 50,
