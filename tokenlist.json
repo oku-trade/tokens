@@ -1,8 +1,8 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-04-24T22:15:55.898Z",
+  "timestamp": "2025-05-01T20:06:04.471Z",
   "version": {
-    "major": 34,
+    "major": 35,
     "minor": 195,
     "patch": 343
   },
@@ -2267,6 +2267,14 @@
       "decimals": 6,
       "chainId": 43111,
       "logoURI": "https://cdn.oku.trade/logos/43111/0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e.png"
+    },
+    {
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "decimals": 18,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0x2416092f143378750bb29b79ed961ab195cceea5.png"
     },
     {
       "name": "Bridged USDC",
