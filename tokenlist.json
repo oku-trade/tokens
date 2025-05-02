@@ -1,8 +1,8 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-01T20:06:04.471Z",
+  "timestamp": "2025-05-02T15:50:46.024Z",
   "version": {
-    "major": 35,
+    "major": 36,
     "minor": 195,
     "patch": 343
   },
@@ -2571,6 +2571,22 @@
       "decimals": 18,
       "chainId": 60808,
       "logoURI": "https://cdn.oku.trade/logos/60808/0xecf21b335b41f9d5a89f6186a99c19a3c467871f.png"
+    },
+    {
+      "name": "Bridged USDC (Stargate)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "address": "0x0829F361A05D993d5CEb035cA6DF3446b060970b",
+      "chainId": 6900,
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x0829f361a05d993d5ceb035ca6df3446b060970b.png"
+    },
+    {
+      "name": "Wrapped NIBI",
+      "symbol": "WNIBI",
+      "decimals": 18,
+      "address": "0x1429B38e58b97de646ACd65fdb8a4502c2131484",
+      "chainId": 6900,
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x1429b38e58b97de646acd65fdb8a4502c2131484.png"
     },
     {
       "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
