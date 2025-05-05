@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-02T15:50:46.024Z",
+  "timestamp": "2025-05-05T16:55:34.691Z",
   "version": {
     "major": 36,
-    "minor": 195,
+    "minor": 196,
     "patch": 343
   },
   "tokens": [
@@ -1563,6 +1563,14 @@
       "decimals": 18,
       "chainId": 21000000,
       "logoURI": "https://cdn.oku.trade/logos/21000000/0x85adfa60ddf86b67e6fd493bd2c774b2ed772d14.png"
+    },
+    {
+      "name": "popCORN",
+      "symbol": "POPCORN",
+      "decimals": 18,
+      "address": "0x9Cf9F00F3498c2ac856097087e041523dfdD71fF",
+      "chainId": 21000000,
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0x9cf9f00f3498c2ac856097087e041523dfdd71ff.png"
     },
     {
       "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
