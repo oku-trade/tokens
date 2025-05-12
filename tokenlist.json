@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-07T19:59:35.269Z",
+  "timestamp": "2025-05-12T21:39:34.095Z",
   "version": {
     "major": 36,
-    "minor": 197,
+    "minor": 198,
     "patch": 343
   },
   "tokens": [
@@ -2600,9 +2600,9 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "address": "0x5e6e4f234c7Ad525700fcF5B7862589950589ed5",
+      "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555",
       "chainId": 6900,
-      "logoURI": "https://cdn.oku.trade/logos/6900/0x5e6e4f234c7ad525700fcf5b7862589950589ed5.png"
+      "logoURI": "https://cdn.oku.trade/logos/6900/0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555.png"
     },
     {
       "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
