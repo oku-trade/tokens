@@ -2150,8 +2150,8 @@
     },
     {
       "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
-      "name": "SolvBTC Babylon",
-      "symbol": "SolvBTC.BBN",
+      "name": "xSolvBTC",
+      "symbol": "xSolvBTC",
       "decimals": 18,
       "chainId": 42161,
       "logoURI": "https://cdn.oku.trade/logos/42161/0xcc0966d8418d412c599a6421b760a847eb169a8c.png"
@@ -2550,8 +2550,8 @@
     },
     {
       "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
-      "name": "SolvBTC Babylon",
-      "symbol": "SolvBTC.BBN",
+      "name": "xSolvBTC",
+      "symbol": "xSolvBTC",
       "decimals": 18,
       "chainId": 60808,
       "logoURI": "https://cdn.oku.trade/logos/60808/0xcc0966d8418d412c599a6421b760a847eb169a8c.png"
