@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-14T15:46:44.787Z",
+  "timestamp": "2025-05-14T16:21:52.015Z",
   "version": {
     "major": 36,
-    "minor": 199,
+    "minor": 200,
     "patch": 345
   },
   "tokens": [
@@ -2147,6 +2147,14 @@
       "decimals": 18,
       "chainId": 42161,
       "logoURI": "https://cdn.oku.trade/logos/42161/0x3d2bd0e15829aa5c362a4144fdf4a1112fa29b5c.png"
+    },
+    {
+      "name": "WrappedM by M^0",
+      "symbol": "wM",
+      "decimals": 6,
+      "address": "0x437cc33344a0B27A429f795ff6B469C72698B291",
+      "chainId": 42161,
+      "logoURI": "https://cdn.oku.trade/logos/42161/0x437cc33344a0b27a429f795ff6b469c72698b291.png"
     },
     {
       "address": "0x8e32B5499E7c2Bd1AF7204C2EE4F7e0b0015e6BA",
