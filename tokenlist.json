@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-14T16:21:52.015Z",
+  "timestamp": "2025-05-14T16:29:51.430Z",
   "version": {
     "major": 36,
-    "minor": 200,
+    "minor": 201,
     "patch": 345
   },
   "tokens": [
@@ -2411,6 +2411,14 @@
       "decimals": 4,
       "chainId": 56,
       "logoURI": "https://cdn.oku.trade/logos/56/0x71be881e9c5d4465b3fff61e89c6f3651e69b5bb.png"
+    },
+    {
+      "name": "Privasea AI",
+      "symbol": "PRAI",
+      "decimals": 18,
+      "address": "0x899357E54C2c4b014ea50A9A7Bf140bA6Df2eC73",
+      "chainId": 56,
+      "logoURI": "https://cdn.oku.trade/logos/56/0x899357e54c2c4b014ea50a9a7bf140ba6df2ec73.png"
     },
     {
       "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
