@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-13T16:03:01.843Z",
+  "timestamp": "2025-05-14T15:46:44.787Z",
   "version": {
     "major": 36,
-    "minor": 198,
+    "minor": 199,
     "patch": 345
   },
   "tokens": [
@@ -1259,6 +1259,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://cdn.oku.trade/logos/137/0xff60a9a00314681069c8fc3412fdf6bb76433b09.png"
+    },
+    {
+      "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 146,
+      "logoURI": "https://cdn.oku.trade/logos/146/0x29219dd400f2bf60e5a23d13be72b486d4038894.png"
     },
     {
       "address": "0x2fb960611bdC322A9a4A994252658Cae9fe2eeA1",
