@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-16T14:44:07.429Z",
+  "timestamp": "2025-05-16T16:02:58.854Z",
   "version": {
     "major": 36,
-    "minor": 202,
+    "minor": 203,
     "patch": 345
   },
   "tokens": [
@@ -2323,6 +2323,14 @@
       "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
       "chainId": 50,
       "logoURI": "https://cdn.oku.trade/logos/50/0x951857744785e80e2de051c32ee7b25f9c458c42.png"
+    },
+    {
+      "name": "PrimeStakedXDC",
+      "symbol": "psXDC",
+      "decimals": 18,
+      "address": "0x9B8e12b0BAC165B86967E771d98B520Ec3F665A6",
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0x9b8e12b0bac165b86967e771d98b520ec3f665a6.png"
     },
     {
       "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
