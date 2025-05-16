@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-14T16:29:51.430Z",
+  "timestamp": "2025-05-16T14:44:07.429Z",
   "version": {
     "major": 36,
-    "minor": 201,
+    "minor": 202,
     "patch": 345
   },
   "tokens": [
@@ -120,6 +120,14 @@
       "decimals": 18,
       "chainId": 10,
       "logoURI": "https://cdn.oku.trade/logos/10/0x2416092f143378750bb29b79ed961ab195cceea5.png"
+    },
+    {
+      "address": "0x5A7fACB970D094B6C7FF1df0eA68D99E6e73CBFF",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://cdn.oku.trade/logos/10/0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff.png"
     },
     {
       "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
