@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-19T13:31:22.917Z",
+  "timestamp": "2025-05-19T18:53:55.052Z",
   "version": {
     "major": 36,
-    "minor": 204,
+    "minor": 205,
     "patch": 345
   },
   "tokens": [
@@ -2643,6 +2643,14 @@
       "address": "0x1429B38e58b97de646ACd65fdb8a4502c2131484",
       "chainId": 6900,
       "logoURI": "https://cdn.oku.trade/logos/6900/0x1429b38e58b97de646acd65fdb8a4502c2131484.png"
+    },
+    {
+      "name": "Liquid Staked Nibiru",
+      "symbol": "stNIBI",
+      "decimals": 18,
+      "address": "0xcA0a9Fb5FBF692fa12fD13c0A900EC56Bb3f0a7b",
+      "chainId": 6900,
+      "logoURI": "https://cdn.oku.trade/logos/6900/0xca0a9fb5fbf692fa12fd13c0a900ec56bb3f0a7b.png"
     },
     {
       "name": "Wrapped Ether",
