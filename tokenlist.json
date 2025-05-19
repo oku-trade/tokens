@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-16T16:02:58.854Z",
+  "timestamp": "2025-05-19T13:31:22.917Z",
   "version": {
     "major": 36,
-    "minor": 203,
+    "minor": 204,
     "patch": 345
   },
   "tokens": [
@@ -2331,6 +2331,14 @@
       "address": "0x9B8e12b0BAC165B86967E771d98B520Ec3F665A6",
       "chainId": 50,
       "logoURI": "https://cdn.oku.trade/logos/50/0x9b8e12b0bac165b86967e771d98b520ec3f665a6.png"
+    },
+    {
+      "name": "Beny Bad Boy",
+      "symbol": "BBB",
+      "decimals": 18,
+      "address": "0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1",
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0xfa4ddcfa8e3d0475f544d0de469277cf6e0a6fd1.png"
     },
     {
       "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
