@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-19T20:55:41.980Z",
+  "timestamp": "2025-05-20T16:38:29.175Z",
   "version": {
     "major": 36,
-    "minor": 205,
+    "minor": 206,
     "patch": 345
   },
   "tokens": [
@@ -2075,6 +2075,14 @@
       "decimals": 8,
       "chainId": 40,
       "logoURI": "https://cdn.oku.trade/logos/40/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png"
+    },
+    {
+      "address": "0x568524DA340579887db50Ecf602Cd1BA8451b243",
+      "name": "MST",
+      "symbol": "MST",
+      "decimals": 18,
+      "chainId": 40,
+      "logoURI": "https://cdn.oku.trade/logos/40/0x568524da340579887db50ecf602cd1ba8451b243.png"
     },
     {
       "address": "0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8",
