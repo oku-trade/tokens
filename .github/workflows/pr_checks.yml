@@ -36,7 +36,12 @@ jobs:
         run: make setup
 
       - name: Lint and format
-        run: make lint
+        run: |
+          if ! make lint; then
+            echo ""
+            echo "❌ Linting failed. Run \`yarn biome check --write\` to fix formatting issues."
+            exit 1
+          fi
 
       - name: Validate code
         run: make validate
