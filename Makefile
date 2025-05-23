@@ -6,7 +6,7 @@ setup:
 	yarn install
 
 lint:
-	yarn format
+	yarn biome check
 
 validate:
 	yarn validate
