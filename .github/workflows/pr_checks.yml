@@ -35,8 +35,22 @@ jobs:
       - name: Setup environment
         run: make setup
 
-      - name: Lint code
-        run: make lint
+      - name: Run Prettier
+        run: make format 
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "GitHub Actions"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "style: autoformat with Prettier"
+            git push
+            echo "Formatting changes pushed, failing job to re-trigger workflow."
+            exit 1
+          else
+            echo "No formatting changes, proceeding to validation."
+          fi
 
       - name: Validate code
         run: make validate
