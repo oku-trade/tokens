@@ -10,14 +10,14 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.740.0",
+    "@aws-sdk/client-s3": "^3.817.0",
     "fs": "^0.0.1-security",
     "fs.promises": "^0.1.2",
     "path": "^0.12.7",
-    "sharp": "^0.33.5",
+    "sharp": "^0.34.2",
     "typescript": "^5.7.3",
-    "viem": "^2.23.5",
-    "zod": "^3.24.1"
+    "viem": "^2.30.0",
+    "zod": "^3.25.26"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
