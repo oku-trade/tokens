@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-20T16:38:29.175Z",
+  "timestamp": "2025-05-23T18:58:28.547Z",
   "version": {
     "major": 36,
-    "minor": 206,
+    "minor": 208,
     "patch": 345
   },
   "tokens": [
@@ -2341,12 +2341,28 @@
       "logoURI": "https://cdn.oku.trade/logos/50/0x9b8e12b0bac165b86967e771d98b520ec3f665a6.png"
     },
     {
+      "name": "Bridged USDC (Stargate)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "address": "0xCc0587aeBDa397146cc828b445dB130a94486e74",
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0xcc0587aebda397146cc828b445db130a94486e74.png"
+    },
+    {
       "name": "Beny Bad Boy",
       "symbol": "BBB",
       "decimals": 18,
       "address": "0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1",
       "chainId": 50,
       "logoURI": "https://cdn.oku.trade/logos/50/0xfa4ddcfa8e3d0475f544d0de469277cf6e0a6fd1.png"
+    },
+    {
+      "name": "Bridged stgUSDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555",
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555.png"
     },
     {
       "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
