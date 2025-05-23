@@ -5,11 +5,8 @@ setup:
 	corepack enable
 	yarn install
 
-format:
-	yarn prettier:write
-
 lint:
-	yarn prettier:check
+	yarn format
 
 validate:
 	yarn validate

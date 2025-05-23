@@ -1,5 +1,5 @@
-import { z } from "zod";
 import { isAddress } from "viem";
+import { z } from "zod";
 
 const HttpsUrl = z.string().refine(
   (url) => {

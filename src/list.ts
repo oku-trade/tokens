@@ -1,10 +1,9 @@
-import * as fs from "fs/promises";
 import * as path from "path";
 import { S3 } from "@aws-sdk/client-s3";
+import * as fs from "fs/promises";
 import sharp from "sharp";
 
-const GITHUB_RAW_BASE_URL =
-  "https://raw.githubusercontent.com/oku-trade/tokens/main";
+const GITHUB_RAW_BASE_URL = "https://raw.githubusercontent.com/oku-trade/tokens/main";
 
 interface Token {
   chainId: number;
@@ -41,17 +40,10 @@ const s3Client = new S3({
 });
 
 // Helper to upload and process a logo image.
-async function uploadLogoToR2(
-  logoPath: string,
-  chainId: number,
-  tokenAddress: string,
-): Promise<string> {
+async function uploadLogoToR2(logoPath: string, chainId: number, tokenAddress: string): Promise<string> {
   console.log(`Uploading logo for ${chainId}/${tokenAddress}`);
   const imageBuffer = await fs.readFile(logoPath);
-  const processedBuffer = await sharp(imageBuffer)
-    .resize(32, 32)
-    .png()
-    .toBuffer();
+  const processedBuffer = await sharp(imageBuffer).resize(32, 32).png().toBuffer();
   const key = `logos/${chainId}/${tokenAddress.toLowerCase()}.png`;
   try {
     await s3Client.putObject({
@@ -89,11 +81,7 @@ async function generateTokenList(baseDirectory: string, outputFile: string) {
         const logoFilePath = path.join(tokenFolderPath, "logo.png");
         try {
           await fs.access(logoFilePath);
-          tokenData.logoURI = await uploadLogoToR2(
-            logoFilePath,
-            chainId,
-            tokenFolder,
-          );
+          tokenData.logoURI = await uploadLogoToR2(logoFilePath, chainId, tokenFolder);
         } catch {
           // Fallback: use the GitHub raw URL if no logo.png is found.
           tokenData.logoURI = `${GITHUB_RAW_BASE_URL}/chains/${chainFolder}/${tokenFolder}/logo.png`;
@@ -145,15 +133,7 @@ async function generateTokenList(baseDirectory: string, outputFile: string) {
       }
     } else {
       const oldToken = oldTokenMap.get(key);
-      const fields: (keyof Token)[] = [
-        "name",
-        "symbol",
-        "decimals",
-        "website",
-        "description",
-        "explorer",
-        "logoURI",
-      ];
+      const fields: (keyof Token)[] = ["name", "symbol", "decimals", "website", "description", "explorer", "logoURI"];
       let changed = false;
       for (const field of fields) {
         if ((oldToken as any)[field] !== (token as any)[field]) {

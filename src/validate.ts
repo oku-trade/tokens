@@ -1,7 +1,7 @@
-import * as fs from "fs/promises";
 import * as path from "path";
-import { Token } from "./types";
+import * as fs from "fs/promises";
 import { actuallyStrictIsAddress } from "./isAddress";
+import { Token } from "./types";
 
 async function validateJsonFiles(baseDirectory: string) {
   const chainFolders = await fs.readdir(baseDirectory);
@@ -50,13 +50,7 @@ async function validateJsonFiles(baseDirectory: string) {
         const validationResult = Token.safeParse(jsonData);
 
         if (!validationResult.success) {
-          throw new Error(
-            `File ${infoFilePath} is invalid: ${JSON.stringify(
-              validationResult.error.errors,
-              null,
-              2,
-            )}`,
-          );
+          throw new Error(`File ${infoFilePath} is invalid: ${JSON.stringify(validationResult.error.errors, null, 2)}`);
         }
 
         // Ensure the token folder name matches the address in the JSON.
@@ -68,9 +62,7 @@ async function validateJsonFiles(baseDirectory: string) {
 
         console.log(`File ${infoFilePath} is valid.`);
       } catch (parseError) {
-        throw new Error(
-          `Error processing JSON in file ${infoFilePath}: ${parseError}`,
-        );
+        throw new Error(`Error processing JSON in file ${infoFilePath}: ${parseError}`);
       }
     }
   }

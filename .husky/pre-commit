@@ -1,0 +1,3 @@
+yarn install
+yarn format
+git add -A || git commit --no-verify -m "fmt"

@@ -1,6 +1,6 @@
-import { getAddress } from "viem";
-import { readdir, rename, readFile, writeFile } from "fs/promises";
 import * as path from "path";
+import { readFile, readdir, rename, writeFile } from "fs/promises";
+import { getAddress } from "viem";
 
 async function updateTokenFolders(baseDir: string) {
   const evmDir = path.join(baseDir, "chains", "evm");
@@ -19,9 +19,7 @@ async function updateTokenFolders(baseDir: string) {
       try {
         checksummed = getAddress(oldName);
       } catch (error) {
-        console.error(
-          `Skipping "${oldName}" in chain "${chainDir.name}": invalid Ethereum address`,
-        );
+        console.error(`Skipping "${oldName}" in chain "${chainDir.name}": invalid Ethereum address`);
         continue;
       }
 
@@ -34,21 +32,15 @@ async function updateTokenFolders(baseDir: string) {
         if (json.address !== checksummed) {
           json.address = checksummed;
           await writeFile(infoPath, JSON.stringify(json, null, 2), "utf-8");
-          console.log(
-            `Updated info.json in "${oldName}" in chain "${chainDir.name}"`,
-          );
+          console.log(`Updated info.json in "${oldName}" in chain "${chainDir.name}"`);
         }
       } catch (err: any) {
-        console.error(
-          `Error processing info.json in "${oldName}" in chain "${chainDir.name}": ${err.message}`,
-        );
+        console.error(`Error processing info.json in "${oldName}" in chain "${chainDir.name}": ${err.message}`);
       }
 
       if (oldName !== checksummed) {
         const newPath = path.join(chainPath, checksummed);
-        console.log(
-          `Renaming folder "${oldName}" -> "${checksummed}" in chain "${chainDir.name}"`,
-        );
+        console.log(`Renaming folder "${oldName}" -> "${checksummed}" in chain "${chainDir.name}"`);
         await rename(tokenDirPath, newPath);
       }
     }

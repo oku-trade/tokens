@@ -6,8 +6,8 @@
     "validate": "yarn build && yarn node dist/validate.js",
     "checksum": "yarn build && yarn node dist/checksumUpdate.js",
     "list": "yarn build && yarn node dist/list.js",
-    "prettier:check": "./node_modules/.bin/prettier --check chains/**/*.json",
-    "prettier:write": "./node_modules/.bin/prettier --cache --write chains/**/*.json"
+    "format": "yarn biome check --write",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.740.0",
@@ -20,7 +20,8 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.9.4",
     "@types/node": "^22.12.0",
-    "prettier": "^3.4.2"
+    "husky": "^9.1.7"
   }
 }

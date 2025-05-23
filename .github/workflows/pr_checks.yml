@@ -35,7 +35,7 @@ jobs:
       - name: Setup environment
         run: make setup
 
-      - name: Run Prettier
+      - name: Lint and format
         run: make lint
 
       - name: Validate code
