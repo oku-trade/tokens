@@ -56,17 +56,22 @@ The image should be square and no larger than 256x256 pixels or smaller than 64x
 1. **Fork the Repository:**  
    Create your fork and clone it locally.
 
-2. **Create a Branch:**  
+2. **Setup the repo:**
+   ```bash
+   yarn install && yarn prepare
+   ```
+
+3. **Create a Branch:**  
    Create a new branch for your changes.
    ```bash
    git checkout -b add-token-<token-name>
    ```
-3. **Add Token Information:**  
+4. **Add Token Information:**  
    Add the token information to the `info.json` file in the token folder.
-4. **Commit and Push:**  
+5. **Commit and Push:**  
    Commit your changes and push them to your fork.
-5. **Create a Pull Request:**  
+6. **Create a Pull Request:**  
    Create a pull request from your fork to the main repository.  
    Include a description of the changes you made.
-6. **Wait for Review:**  
+7. **Wait for Review:**  
    Wait for the reviewer to review your changes. They will provide feedback and suggestions if necessary.
