@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-27T15:03:40.304Z",
+  "timestamp": "2025-05-27T22:10:18.949Z",
   "version": {
     "major": 36,
-    "minor": 209,
+    "minor": 210,
     "patch": 345
   },
   "tokens": [
@@ -2675,9 +2675,9 @@
       "name": "Wrapped NIBI",
       "symbol": "WNIBI",
       "decimals": 18,
-      "address": "0x1429B38e58b97de646ACd65fdb8a4502c2131484",
+      "address": "0x0CaCF669f8446BeCA826913a3c6B96aCD4b02a97",
       "chainId": 6900,
-      "logoURI": "https://cdn.oku.trade/logos/6900/0x1429b38e58b97de646acd65fdb8a4502c2131484.png"
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x0cacf669f8446beca826913a3c6b96acd4b02a97.png"
     },
     {
       "name": "Liquid Staked Nibiru",
