@@ -1,8 +1,8 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-27T22:10:18.949Z",
+  "timestamp": "2025-05-28T19:38:09.281Z",
   "version": {
-    "major": 36,
+    "major": 37,
     "minor": 210,
     "patch": 345
   },
@@ -2222,6 +2222,14 @@
       "decimals": 6,
       "chainId": 42220,
       "logoURI": "https://cdn.oku.trade/logos/42220/0x617f3112bf5397d0467d315cc709ef968d9ba546.png"
+    },
+    {
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+      "chainId": 42793,
+      "logoURI": "https://cdn.oku.trade/logos/42793/0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab.png"
     },
     {
       "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
