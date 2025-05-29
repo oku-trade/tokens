@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-05-28T21:22:22.396Z",
+  "timestamp": "2025-05-29T19:32:50.621Z",
   "version": {
     "major": 37,
-    "minor": 211,
+    "minor": 214,
     "patch": 345
   },
   "tokens": [
@@ -2224,6 +2224,22 @@
       "logoURI": "https://cdn.oku.trade/logos/42220/0x617f3112bf5397d0467d315cc709ef968d9ba546.png"
     },
     {
+      "address": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 42793,
+      "logoURI": "https://cdn.oku.trade/logos/42793/0x2c03058c8afc06713be23e58d2febc8337dbfe6a.png"
+    },
+    {
+      "address": "0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 42793,
+      "logoURI": "https://cdn.oku.trade/logos/42793/0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9.png"
+    },
+    {
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -2238,6 +2254,14 @@
       "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
       "chainId": 42793,
       "logoURI": "https://cdn.oku.trade/logos/42793/0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab.png"
+    },
+    {
+      "address": "0xfc24f770F94edBca6D6f885E12d4317320BcB401",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 42793,
+      "logoURI": "https://cdn.oku.trade/logos/42793/0xfc24f770f94edbca6d6f885e12d4317320bcb401.png"
     },
     {
       "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
