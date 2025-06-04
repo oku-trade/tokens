@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-03T02:08:58.306Z",
+  "timestamp": "2025-06-04T20:09:34.822Z",
   "version": {
     "major": 37,
-    "minor": 215,
+    "minor": 216,
     "patch": 348
   },
   "tokens": [
@@ -2174,6 +2174,14 @@
       "decimals": 18,
       "chainId": 42161,
       "logoURI": "https://cdn.oku.trade/logos/42161/0x2e9a6df78e42a30712c10a9dc4b1c8656f8f2879.png"
+    },
+    {
+      "address": "0x3572f8f8c2d8F4Ec9469bb1c8573439C7500771E",
+      "name": "KNOW",
+      "symbol": "KNOW",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://cdn.oku.trade/logos/42161/0x3572f8f8c2d8f4ec9469bb1c8573439c7500771e.png"
     },
     {
       "address": "0x3d2bD0e15829AA5C362a4144FdF4A1112fa29B5c",
