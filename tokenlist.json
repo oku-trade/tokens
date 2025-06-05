@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-04T20:09:34.822Z",
+  "timestamp": "2025-06-05T23:10:31.976Z",
   "version": {
     "major": 37,
-    "minor": 216,
+    "minor": 220,
     "patch": 348
   },
   "tokens": [
@@ -96,6 +96,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0xa84f95eb3dabdc1bbd613709ef5f2fd42ce5be8d.png"
+    },
+    {
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab.png"
     },
     {
       "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
@@ -2200,6 +2208,14 @@
       "logoURI": "https://cdn.oku.trade/logos/42161/0x437cc33344a0b27a429f795ff6b469c72698b291.png"
     },
     {
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "address": "0x7424f00845777A06E21F0bd8873f814A8A814B2D",
+      "chainId": 42161,
+      "logoURI": "https://cdn.oku.trade/logos/42161/0x7424f00845777a06e21f0bd8873f814a8a814b2d.png"
+    },
+    {
       "address": "0x8e32B5499E7c2Bd1AF7204C2EE4F7e0b0015e6BA",
       "name": "Apple Inc Tokenized by Sailing",
       "symbol": "AAPLs",
@@ -2534,6 +2550,14 @@
       "address": "0x899357E54C2c4b014ea50A9A7Bf140bA6Df2eC73",
       "chainId": 56,
       "logoURI": "https://cdn.oku.trade/logos/56/0x899357e54c2c4b014ea50a9a7bf140ba6df2ec73.png"
+    },
+    {
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "address": "0x91F9cc2649ac70a071602cadE9b0C1A5868af51D",
+      "chainId": 56,
+      "logoURI": "https://cdn.oku.trade/logos/56/0x91f9cc2649ac70a071602cade9b0c1a5868af51d.png"
     },
     {
       "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
@@ -3022,6 +3046,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0x8592354fe71bc73544602227edf5bf59a500d9d2.png"
+    },
+    {
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "address": "0x91F9cc2649ac70a071602cadE9b0C1A5868af51D",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x91f9cc2649ac70a071602cade9b0c1a5868af51d.png"
     },
     {
       "address": "0x971e007444126Cc0939c658405B4D1ba4Dd6f635",
