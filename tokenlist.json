@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-05T23:10:31.976Z",
+  "timestamp": "2025-06-09T20:29:14.910Z",
   "version": {
     "major": 37,
-    "minor": 220,
+    "minor": 222,
     "patch": 348
   },
   "tokens": [
@@ -2166,6 +2166,22 @@
       "decimals": 6,
       "chainId": 40,
       "logoURI": "https://cdn.oku.trade/logos/40/0xf1815bd50389c46847f0bda824ec8da914045d14.png"
+    },
+    {
+      "address": "0xaf89115201AE5E89E77cd21E2960546f4f82A3Cf",
+      "name": "DEFLATION, BABY.",
+      "symbol": "DEFLATION",
+      "decimals": 18,
+      "chainId": 40,
+      "logoURI": "https://cdn.oku.trade/logos/40/0xaf89115201ae5e89e77cd21e2960546f4f82a3cf.png"
+    },
+    {
+      "address": "0xee327F30dA53B42cCF80A6b86f818702365ef954",
+      "name": "GM",
+      "symbol": "GM",
+      "decimals": 18,
+      "chainId": 40,
+      "logoURI": "https://cdn.oku.trade/logos/40/0xee327f30da53b42ccf80a6b86f818702365ef954.png"
     },
     {
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
