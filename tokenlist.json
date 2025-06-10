@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-09T20:29:14.910Z",
+  "timestamp": "2025-06-10T16:20:07.416Z",
   "version": {
     "major": 37,
-    "minor": 222,
+    "minor": 223,
     "patch": 348
   },
   "tokens": [
@@ -2454,6 +2454,14 @@
       "address": "0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1",
       "chainId": 50,
       "logoURI": "https://cdn.oku.trade/logos/50/0xfa4ddcfa8e3d0475f544d0de469277cf6e0a6fd1.png"
+    },
+    {
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0xa7348290de5cf01772479c48D50dec791c3fC212",
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0xa7348290de5cf01772479c48d50dec791c3fc212.png"
     },
     {
       "name": "Bridged stgUSDT",
