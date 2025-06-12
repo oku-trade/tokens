@@ -1,10 +1,10 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-10T16:20:07.416Z",
+  "timestamp": "2025-06-12T22:18:58.069Z",
   "version": {
     "major": 37,
     "minor": 223,
-    "patch": 348
+    "patch": 349
   },
   "tokens": [
     {
@@ -2786,7 +2786,7 @@
     {
       "name": "Liquid Staked Nibiru",
       "symbol": "stNIBI",
-      "decimals": 18,
+      "decimals": 6,
       "address": "0xcA0a9Fb5FBF692fa12fD13c0A900EC56Bb3f0a7b",
       "chainId": 6900,
       "logoURI": "https://cdn.oku.trade/logos/6900/0xca0a9fb5fbf692fa12fd13c0a900ec56bb3f0a7b.png"
