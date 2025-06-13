@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-13T22:32:30.934Z",
+  "timestamp": "2025-06-13T22:38:54.492Z",
   "version": {
     "major": 37,
-    "minor": 224,
+    "minor": 225,
     "patch": 349
   },
   "tokens": [
@@ -2446,6 +2446,14 @@
       "address": "0x9B8e12b0BAC165B86967E771d98B520Ec3F665A6",
       "chainId": 50,
       "logoURI": "https://cdn.oku.trade/logos/50/0x9b8e12b0bac165b86967e771d98b520ec3f665a6.png"
+    },
+    {
+      "address": "0xC6Ae1Db6C66d909F7bFEeEb24F9adb8620bf9dbf",
+      "name": "USDC@xinfin",
+      "symbol": "xUSDC",
+      "decimals": 6,
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0xc6ae1db6c66d909f7bfeeeb24f9adb8620bf9dbf.png"
     },
     {
       "name": "Bridged USDC (Stargate)",
