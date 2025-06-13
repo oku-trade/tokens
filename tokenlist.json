@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-12T22:18:58.069Z",
+  "timestamp": "2025-06-13T22:32:30.934Z",
   "version": {
     "major": 37,
-    "minor": 223,
+    "minor": 224,
     "patch": 349
   },
   "tokens": [
@@ -1814,6 +1814,14 @@
       "decimals": 18,
       "chainId": 2345,
       "logoURI": "https://cdn.oku.trade/logos/2345/0x02f294cc9ceb2c80fba3fd779e17fe191cc360c4.png"
+    },
+    {
+      "address": "0x0Af53Ac69d6d8025bb65B20942C24CD77ABc9594",
+      "name": "Goat Launcher",
+      "symbol": "GoLa",
+      "decimals": 18,
+      "chainId": 2345,
+      "logoURI": "https://cdn.oku.trade/logos/2345/0x0af53ac69d6d8025bb65b20942c24cd77abc9594.png"
     },
     {
       "address": "0x1E0d0303a8c4aD428953f5ACB1477dB42bb838cf",
