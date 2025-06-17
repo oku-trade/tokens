@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-13T22:38:54.492Z",
+  "timestamp": "2025-06-17T15:38:20.917Z",
   "version": {
     "major": 37,
-    "minor": 225,
+    "minor": 226,
     "patch": 349
   },
   "tokens": [
@@ -2694,6 +2694,14 @@
       "decimals": 18,
       "chainId": 60808,
       "logoURI": "https://cdn.oku.trade/logos/60808/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "address": "0x4CBE838E2BD3B46247f80519B6aC79363298aa09",
+      "name": "SatLayer uniBTC",
+      "symbol": "satUniBTC",
+      "decimals": 8,
+      "chainId": 60808,
+      "logoURI": "https://cdn.oku.trade/logos/60808/0x4cbe838e2bd3b46247f80519b6ac79363298aa09.png"
     },
     {
       "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
