@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-17T15:38:20.917Z",
+  "timestamp": "2025-06-18T14:51:30.735Z",
   "version": {
     "major": 37,
-    "minor": 226,
+    "minor": 227,
     "patch": 349
   },
   "tokens": [
@@ -2310,6 +2310,14 @@
       "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
       "chainId": 42793,
       "logoURI": "https://cdn.oku.trade/logos/42793/0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab.png"
+    },
+    {
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "name": "Lombard Staked BTC",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "chainId": 42793,
+      "logoURI": "https://cdn.oku.trade/logos/42793/0xecac9c5f704e954931349da37f60e39f515c11c1.png"
     },
     {
       "address": "0xfc24f770F94edBca6D6f885E12d4317320BcB401",
