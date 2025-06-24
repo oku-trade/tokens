@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-18T14:51:30.735Z",
+  "timestamp": "2025-06-24T18:38:32.116Z",
   "version": {
     "major": 37,
-    "minor": 227,
+    "minor": 228,
     "patch": 349
   },
   "tokens": [
@@ -2814,6 +2814,14 @@
       "address": "0x0CaCF669f8446BeCA826913a3c6B96aCD4b02a97",
       "chainId": 6900,
       "logoURI": "https://cdn.oku.trade/logos/6900/0x0cacf669f8446beca826913a3c6b96acd4b02a97.png"
+    },
+    {
+      "name": "Bridged USDT (Stargate)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0x43F2376D5D03553aE72F4A8093bbe9de4336EB08",
+      "chainId": 6900,
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x43f2376d5d03553ae72f4a8093bbe9de4336eb08.png"
     },
     {
       "name": "Liquid Staked Nibiru",
