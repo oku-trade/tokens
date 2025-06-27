@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-24T21:28:45.108Z",
+  "timestamp": "2025-06-27T18:46:52.833Z",
   "version": {
     "major": 37,
-    "minor": 228,
+    "minor": 229,
     "patch": 349
   },
   "tokens": [
@@ -38,6 +38,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0x6985884c4392d348587b19cb9eaaf157f13271cd.png"
+    },
+    {
+      "address": "0x69fA6e8F2ff28D66EbBb781d2f29F0896492568D",
+      "name": "Froggie",
+      "symbol": "FROGGIE",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x69fa6e8f2ff28d66ebbb781d2f29f0896492568d.png"
     },
     {
       "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
