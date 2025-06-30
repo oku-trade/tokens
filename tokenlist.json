@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-27T18:46:52.833Z",
+  "timestamp": "2025-06-30T16:09:09.805Z",
   "version": {
     "major": 37,
-    "minor": 229,
+    "minor": 230,
     "patch": 349
   },
   "tokens": [
@@ -822,6 +822,14 @@
       "decimals": 6,
       "chainId": 1329,
       "logoURI": "https://cdn.oku.trade/logos/1329/0xb75d0b03c06a926e488e2659df1a861f860bd3d1.png"
+    },
+    {
+      "address": "0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
+      "name": "POCHITA",
+      "symbol": "POCHITA",
+      "decimals": 18,
+      "chainId": 1329,
+      "logoURI": "https://cdn.oku.trade/logos/1329/0xcf40acbed3f6307c33bf00680c9edae8f7d789ff.png"
     },
     {
       "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
