@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-06-30T16:09:09.805Z",
+  "timestamp": "2025-07-01T21:15:06.956Z",
   "version": {
     "major": 37,
-    "minor": 230,
+    "minor": 237,
     "patch": 349
   },
   "tokens": [
@@ -22,6 +22,30 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0x56072c95faa701256059aa122697b133aded9279.png"
+    },
+    {
+      "address": "0x5C5b196aBE0d54485975D1Ec29617D42D9198326",
+      "name": "Elixir Staked deUSD",
+      "symbol": "SDEUSD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x5c5b196abe0d54485975d1ec29617d42d9198326.png"
+    },
+    {
+      "address": "0x64351fC9810aDAd17A690E4e1717Df5e7e085160",
+      "name": "Metronome Synth ETH",
+      "symbol": "msETH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x64351fc9810adad17a690e4e1717df5e7e085160.png"
+    },
+    {
+      "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+      "name": "Resolv USR",
+      "symbol": "USR",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110.png"
     },
     {
       "address": "0x69420E3A3aa9E17Dea102Bb3a9b3B73dcDDB9528",
@@ -2896,6 +2920,14 @@
       "logoURI": "https://cdn.oku.trade/logos/81457/0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad.png"
     },
     {
+      "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+      "name": "Angle Staked USDA",
+      "symbol": "stUSD",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x0022228a2cc5e7ef0274a7baa600d44da5ab5776.png"
+    },
+    {
       "address": "0x004975F0005b1e2E78c29EAF8434794dC9C52c30",
       "name": "Goldman Sachs Physical Gold ETF Tokenized by Sailing",
       "symbol": "AAAUs",
@@ -3152,6 +3184,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0x9a26f5433671751c3276a065f57e5a02d2817973.png"
     },
     {
+      "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+      "name": "EURA",
+      "symbol": "EURA",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xa61beb4a3d02decb01039e378237032b351125b4.png"
+    },
+    {
       "address": "0xA66F83f38043ebE4D51Fc6A6292B06F310A6a11A",
       "name": "AMC Entertainment Holdings Inc Tokenized by Sailing",
       "symbol": "AMCs",
@@ -3174,6 +3214,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xbab990e0d6c094d57e8e6d30dfc3177a4e018b82.png"
+    },
+    {
+      "address": "0xC31389794Ffac23331E0D9F611b7953f90AA5fDC",
+      "name": "Resolv Liquidity Provider Token",
+      "symbol": "RLP",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xc31389794ffac23331e0d9f611b7953f90aa5fdc.png"
     },
     {
       "address": "0xC8f716028344B0BC959878a88848108Dd37FDaa3",
@@ -3206,6 +3254,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xe3086852a4b125803c815a158249ae468a3254ca.png"
+    },
+    {
+      "address": "0xEDfa23602D0EC14714057867A78d01e94176BEA0",
+      "name": "Wrapped rsETH",
+      "symbol": "WRSETH",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xedfa23602d0ec14714057867a78d01e94176bea0.png"
     },
     {
       "address": "0xF1B4ddF712E108cf43711B1C39f2fDDb0d5Ce243",
