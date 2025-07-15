@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-07-01T21:19:41.093Z",
+  "timestamp": "2025-07-15T15:47:39.153Z",
   "version": {
     "major": 37,
-    "minor": 238,
+    "minor": 239,
     "patch": 349
   },
   "tokens": [
@@ -2014,6 +2014,14 @@
       "decimals": 6,
       "chainId": 30,
       "logoURI": "https://cdn.oku.trade/logos/30/0x74c9f2b00581f1b11aa7ff05aa9f608b7389de67.png"
+    },
+    {
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "name": "USD₮0",
+      "symbol": "USD₮0",
+      "decimals": 6,
+      "chainId": 30,
+      "logoURI": "https://cdn.oku.trade/logos/30/0x779ded0c9e1022225f8e0630b35a9b54be713736.png"
     },
     {
       "address": "0x91B26F71D8b6F78b7BdaDd557c20727232C4bF2c",
