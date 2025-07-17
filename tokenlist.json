@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-07-15T15:47:39.153Z",
+  "timestamp": "2025-07-17T13:37:54.817Z",
   "version": {
     "major": 37,
-    "minor": 239,
+    "minor": 240,
     "patch": 349
   },
   "tokens": [
@@ -2478,6 +2478,14 @@
       "decimals": 18,
       "chainId": 480,
       "logoURI": "https://cdn.oku.trade/logos/480/0x2416092f143378750bb29b79ed961ab195cceea5.png"
+    },
+    {
+      "address": "0x79A02482A880bCE3F13e09Da970dC34db4CD24d1",
+      "name": "Bridged USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0x79a02482a880bce3f13e09da970dc34db4cd24d1.png"
     },
     {
       "name": "Bridged USDC",
