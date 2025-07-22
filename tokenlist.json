@@ -1,10 +1,10 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-07-17T13:37:54.817Z",
+  "timestamp": "2025-07-22T13:56:01.901Z",
   "version": {
     "major": 37,
-    "minor": 240,
-    "patch": 349
+    "minor": 241,
+    "patch": 350
   },
   "tokens": [
     {
@@ -825,8 +825,8 @@
     },
     {
       "address": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
-      "name": "USD Coin",
-      "symbol": "USDC",
+      "name": "USDC via Noble",
+      "symbol": "USDC.n",
       "decimals": 6,
       "chainId": 1329,
       "logoURI": "https://cdn.oku.trade/logos/1329/0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1.png"
@@ -862,6 +862,14 @@
       "decimals": 18,
       "chainId": 1329,
       "logoURI": "https://cdn.oku.trade/logos/1329/0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7.png"
+    },
+    {
+      "address": "0xe15fC38F6D8c56aF07bbCBe3BAf5708A2Bf42392",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1329,
+      "logoURI": "https://cdn.oku.trade/logos/1329/0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392.png"
     },
     {
       "address": "0x07E75874150b39d01ea83a1d428dA8B27d35Ed8e",
