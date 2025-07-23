@@ -1,8 +1,8 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-07-22T13:56:01.901Z",
+  "timestamp": "2025-07-23T15:54:01.074Z",
   "version": {
-    "major": 37,
+    "major": 38,
     "minor": 241,
     "patch": 350
   },
@@ -2902,6 +2902,22 @@
       "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555",
       "chainId": 6900,
       "logoURI": "https://cdn.oku.trade/logos/6900/0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555.png"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 698,
+      "logoURI": "https://cdn.oku.trade/logos/698/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "address": "0x679Dc08cC3A4acFeea2f7CAFAa37561aE0b41Ce7",
+      "name": "Bridged USDC (Hyperlane)",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 698,
+      "logoURI": "https://cdn.oku.trade/logos/698/0x679dc08cc3a4acfeea2f7cafaa37561ae0b41ce7.png"
     },
     {
       "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
