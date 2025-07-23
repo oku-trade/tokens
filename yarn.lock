@@ -760,6 +760,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@gfxlabs/oku-chains@npm:^1.1.269":
+  version: 1.1.269
+  resolution: "@gfxlabs/oku-chains@npm:1.1.269"
+  peerDependencies:
+    viem: 2.x
+  checksum: 10/327ca55841b935a3419bd985366a5137e09eae4350704358dee96e7b8af6c8e03db1b9d79b1bc922a1da76e2ce14345f335ac62344313d9874de643a76f624ab
+  languageName: node
+  linkType: hard
+
 "@img/sharp-darwin-arm64@npm:0.34.2":
   version: 0.34.2
   resolution: "@img/sharp-darwin-arm64@npm:0.34.2"
@@ -1759,6 +1768,7 @@ __metadata:
   dependencies:
     "@aws-sdk/client-s3": "npm:^3.817.0"
     "@biomejs/biome": "npm:1.9.4"
+    "@gfxlabs/oku-chains": "npm:^1.1.269"
     "@types/node": "npm:^22.12.0"
     fs: "npm:^0.0.1-security"
     fs.promises: "npm:^0.1.2"
