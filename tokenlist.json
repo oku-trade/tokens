@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-07-23T15:54:01.074Z",
+  "timestamp": "2025-07-24T16:24:05.271Z",
   "version": {
     "major": 38,
-    "minor": 241,
+    "minor": 242,
     "patch": 350
   },
   "tokens": [
@@ -2910,6 +2910,14 @@
       "decimals": 18,
       "chainId": 698,
       "logoURI": "https://cdn.oku.trade/logos/698/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "address": "0x44a83a012B926853DFc1BBE2ec5BEf37126067e8",
+      "name": "Matchain",
+      "symbol": "MAT",
+      "decimals": 18,
+      "chainId": 698,
+      "logoURI": "https://cdn.oku.trade/logos/698/0x44a83a012b926853dfc1bbe2ec5bef37126067e8.png"
     },
     {
       "address": "0x679Dc08cC3A4acFeea2f7CAFAa37561aE0b41Ce7",
