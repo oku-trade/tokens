@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-07-31T04:43:10.869Z",
+  "timestamp": "2025-07-31T15:57:08.831Z",
   "version": {
     "major": 38,
-    "minor": 246,
+    "minor": 247,
     "patch": 350
   },
   "tokens": [
@@ -2470,6 +2470,14 @@
       "decimals": 8,
       "chainId": 43111,
       "logoURI": "https://cdn.oku.trade/logos/43111/0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28.png"
+    },
+    {
+      "address": "0xaFB068838136358CFa6B54BEa580B86DF70BBA7f",
+      "name": "exSat Staking BTC",
+      "symbol": "esBTC",
+      "decimals": 18,
+      "chainId": 43111,
+      "logoURI": "https://cdn.oku.trade/logos/43111/0xafb068838136358cfa6b54bea580b86df70bba7f.png"
     },
     {
       "address": "0xad11a8BEb98bbf61dbb1aa0F6d6F2ECD87b35afA",
