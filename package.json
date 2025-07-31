@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.817.0",
+    "@gfxlabs/oku-chains": "^1.1.269",
     "fs": "^0.0.1-security",
     "fs.promises": "^0.1.2",
     "path": "^0.12.7",
