@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-07-31T17:15:23.839Z",
+  "timestamp": "2025-08-04T16:18:58.669Z",
   "version": {
     "major": 38,
-    "minor": 249,
+    "minor": 250,
     "patch": 351
   },
   "tokens": [
@@ -1974,6 +1974,14 @@
       "decimals": 18,
       "chainId": 30,
       "logoURI": "https://cdn.oku.trade/logos/30/0x1ba24afc90d41e86f7f722659f68f4b176e3116b.png"
+    },
+    {
+      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://cdn.oku.trade/logos/30/0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590.png"
     },
     {
       "address": "0x3150e390bc96F1b4a05cf5183B8E7Bdb68566954",
