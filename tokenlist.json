@@ -2320,12 +2320,12 @@
       "logoURI": "https://cdn.oku.trade/logos/42161/0x7424f00845777a06e21f0bd8873f814a8a814b2d.png"
     },
     {
-      "address": "0x8e32B5499E7c2Bd1AF7204C2EE4F7e0b0015e6BA",
+      "address": "0x28F21857281495e6EA79BB574EA2A48bEE31c4e6",
       "name": "Apple Inc Tokenized by Sailing",
       "symbol": "AAPLs",
       "decimals": 18,
       "chainId": 42161,
-      "logoURI": "https://cdn.oku.trade/logos/42161/0x8e32b5499e7c2bd1af7204c2ee4f7e0b0015e6ba.png"
+      "logoURI": "https://cdn.oku.trade/logos/42161/0x28F21857281495e6EA79BB574EA2A48bEE31c4e6.png"
     },
     {
       "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
