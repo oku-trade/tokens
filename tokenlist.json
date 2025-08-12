@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-08-11T23:04:35.454Z",
+  "timestamp": "2025-08-12T20:53:37.708Z",
   "version": {
     "major": 39,
-    "minor": 374,
+    "minor": 375,
     "patch": 351
   },
   "tokens": [
@@ -4838,6 +4838,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xfc6e858c43ca492934bdef2a7fcba80380279373.png"
+    },
+    {
+      "address": "0xfcA9Fc2CB2dde04732ad07E4BB73Db8cC8bFED1D",
+      "name": "Gap Tooth Lizard",
+      "symbol": "GAPPY",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xfca9fc2cb2dde04732ad07e4bb73db8cc8bfed1d.png"
     },
     {
       "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
