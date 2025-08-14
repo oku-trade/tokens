@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-08-12T20:53:37.708Z",
+  "timestamp": "2025-08-14T18:52:45.503Z",
   "version": {
     "major": 39,
-    "minor": 375,
+    "minor": 377,
     "patch": 351
   },
   "tokens": [
@@ -3728,6 +3728,14 @@
       "logoURI": "https://cdn.oku.trade/logos/6900/0x43f2376d5d03553ae72f4a8093bbe9de4336eb08.png"
     },
     {
+      "address": "0x84f682626302EA7BCA2A7c338b84863292131319",
+      "name": "USDa saving token",
+      "symbol": "sUSDa",
+      "decimals": 18,
+      "chainId": 6900,
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x84f682626302ea7bca2a7c338b84863292131319.png"
+    },
+    {
       "name": "Liquid Staked Nibiru",
       "symbol": "stNIBI",
       "decimals": 6,
@@ -3742,6 +3750,14 @@
       "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555",
       "chainId": 6900,
       "logoURI": "https://cdn.oku.trade/logos/6900/0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555.png"
+    },
+    {
+      "address": "0xf4e097E36d2064E2bDCA96e60439f3A369522003",
+      "name": "USDa",
+      "symbol": "USDa",
+      "decimals": 18,
+      "chainId": 6900,
+      "logoURI": "https://cdn.oku.trade/logos/6900/0xf4e097e36d2064e2bdca96e60439f3a369522003.png"
     },
     {
       "address": "0x4200000000000000000000000000000000000006",
