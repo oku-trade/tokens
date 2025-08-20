@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-08-19T20:21:35.276Z",
+  "timestamp": "2025-08-20T22:20:54.158Z",
   "version": {
     "major": 39,
-    "minor": 378,
+    "minor": 379,
     "patch": 351
   },
   "tokens": [
@@ -3793,6 +3793,14 @@
       "decimals": 18,
       "chainId": 698,
       "logoURI": "https://cdn.oku.trade/logos/698/0x679dc08cc3a4acfeea2f7cafaa37561ae0b41ce7.png"
+    },
+    {
+      "address": "0x9E8f9907541f5dF3383130B5D869d39f129BE259",
+      "name": "Staked MAT",
+      "symbol": "stMAT",
+      "decimals": 18,
+      "chainId": 698,
+      "logoURI": "https://cdn.oku.trade/logos/698/0x9e8f9907541f5df3383130b5d869d39f129be259.png"
     },
     {
       "address": "0x00E0dA3a1EEE268ED21f6F35e802B51C9fD0C033",
