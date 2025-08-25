@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-08-25T15:59:54.512Z",
+  "timestamp": "2025-08-25T17:56:47.234Z",
   "version": {
     "major": 39,
-    "minor": 383,
+    "minor": 384,
     "patch": 351
   },
   "tokens": [
@@ -4433,6 +4433,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0x58f379e71bb928350355bcbb7ee201fdcf124e9e.png"
+    },
+    {
+      "address": "0x5Ba129aBfEbd3721864d9Da90e76086Cfed9754c",
+      "name": "JACKPOT",
+      "symbol": "JACKPOT",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x5ba129abfebd3721864d9da90e76086cfed9754c.png"
     },
     {
       "address": "0x61C1500124fFe148387FFf2CDCD8426bC4cdD8C5",
