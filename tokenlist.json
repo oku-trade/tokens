@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-08-20T22:20:54.158Z",
+  "timestamp": "2025-08-25T15:59:54.512Z",
   "version": {
     "major": 39,
-    "minor": 379,
+    "minor": 383,
     "patch": 351
   },
   "tokens": [
@@ -2531,6 +2531,14 @@
       "logoURI": "https://cdn.oku.trade/logos/30/0xb314095f4efd9cb0e800fc72a85878d9e3a4109b.png"
     },
     {
+      "address": "0xB52E582263c1d0189b3cc1402c1B7205b7F2E9Ba",
+      "name": "syBTC",
+      "symbol": "syBTC",
+      "decimals": 8,
+      "chainId": 30,
+      "logoURI": "https://cdn.oku.trade/logos/30/0xb52e582263c1d0189b3cc1402c1b7205b7f2e9ba.png"
+    },
+    {
       "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
       "name": "xSolvBTC",
       "symbol": "xSolvBTC",
@@ -2579,12 +2587,36 @@
       "logoURI": "https://cdn.oku.trade/logos/30/0xdf12a17abf91c225e8074d2c38e9459a109db82e.png"
     },
     {
+      "address": "0xEF85254Aa4a8490bcC9C02Ae38513Cae8303FB53",
+      "name": "Midas BTC Yield Token",
+      "symbol": "mBTC",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://cdn.oku.trade/logos/30/0xef85254aa4a8490bcc9c02ae38513cae8303fb53.png"
+    },
+    {
+      "address": "0xF1376bceF0f78459C0Ed0ba5ddce976F1ddF51F4",
+      "name": "brBTC",
+      "symbol": "brBTC",
+      "decimals": 8,
+      "chainId": 30,
+      "logoURI": "https://cdn.oku.trade/logos/30/0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4.png"
+    },
+    {
       "address": "0xb880773D2a4B2b2cD49E23AE3633d18644448C5D",
       "name": "Airbnb Inc Tokenized by Sailing",
       "symbol": "ABNBs",
       "decimals": 18,
       "chainId": 30,
       "logoURI": "https://cdn.oku.trade/logos/30/0xb880773d2a4b2b2cd49e23ae3633d18644448c5d.png"
+    },
+    {
+      "address": "0xd3c8dA379d71a33BfEE8875F87Ac2748bEB1d58d",
+      "name": "uniBTC",
+      "symbol": "uniBTC",
+      "decimals": 8,
+      "chainId": 30,
+      "logoURI": "https://cdn.oku.trade/logos/30/0xd3c8da379d71a33bfee8875f87ac2748beb1d58d.png"
     },
     {
       "address": "0xd9474AAa1DE26e2F2F6891e33C860C99E9D4c8A8",
