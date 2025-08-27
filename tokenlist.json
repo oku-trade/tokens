@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-08-25T17:56:47.234Z",
+  "timestamp": "2025-08-27T16:38:32.945Z",
   "version": {
     "major": 39,
-    "minor": 384,
+    "minor": 385,
     "patch": 351
   },
   "tokens": [
@@ -3193,6 +3193,14 @@
       "decimals": 6,
       "chainId": 42220,
       "logoURI": "https://cdn.oku.trade/logos/42220/0x617f3112bf5397d0467d315cc709ef968d9ba546.png"
+    },
+    {
+      "name": "Lyzi",
+      "symbol": "LYZI",
+      "decimals": 6,
+      "address": "0x19418d0af0F36865cDfbB2437dFEd29BA34d3190",
+      "chainId": 42793,
+      "logoURI": "https://cdn.oku.trade/logos/42793/0x19418d0af0f36865cdfbb2437dfed29ba34d3190.png"
     },
     {
       "address": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
