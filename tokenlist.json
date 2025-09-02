@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-08-28T00:08:56.516Z",
+  "timestamp": "2025-09-02T18:50:43.306Z",
   "version": {
     "major": 39,
-    "minor": 387,
+    "minor": 388,
     "patch": 351
   },
   "tokens": [
@@ -3785,6 +3785,14 @@
       "address": "0x0CaCF669f8446BeCA826913a3c6B96aCD4b02a97",
       "chainId": 6900,
       "logoURI": "https://cdn.oku.trade/logos/6900/0x0cacf669f8446beca826913a3c6b96acd4b02a97.png"
+    },
+    {
+      "name": "ynETH MAX",
+      "symbol": "ynETHx",
+      "decimals": 18,
+      "address": "0x1d1715ecE22A6Ab6349196e7054E61de3Ac2Ea3D",
+      "chainId": 6900,
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x1d1715ece22a6ab6349196e7054e61de3ac2ea3d.png"
     },
     {
       "name": "Bridged USDT (Stargate)",
