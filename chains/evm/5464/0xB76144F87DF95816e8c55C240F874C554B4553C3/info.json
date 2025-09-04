@@ -3,5 +3,6 @@
   "name": "Saga Dollar",
   "symbol": "D",
   "decimals": 18,
+  "description": "Built on the foundation of dTRINITY, Saga Dollar is a next-gen DeFi stablecoin from Colt protocol launching on SagaEVM network — fully-backed, yield-bearing, and subsidy-powered by design.",
   "explorer": "https://sagaevm.sagaexplorer.io/token/0xB76144F87DF95816e8c55C240F874C554B4553C3"
 }
