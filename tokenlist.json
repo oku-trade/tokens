@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-09-04T21:22:24.973Z",
+  "timestamp": "2025-09-05T15:53:46.641Z",
   "version": {
     "major": 39,
-    "minor": 388,
+    "minor": 389,
     "patch": 351
   },
   "tokens": [
@@ -3505,6 +3505,16 @@
       "decimals": 6,
       "chainId": 5464,
       "logoURI": "https://cdn.oku.trade/logos/5464/0xa19377761fed745723b90993988e04d641c2cffe.png"
+    },
+    {
+      "address": "0xB76144F87DF95816e8c55C240F874C554B4553C3",
+      "name": "Saga Dollar",
+      "symbol": "D",
+      "decimals": 18,
+      "description": "Built on the foundation of dTRINITY, Saga Dollar is a next-gen DeFi stablecoin from Colt protocol launching on SagaEVM network — fully-backed, yield-bearing, and subsidy-powered by design.",
+      "explorer": "https://sagaevm.sagaexplorer.io/token/0xB76144F87DF95816e8c55C240F874C554B4553C3",
+      "chainId": 5464,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xb76144f87df95816e8c55c240f874c554b4553c3.png"
     },
     {
       "address": "0xC8fe3C1de344854f4429bB333AFFAeF97eF88CEa",
