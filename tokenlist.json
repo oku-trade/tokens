@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-09-05T15:53:46.641Z",
+  "timestamp": "2025-09-09T23:05:53.455Z",
   "version": {
     "major": 39,
-    "minor": 389,
+    "minor": 391,
     "patch": 351
   },
   "tokens": [
@@ -2579,6 +2579,14 @@
       "logoURI": "https://cdn.oku.trade/logos/30/0xdc661977f72973601621247b1f3c5e9ea624fd38.png"
     },
     {
+      "address": "0xDEF76EEA97DE6361ada08F656D7110E83bE71e47",
+      "name": "USDa saving token",
+      "symbol": "sUSDa",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://cdn.oku.trade/logos/30/0xdef76eea97de6361ada08f656d7110e83be71e47.png"
+    },
+    {
       "address": "0xDEde6fa58829D1d7cf03a2D32F4317588a6a7683",
       "name": "GameStop Corp Tokenized by Sailing",
       "symbol": "GMEs",
@@ -2657,6 +2665,14 @@
       "decimals": 18,
       "chainId": 30,
       "logoURI": "https://cdn.oku.trade/logos/30/0xde35d352e479643dff75e2291144076ce76497fb.png"
+    },
+    {
+      "address": "0xeAAdC03279824Cd2d71a49E3e641e7216184bc89",
+      "name": "USDa",
+      "symbol": "USDa",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://cdn.oku.trade/logos/30/0xeaadc03279824cd2d71a49e3e641e7216184bc89.png"
     },
     {
       "address": "0xfd0f7ce53da7D6889e4d126E51a8E6160158E4f2",
