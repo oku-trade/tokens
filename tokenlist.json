@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-09-09T23:05:53.455Z",
+  "timestamp": "2025-09-10T05:41:45.004Z",
   "version": {
     "major": 39,
-    "minor": 391,
+    "minor": 392,
     "patch": 351
   },
   "tokens": [
@@ -2369,6 +2369,14 @@
       "decimals": 18,
       "chainId": 2345,
       "logoURI": "https://cdn.oku.trade/logos/2345/0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f.png"
+    },
+    {
+      "address": "0x78E26E8b953C7c78A58d69d8B9A91745C2BbB258",
+      "name": "uBTC",
+      "symbol": "uBTC",
+      "decimals": 18,
+      "chainId": 2345,
+      "logoURI": "https://cdn.oku.trade/logos/2345/0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258.png"
     },
     {
       "address": "0x941508f0B823f1BC40a9beEFCE5e544E525a94c3",
