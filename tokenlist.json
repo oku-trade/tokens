@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-09-10T05:41:45.004Z",
+  "timestamp": "2025-09-12T15:17:14.512Z",
   "version": {
     "major": 39,
-    "minor": 392,
+    "minor": 394,
     "patch": 351
   },
   "tokens": [
@@ -3419,6 +3419,14 @@
       "logoURI": "https://cdn.oku.trade/logos/50/0x2a8e898b6242355c290e1f4fc966b8788729a4d4.png"
     },
     {
+      "name": "Savings crvUSD",
+      "symbol": "scrvUSD",
+      "decimals": 18,
+      "address": "0x3d8EADb739D1Ef95dd53D718e4810721837c69c1",
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0x3d8eadb739d1ef95dd53d718e4810721837c69c1.png"
+    },
+    {
       "name": "Wrapped XDC",
       "symbol": "WXDC",
       "decimals": 18,
@@ -3473,6 +3481,14 @@
       "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555",
       "chainId": 50,
       "logoURI": "https://cdn.oku.trade/logos/50/0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555.png"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1",
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0xfa2958cb79b0491cc627c1557f441ef849ca8eb1.png"
     },
     {
       "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
