@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-09-12T17:43:16.031Z",
+  "timestamp": "2025-09-13T00:52:16.484Z",
   "version": {
     "major": 40,
-    "minor": 394,
+    "minor": 395,
     "patch": 351
   },
   "tokens": [
@@ -4499,6 +4499,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825.png"
+    },
+    {
+      "name": "thosmur",
+      "symbol": "THOSMUR",
+      "decimals": 18,
+      "address": "0x4a125fa0eaA33F74fb011C5437F6E78738Bd0B07",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x4a125fa0eaa33f74fb011c5437f6e78738bd0b07.png"
     },
     {
       "address": "0x5511c1176f1CaB491F849B260E7A3b1d8BcE2323",
