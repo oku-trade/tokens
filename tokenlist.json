@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-09-13T00:52:16.484Z",
+  "timestamp": "2025-09-18T15:44:36.780Z",
   "version": {
     "major": 40,
-    "minor": 395,
+    "minor": 397,
     "patch": 351
   },
   "tokens": [
@@ -3861,6 +3861,14 @@
       "logoURI": "https://cdn.oku.trade/logos/6900/0x84f682626302ea7bca2a7c338b84863292131319.png"
     },
     {
+      "address": "0x9568F2AFd09D845D48Cf999244e18B1a9467eAdB",
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "decimals": 8,
+      "chainId": 6900,
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x9568f2afd09d845d48cf999244e18b1a9467eadb.png"
+    },
+    {
       "name": "Liquid Staked Nibiru",
       "symbol": "stNIBI",
       "decimals": 6,
@@ -3875,6 +3883,14 @@
       "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555",
       "chainId": 6900,
       "logoURI": "https://cdn.oku.trade/logos/6900/0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555.png"
+    },
+    {
+      "address": "0xd59be1Da2e9B30b6f7aB27b2D08f841B39c349fa",
+      "name": "uBTC",
+      "symbol": "uBTC",
+      "decimals": 18,
+      "chainId": 6900,
+      "logoURI": "https://cdn.oku.trade/logos/6900/0xd59be1da2e9b30b6f7ab27b2d08f841b39c349fa.png"
     },
     {
       "address": "0xf4e097E36d2064E2bDCA96e60439f3A369522003",
