@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-09-23T16:08:35.447Z",
+  "timestamp": "2025-09-23T19:57:08.876Z",
   "version": {
     "major": 40,
-    "minor": 397,
+    "minor": 398,
     "patch": 351
   },
   "tokens": [
@@ -3353,6 +3353,14 @@
       "decimals": 18,
       "chainId": 43111,
       "logoURI": "https://cdn.oku.trade/logos/43111/0x8154aaf094c2f03ad550b6890e1d4264b5ddad9a.png"
+    },
+    {
+      "address": "0x99e3dE3817F6081B2568208337ef83295b7f591D",
+      "name": "Hemi",
+      "symbol": "HEMI",
+      "decimals": 18,
+      "chainId": 43111,
+      "logoURI": "https://cdn.oku.trade/logos/43111/0x99e3de3817f6081b2568208337ef83295b7f591d.png"
     },
     {
       "address": "0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28",
