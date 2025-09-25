@@ -1,8 +1,8 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-09-23T19:57:08.876Z",
+  "timestamp": "2025-09-25T22:57:41.858Z",
   "version": {
-    "major": 40,
+    "major": 41,
     "minor": 398,
     "patch": 351
   },
@@ -1897,6 +1897,22 @@
       "decimals": 6,
       "chainId": 151,
       "logoURI": "https://cdn.oku.trade/logos/151/0x8c4acd74ff4385f3b7911432fa6787aa14406f8b.png"
+    },
+    {
+      "address": "0x1Cd0690fF9a693f5EF2dD976660a8dAFc81A109c",
+      "name": "Wrapped 0G",
+      "symbol": "W0G",
+      "decimals": 18,
+      "chainId": 16661,
+      "logoURI": "https://cdn.oku.trade/logos/16661/0x1cd0690ff9a693f5ef2dd976660a8dafc81a109c.png"
+    },
+    {
+      "address": "0x1f3AA82227281cA364bFb3d253B0f1af1Da6473E",
+      "name": "Bridged USDC",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "chainId": 16661,
+      "logoURI": "https://cdn.oku.trade/logos/16661/0x1f3aa82227281ca364bfb3d253b0f1af1da6473e.png"
     },
     {
       "address": "0x07d83526730c7438048D55A4fc0b850e2aaB6f0b",
