@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-09-25T22:57:41.858Z",
+  "timestamp": "2025-09-27T15:46:15.358Z",
   "version": {
     "major": 41,
-    "minor": 398,
+    "minor": 399,
     "patch": 351
   },
   "tokens": [
@@ -2433,6 +2433,14 @@
       "decimals": 18,
       "chainId": 2345,
       "logoURI": "https://cdn.oku.trade/logos/2345/0xbc10000000000000000000000000000000000000.png"
+    },
+    {
+      "address": "0xbC10000000000000000000000000000000000001",
+      "name": "Goat Network",
+      "symbol": "GOATED",
+      "decimals": 18,
+      "chainId": 2345,
+      "logoURI": "https://cdn.oku.trade/logos/2345/0xbc10000000000000000000000000000000000001.png"
     },
     {
       "address": "0xfe41e7e5cB3460c483AB2A38eb605Cda9e2d248E",
