@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-09-27T15:46:15.358Z",
+  "timestamp": "2025-09-29T17:50:57.350Z",
   "version": {
     "major": 41,
-    "minor": 399,
+    "minor": 402,
     "patch": 351
   },
   "tokens": [
@@ -94,6 +94,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0x69fa6e8f2ff28d66ebbb781d2f29f0896492568d.png"
+    },
+    {
+      "address": "0x7CB8A5ABf019983eD053484D5ad17F96FEc56F28",
+      "name": "Lead Wrapped Bitcoin",
+      "symbol": "leadBTC",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x7cb8a5abf019983ed053484d5ad17f96fec56f28.png"
     },
     {
       "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
@@ -3629,6 +3637,14 @@
       "logoURI": "https://cdn.oku.trade/logos/56/0x71be881e9c5d4465b3fff61e89c6f3651e69b5bb.png"
     },
     {
+      "address": "0x7CB8A5ABf019983eD053484D5ad17F96FEc56F28",
+      "name": "Lead Wrapped Bitcoin",
+      "symbol": "leadBTC",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI": "https://cdn.oku.trade/logos/56/0x7cb8a5abf019983ed053484d5ad17f96fec56f28.png"
+    },
+    {
       "name": "Privasea AI",
       "symbol": "PRAI",
       "decimals": 18,
@@ -5523,6 +5539,14 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0x6100e367285b01f48d07953803a2d8dca5d19873.png"
+    },
+    {
+      "address": "0x92A01Ab7317Ac318b39b00EB6704ba56F0245D7a",
+      "name": "trillions",
+      "symbol": "trillions",
+      "decimals": 18,
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0x92a01ab7317ac318b39b00eb6704ba56f0245d7a.png"
     },
     {
       "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB",
