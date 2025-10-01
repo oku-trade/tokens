@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-09-29T17:50:57.350Z",
+  "timestamp": "2025-10-01T20:46:17.947Z",
   "version": {
     "major": 41,
-    "minor": 402,
+    "minor": 403,
     "patch": 351
   },
   "tokens": [
@@ -3979,6 +3979,14 @@
       "decimals": 18,
       "chainId": 698,
       "logoURI": "https://cdn.oku.trade/logos/698/0x9e8f9907541f5df3383130b5d869d39f129be259.png"
+    },
+    {
+      "address": "0xa0e73E30945B80010503E68e53AbFd0B6B6a6ed9",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 698,
+      "logoURI": "https://cdn.oku.trade/logos/698/0xa0e73e30945b80010503e68e53abfd0b6b6a6ed9.png"
     },
     {
       "address": "0x00E0dA3a1EEE268ED21f6F35e802B51C9fD0C033",
