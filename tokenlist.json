@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-10-01T20:46:17.947Z",
+  "timestamp": "2025-10-13T15:45:29.513Z",
   "version": {
     "major": 41,
-    "minor": 403,
+    "minor": 404,
     "patch": 351
   },
   "tokens": [
@@ -3603,6 +3603,14 @@
       "decimals": 6,
       "chainId": 5464,
       "logoURI": "https://cdn.oku.trade/logos/5464/0xc8fe3c1de344854f4429bb333affaef97ef88cea.png"
+    },
+    {
+      "address": "0xa740E6758e309840ffFfe58f749F018386A3b70b",
+      "name": "tBTC",
+      "symbol": "tBTC",
+      "decimals": 18,
+      "chainId": 5464,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xa740e6758e309840ffffe58f749f018386a3b70b.png"
     },
     {
       "address": "0xeb41D53F14Cb9a67907f2b8b5DBc223944158cCb",
