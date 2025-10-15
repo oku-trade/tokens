@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-10-13T15:45:29.513Z",
+  "timestamp": "2025-10-15T20:04:10.612Z",
   "version": {
     "major": 41,
-    "minor": 404,
+    "minor": 405,
     "patch": 351
   },
   "tokens": [
@@ -3635,6 +3635,14 @@
       "decimals": 2,
       "chainId": 56,
       "logoURI": "https://cdn.oku.trade/logos/56/0x03158f64179cff71ee3206024cee79d55b70ca9d.png"
+    },
+    {
+      "address": "0x6331BF8D601f0D7F0d2101772af5137c418c4444",
+      "name": "Binance Super Cycle",
+      "symbol": "BSC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://cdn.oku.trade/logos/56/0x6331bf8d601f0d7f0d2101772af5137c418c4444.png"
     },
     {
       "address": "0x71be881e9C5d4465B3FfF61e89c6f3651E69B5bb",
