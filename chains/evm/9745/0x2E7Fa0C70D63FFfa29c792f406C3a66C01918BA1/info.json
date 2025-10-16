@@ -1,0 +1,17 @@
+{
+  "name": "Fishcoin",
+  "symbol": "FIS",
+  "type": "PLS20",
+  "decimals": 18,
+  "description": "Fishcoin (FIS) is designed for the exchange of goods and payments in business activities. It allows stores and merchants to make transactions quickly, securely and at low costs.",
+  "website": "https://plasmascan.to",
+  "explorer": "https://plasmascan.to/token/0x2E7Fa0C70D63FFfa29c792f406C3a66C01918BA1",
+  "status": "active",
+  "id": "0x2E7Fa0C70D63FFfa29c792f406C3a66C01918BA1",
+  "image": "ipfs://bafkreidqaddrjqlqp4poowc4maowlxktgmd7h2dyjty6ee24r3s3gin7h4",
+  "logoURI": "https://gateway.lighthouse.storage/ipfs/bafkreidqaddrjqlqp4poowc4maowlxktgmd7h2dyjty6ee24r3s3gin7h4",
+  "links": {
+    "github": "https://github.com/canocmit/FishCoin/blob/main/assets/blockchains/plasma/assets/0x2E7Fa0C70D63FFfa29c792f406C3a66C01918BA1"
+  }
+}
+
