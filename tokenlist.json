@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-10-15T20:04:10.612Z",
+  "timestamp": "2025-10-16T17:29:52.682Z",
   "version": {
     "major": 41,
-    "minor": 405,
+    "minor": 406,
     "patch": 351
   },
   "tokens": [
@@ -5555,6 +5555,14 @@
       "decimals": 18,
       "chainId": 8822,
       "logoURI": "https://cdn.oku.trade/logos/8822/0xf88d2ad6638aa4aa62d7f07396b06ead6cd03a70.png"
+    },
+    {
+      "address": "0x2E7Fa0C70D63FFfa29c792f406C3a66C01918BA1",
+      "name": "Fishcoin",
+      "symbol": "FIS",
+      "decimals": 18,
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0x2e7fa0c70d63fffa29c792f406c3a66c01918ba1.png"
     },
     {
       "address": "0x6100E367285b01F48D07953803A2d8dCA5D19873",
