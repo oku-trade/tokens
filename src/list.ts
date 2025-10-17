@@ -43,7 +43,7 @@ const s3Client = new S3({
 async function uploadLogoToR2(logoPath: string, chainId: number, tokenAddress: string): Promise<string> {
   console.log(`Uploading logo for ${chainId}/${tokenAddress}`);
   const imageBuffer = await fs.readFile(logoPath);
-  const processedBuffer = await sharp(imageBuffer).resize(32, 32).png().toBuffer();
+  const processedBuffer = await sharp(imageBuffer).resize(64, 64, { withoutEnlargement: true }).png().toBuffer();
   const key = `logos/${chainId}/${tokenAddress.toLowerCase()}.png`;
   try {
     await s3Client.putObject({
