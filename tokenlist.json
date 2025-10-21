@@ -1,8 +1,8 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-10-17T16:13:08.203Z",
+  "timestamp": "2025-10-21T23:25:49.753Z",
   "version": {
-    "major": 41,
+    "major": 42,
     "minor": 406,
     "patch": 351
   },
@@ -2097,6 +2097,14 @@
       "decimals": 18,
       "chainId": 1890,
       "logoURI": "https://cdn.oku.trade/logos/1890/0xd9d7123552fa2bedb2348bb562576d67f6e8e96e.png"
+    },
+    {
+      "address": "0xe514d9DEB7966c8BE0ca922de8a064264eA6bcd4",
+      "name": "Wrapped RON",
+      "symbol": "WRON",
+      "decimals": 18,
+      "chainId": 2020,
+      "logoURI": "https://cdn.oku.trade/logos/2020/0xe514d9deb7966c8be0ca922de8a064264ea6bcd4.png"
     },
     {
       "address": "0x09DEF5aBc67e967d54E8233A4b5EBBc1B3fbE34b",
