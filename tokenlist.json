@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-10-21T23:25:49.753Z",
+  "timestamp": "2025-10-22T14:57:47.918Z",
   "version": {
     "major": 42,
-    "minor": 406,
+    "minor": 407,
     "patch": 351
   },
   "tokens": [
@@ -322,6 +322,17 @@
       "address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
       "chainId": 100,
       "logoURI": "https://cdn.oku.trade/logos/100/0xa34c5e0abe843e10461e2c9586ea03e55dbcc495.png"
+    },
+    {
+      "name": "Bridged USDC (Lucid)",
+      "website": "https://lucidlabs.fi",
+      "description": "L-USDC is a bridged USD Coin (USDC) implementation for rollup ecosystems, designed in alignment with Circle’s official Bridged USDC Standard.",
+      "explorer": "https://gnosisscan.io/token/0xCD2f64112ec04e21cC56F7bf2294A6A37790305e",
+      "symbol": "USDC.e",
+      "decimals": 18,
+      "address": "0xCD2f64112ec04e21cC56F7bf2294A6A37790305e",
+      "chainId": 100,
+      "logoURI": "https://cdn.oku.trade/logos/100/0xcd2f64112ec04e21cc56f7bf2294a6a37790305e.png"
     },
     {
       "name": "Wrapped Backed Coinbase",
