@@ -1,0 +1,9 @@
+{
+  "name": "Bridged USDC (Lucid)",
+  "website": "https://lucidlabs.fi",
+  "description": "L-USDC is a bridged USD Coin (USDC) implementation for rollup ecosystems, designed in alignment with Circle’s official Bridged USDC Standard.",
+  "explorer": "https://gnosisscan.io/token/0xCD2f64112ec04e21cC56F7bf2294A6A37790305e",
+  "symbol": "USDC.e",
+  "decimals": 18,
+  "address": "0xCD2f64112ec04e21cC56F7bf2294A6A37790305e"
+}
