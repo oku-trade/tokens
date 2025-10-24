@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-10-22T14:57:47.918Z",
+  "timestamp": "2025-10-24T21:53:51.171Z",
   "version": {
     "major": 42,
-    "minor": 407,
+    "minor": 408,
     "patch": 351
   },
   "tokens": [
@@ -4702,6 +4702,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0x70737489dfdf1a29b7584d40500d3561bd4fe196.png"
+    },
+    {
+      "address": "0x75cE54301374E194edAa6cA2e3C118cF01D3a76B",
+      "name": "Liquid Staked NIBI",
+      "symbol": "stNIBI",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x75ce54301374e194edaa6ca2e3c118cf01d3a76b.png"
     },
     {
       "address": "0x768BE13e1680b5ebE0024C42c896E3dB59ec0149",
