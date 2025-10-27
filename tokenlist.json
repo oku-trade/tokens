@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-10-27T16:18:54.441Z",
+  "timestamp": "2025-10-27T17:29:41.732Z",
   "version": {
     "major": 42,
-    "minor": 409,
+    "minor": 410,
     "patch": 352
   },
   "tokens": [
@@ -3596,6 +3596,14 @@
       "decimals": 18,
       "chainId": 5464,
       "logoURI": "https://cdn.oku.trade/logos/5464/0x4e33613add93463e82a14080021f2ffaf1e062cf.png"
+    },
+    {
+      "address": "0x58d9fbBc6037dedfBA99cAfA28e4C371b795ad97",
+      "name": "King",
+      "symbol": "KING",
+      "decimals": 18,
+      "chainId": 5464,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0x58d9fbbc6037dedfba99cafa28e4c371b795ad97.png"
     },
     {
       "address": "0xA19377761FED745723B90993988E04d641c2CfFE",
