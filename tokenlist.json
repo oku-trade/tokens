@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-10-25T19:07:38.924Z",
+  "timestamp": "2025-10-27T16:18:54.441Z",
   "version": {
     "major": 42,
-    "minor": 408,
+    "minor": 409,
     "patch": 352
   },
   "tokens": [
@@ -3622,6 +3622,14 @@
       "decimals": 6,
       "chainId": 5464,
       "logoURI": "https://cdn.oku.trade/logos/5464/0xc8fe3c1de344854f4429bb333affaef97ef88cea.png"
+    },
+    {
+      "address": "0xDaF9d9032b5d5C92528d6aFf6a215514B7c21056",
+      "name": "Stride Staked Atom",
+      "symbol": "stATOM",
+      "decimals": 6,
+      "chainId": 5464,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xdaf9d9032b5d5c92528d6aff6a215514b7c21056.png"
     },
     {
       "address": "0xa740E6758e309840ffFfe58f749F018386A3b70b",
