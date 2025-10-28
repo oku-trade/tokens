@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-10-27T17:29:41.732Z",
+  "timestamp": "2025-10-28T15:31:39.793Z",
   "version": {
     "major": 42,
-    "minor": 410,
+    "minor": 411,
     "patch": 352
   },
   "tokens": [
@@ -3476,6 +3476,14 @@
       "address": "0x2A8E898b6242355c290E1f4Fc966b8788729A4D4",
       "chainId": 50,
       "logoURI": "https://cdn.oku.trade/logos/50/0x2a8e898b6242355c290e1f4fc966b8788729a4d4.png"
+    },
+    {
+      "name": "GAMA Token",
+      "symbol": "GAMA",
+      "decimals": 18,
+      "address": "0x3a170C7C987F55C84f28733Bfa27962D8CdD5D3B",
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0x3a170c7c987f55c84f28733bfa27962d8cdd5d3b.png"
     },
     {
       "name": "Savings crvUSD",
