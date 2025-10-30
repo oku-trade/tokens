@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-10-28T15:31:39.793Z",
+  "timestamp": "2025-10-30T17:10:51.554Z",
   "version": {
     "major": 42,
-    "minor": 411,
+    "minor": 412,
     "patch": 352
   },
   "tokens": [
@@ -256,6 +256,17 @@
       "decimals": 18,
       "chainId": 10,
       "logoURI": "https://cdn.oku.trade/logos/10/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91.png"
+    },
+    {
+      "name": "Brazilian Digital",
+      "website": "https://transfero.com/stablecoins/brz",
+      "description": "BRZ is the largest non-dollar stablecoin, available 24/7 to connect individuals and businesses to the global market without volatility",
+      "explorer": "https://gnosisscan.io/token/0x0a06c8354a6cc1a07549a38701eac205942e3ac6",
+      "symbol": "BRZ",
+      "decimals": 18,
+      "address": "0x0a06c8354a6cc1a07549a38701eac205942e3ac6",
+      "chainId": 100,
+      "logoURI": "https://cdn.oku.trade/logos/100/0x0a06c8354a6cc1a07549a38701eac205942e3ac6.png"
     },
     {
       "name": "Backed Tesla",
