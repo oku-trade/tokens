@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-11-06T20:54:56.109Z",
+  "timestamp": "2025-11-06T20:59:51.044Z",
   "version": {
     "major": 42,
-    "minor": 414,
+    "minor": 416,
     "patch": 352
   },
   "tokens": [
@@ -3625,6 +3625,14 @@
       "logoURI": "https://cdn.oku.trade/logos/5464/0x4e33613add93463e82a14080021f2ffaf1e062cf.png"
     },
     {
+      "address": "0x541Ed792855719D0b88A4274f1Cd7F47Ff9ec80b",
+      "name": "Mustang",
+      "symbol": "MUST",
+      "decimals": 6,
+      "chainId": 5464,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0x541ed792855719d0b88a4274f1cd7f47ff9ec80b.png"
+    },
+    {
       "address": "0x58d9fbBc6037dedfBA99cAfA28e4C371b795ad97",
       "name": "King",
       "symbol": "KING",
@@ -3665,14 +3673,6 @@
       "decimals": 6,
       "chainId": 5464,
       "logoURI": "https://cdn.oku.trade/logos/5464/0xdaf9d9032b5d5c92528d6aff6a215514b7c21056.png"
-    },
-    {
-      "address": "0xF4e4F7b7A09C50d3cc710151536b88B48422f48B",
-      "name": "Mustang",
-      "symbol": "MUST",
-      "decimals": 6,
-      "chainId": 5464,
-      "logoURI": "https://cdn.oku.trade/logos/5464/0xf4e4f7b7a09c50d3cc710151536b88b48422f48b.png"
     },
     {
       "address": "0xa740E6758e309840ffFfe58f749F018386A3b70b",
@@ -5641,6 +5641,17 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0x2e7fa0c70d63fffa29c792f406c3a66c01918ba1.png"
+    },
+    {
+      "name": "LuckyCoin",
+      "symbol": "LUK",
+      "decimals": 0,
+      "website": "https://luckycoinvn.vercel.app",
+      "description": "LuckyCoin is the experimental token for the store project.",
+      "explorer": "https://plasmascan.to/token/0x55eE5a9e112E384E60E9Fd099C495C6b7E04F09a",
+      "address": "0x55eE5a9e112E384E60E9Fd099C495C6b7E04F09a",
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0x55ee5a9e112e384e60e9fd099c495c6b7e04f09a.png"
     },
     {
       "address": "0x6100E367285b01F48D07953803A2d8dCA5D19873",
