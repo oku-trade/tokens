@@ -1,8 +1,5 @@
 # Oku Tokens
 
-
-illegal
-
 This repository contains token information that can be used by [Oku](https://oku.trade)
 
 After cloning the repo run the following to get started:
