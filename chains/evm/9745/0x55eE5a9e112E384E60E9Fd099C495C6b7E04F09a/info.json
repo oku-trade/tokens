@@ -1,6 +1,10 @@
 {
-  "address": "0x55eE5a9e112E384E60E9Fd099C495C6b7E04F09a",
-  "name": "Luckycoin",
+  "name": "LuckyCoin",
   "symbol": "LUK",
-  "decimals": 0
+  "decimals": 0,
+  "website": "https://luckycoinvn.vercel.app",
+  "description": "LuckyCoin là token thử nghiệm cho dự án cửa hàng.",
+  "explorer": "https://plasmascan.to/token/0x55eE5a9e112E384E60E9Fd099C495C6b7E04F09a",
+  "address": "0x55Ee5a9e112E384E60E9Fd099C495C6b7E04F09a"
 }
+
