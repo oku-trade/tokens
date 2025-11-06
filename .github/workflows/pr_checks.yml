@@ -14,15 +14,30 @@ jobs:
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
 
       - name: Check modified paths
         id: paths
-        uses: dorny/paths-filter@v3
-        with:
-          list-files: "json"
-          filters: |
-            illegal:
-              - '!chains/**'
+        run: |
+          # Fetch the base branch
+          git fetch origin main --depth=1
+
+          # Get list of changed files compared to base branch
+          changed_files=$(git diff --name-only origin/main...HEAD)
+
+          # Filter out files in chains directory to find illegal files
+          illegal_files=$(echo "$changed_files" | grep -v '^chains/' || true)
+
+          # Check if there are any illegal files
+          if [ -n "$illegal_files" ]; then
+            echo "illegal=true" >> $GITHUB_OUTPUT
+            # Format files as JSON array
+            illegal_files_json=$(echo "$illegal_files" | jq -R -s -c 'split("\n") | map(select(length > 0))')
+            echo "illegal_files=$illegal_files_json" >> $GITHUB_OUTPUT
+          else
+            echo "illegal=false" >> $GITHUB_OUTPUT
+            echo "illegal_files=[]" >> $GITHUB_OUTPUT
+          fi
 
       - name: Fail if PR modifies files outside chains
         if: steps.paths.outputs.illegal == 'true'

@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-10-28T15:31:39.793Z",
+  "timestamp": "2025-10-31T17:27:43.940Z",
   "version": {
     "major": 42,
-    "minor": 411,
+    "minor": 414,
     "patch": 352
   },
   "tokens": [
@@ -256,6 +256,17 @@
       "decimals": 18,
       "chainId": 10,
       "logoURI": "https://cdn.oku.trade/logos/10/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91.png"
+    },
+    {
+      "name": "Brazilian Digital",
+      "website": "https://transfero.com/stablecoins/brz",
+      "description": "BRZ is the largest non-dollar stablecoin, available 24/7 to connect individuals and businesses to the global market without volatility",
+      "explorer": "https://gnosisscan.io/token/0x0a06c8354a6cc1a07549a38701eac205942e3ac6",
+      "symbol": "BRZ",
+      "decimals": 18,
+      "address": "0x0a06c8354a6cc1a07549a38701eac205942e3ac6",
+      "chainId": 100,
+      "logoURI": "https://cdn.oku.trade/logos/100/0x0a06c8354a6cc1a07549a38701eac205942e3ac6.png"
     },
     {
       "name": "Backed Tesla",
@@ -3286,6 +3297,14 @@
       "logoURI": "https://cdn.oku.trade/logos/42220/0x617f3112bf5397d0467d315cc709ef968d9ba546.png"
     },
     {
+      "address": "0x004A476B5B76738E34c86C7144554B9d34402F13",
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 42793,
+      "logoURI": "https://cdn.oku.trade/logos/42793/0x004a476b5b76738e34c86c7144554b9d34402f13.png"
+    },
+    {
       "name": "Lyzi",
       "symbol": "LYZI",
       "decimals": 6,
@@ -3646,6 +3665,14 @@
       "decimals": 6,
       "chainId": 5464,
       "logoURI": "https://cdn.oku.trade/logos/5464/0xdaf9d9032b5d5c92528d6aff6a215514b7c21056.png"
+    },
+    {
+      "address": "0xF4e4F7b7A09C50d3cc710151536b88B48422f48B",
+      "name": "Mustang",
+      "symbol": "MUST",
+      "decimals": 6,
+      "chainId": 5464,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xf4e4f7b7a09c50d3cc710151536b88b48422f48b.png"
     },
     {
       "address": "0xa740E6758e309840ffFfe58f749F018386A3b70b",
