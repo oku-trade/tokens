@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-11-07T21:22:08.620Z",
+  "timestamp": "2025-11-10T16:33:57.639Z",
   "version": {
     "major": 42,
-    "minor": 417,
+    "minor": 418,
     "patch": 352
   },
   "tokens": [
@@ -5651,17 +5651,6 @@
       "logoURI": "https://cdn.oku.trade/logos/9745/0x2e7fa0c70d63fffa29c792f406c3a66c01918ba1.png"
     },
     {
-      "name": "LuckyCoin",
-      "symbol": "LUK",
-      "decimals": 0,
-      "website": "https://luckycoinvn.vercel.app",
-      "description": "LuckyCoin is the experimental token for the store project.",
-      "explorer": "https://plasmascan.to/token/0x55eE5a9e112E384E60E9Fd099C495C6b7E04F09a",
-      "address": "0x55eE5a9e112E384E60E9Fd099C495C6b7E04F09a",
-      "chainId": 9745,
-      "logoURI": "https://cdn.oku.trade/logos/9745/0x55ee5a9e112e384e60e9fd099c495c6b7e04f09a.png"
-    },
-    {
       "address": "0x6100E367285b01F48D07953803A2d8dCA5D19873",
       "name": "Wrapped XPL",
       "symbol": "WXPL",
@@ -5692,6 +5681,17 @@
       "decimals": 6,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png"
+    },
+    {
+      "name": "LuckyCoin",
+      "symbol": "LUK",
+      "decimals": 0,
+      "website": "https://luckycoinvn.vercel.app",
+      "description": "LuckyCoin is the experimental token for the store project.",
+      "explorer": "https://plasmascan.to/token/0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d",
+      "address": "0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d",
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0xc1b471a3228aa15571c05e79a002a26edf6f3c9d.png"
     }
   ]
 }
