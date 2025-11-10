@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-11-10T16:33:57.639Z",
+  "timestamp": "2025-11-10T21:47:06.597Z",
   "version": {
     "major": 42,
-    "minor": 418,
+    "minor": 419,
     "patch": 352
   },
   "tokens": [
@@ -5105,6 +5105,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xd77cd13c2a72b20668bed8899321daf97404fd71.png"
+    },
+    {
+      "address": "0xd85c31854c2B0Fb40aaA9E2Fc4Da23C21f829d46",
+      "name": "Ping",
+      "symbol": "PING",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xd85c31854c2b0fb40aaa9e2fc4da23c21f829d46.png"
     },
     {
       "address": "0xdf00fdE26A6819507649904Ca52FE5062eF75Ba7",
