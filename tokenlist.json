@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-11-10T21:47:06.597Z",
+  "timestamp": "2025-11-12T16:53:43.140Z",
   "version": {
     "major": 42,
-    "minor": 419,
+    "minor": 420,
     "patch": 352
   },
   "tokens": [
@@ -3303,6 +3303,14 @@
       "decimals": 18,
       "chainId": 42793,
       "logoURI": "https://cdn.oku.trade/logos/42793/0x004a476b5b76738e34c86c7144554b9d34402f13.png"
+    },
+    {
+      "name": "Sogni AI",
+      "symbol": "SOGNI",
+      "decimals": 18,
+      "address": "0x12B11c246BD3aF9b1F18C5A9710Ef889Ca1C9B28",
+      "chainId": 42793,
+      "logoURI": "https://cdn.oku.trade/logos/42793/0x12b11c246bd3af9b1f18c5a9710ef889ca1c9b28.png"
     },
     {
       "name": "Lyzi",
