@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-11-12T16:53:43.140Z",
+  "timestamp": "2025-11-12T21:28:14.158Z",
   "version": {
     "major": 42,
-    "minor": 420,
+    "minor": 421,
     "patch": 352
   },
   "tokens": [
@@ -3649,6 +3649,14 @@
       "logoURI": "https://cdn.oku.trade/logos/5464/0x58d9fbbc6037dedfba99cafa28e4c371b795ad97.png"
     },
     {
+      "address": "0x7cF468a019C5bf734311D10C3a429bB504CAF3ce",
+      "name": "tBTC",
+      "symbol": "tBTC",
+      "decimals": 18,
+      "chainId": 5464,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0x7cf468a019c5bf734311d10c3a429bb504caf3ce.png"
+    },
+    {
       "address": "0xA19377761FED745723B90993988E04d641c2CfFE",
       "name": "Saga",
       "symbol": "SAGA",
@@ -3681,14 +3689,6 @@
       "decimals": 6,
       "chainId": 5464,
       "logoURI": "https://cdn.oku.trade/logos/5464/0xdaf9d9032b5d5c92528d6aff6a215514b7c21056.png"
-    },
-    {
-      "address": "0xa740E6758e309840ffFfe58f749F018386A3b70b",
-      "name": "tBTC",
-      "symbol": "tBTC",
-      "decimals": 18,
-      "chainId": 5464,
-      "logoURI": "https://cdn.oku.trade/logos/5464/0xa740e6758e309840ffffe58f749f018386a3b70b.png"
     },
     {
       "address": "0xeb41D53F14Cb9a67907f2b8b5DBc223944158cCb",
