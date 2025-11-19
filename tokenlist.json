@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-10-28T15:31:39.793Z",
+  "timestamp": "2025-11-18T19:39:27.141Z",
   "version": {
     "major": 42,
-    "minor": 411,
+    "minor": 421,
     "patch": 352
   },
   "tokens": [
@@ -256,6 +256,17 @@
       "decimals": 18,
       "chainId": 10,
       "logoURI": "https://cdn.oku.trade/logos/10/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91.png"
+    },
+    {
+      "name": "Brazilian Digital",
+      "website": "https://transfero.com/stablecoins/brz",
+      "description": "BRZ is the largest non-dollar stablecoin, available 24/7 to connect individuals and businesses to the global market without volatility",
+      "explorer": "https://gnosisscan.io/token/0x0a06c8354a6cc1a07549a38701eac205942e3ac6",
+      "symbol": "BRZ",
+      "decimals": 18,
+      "address": "0x0a06c8354A6CC1a07549a38701eAc205942E3Ac6",
+      "chainId": 100,
+      "logoURI": "https://cdn.oku.trade/logos/100/0x0a06c8354a6cc1a07549a38701eac205942e3ac6.png"
     },
     {
       "name": "Backed Tesla",
@@ -3286,6 +3297,22 @@
       "logoURI": "https://cdn.oku.trade/logos/42220/0x617f3112bf5397d0467d315cc709ef968d9ba546.png"
     },
     {
+      "address": "0x004A476B5B76738E34c86C7144554B9d34402F13",
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 42793,
+      "logoURI": "https://cdn.oku.trade/logos/42793/0x004a476b5b76738e34c86c7144554b9d34402f13.png"
+    },
+    {
+      "name": "Sogni AI",
+      "symbol": "SOGNI",
+      "decimals": 18,
+      "address": "0x12B11c246BD3aF9b1F18C5A9710Ef889Ca1C9B28",
+      "chainId": 42793,
+      "logoURI": "https://cdn.oku.trade/logos/42793/0x12b11c246bd3af9b1f18c5a9710ef889ca1c9b28.png"
+    },
+    {
       "name": "Lyzi",
       "symbol": "LYZI",
       "decimals": 6,
@@ -3614,6 +3641,14 @@
       "logoURI": "https://cdn.oku.trade/logos/5464/0x58d9fbbc6037dedfba99cafa28e4c371b795ad97.png"
     },
     {
+      "address": "0x7cF468a019C5bf734311D10C3a429bB504CAF3ce",
+      "name": "tBTC",
+      "symbol": "tBTC",
+      "decimals": 18,
+      "chainId": 5464,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0x7cf468a019c5bf734311d10c3a429bb504caf3ce.png"
+    },
+    {
       "address": "0xA19377761FED745723B90993988E04d641c2CfFE",
       "name": "Saga",
       "symbol": "SAGA",
@@ -3646,14 +3681,6 @@
       "decimals": 6,
       "chainId": 5464,
       "logoURI": "https://cdn.oku.trade/logos/5464/0xdaf9d9032b5d5c92528d6aff6a215514b7c21056.png"
-    },
-    {
-      "address": "0xa740E6758e309840ffFfe58f749F018386A3b70b",
-      "name": "tBTC",
-      "symbol": "tBTC",
-      "decimals": 18,
-      "chainId": 5464,
-      "logoURI": "https://cdn.oku.trade/logos/5464/0xa740e6758e309840ffffe58f749f018386a3b70b.png"
     },
     {
       "address": "0xeb41D53F14Cb9a67907f2b8b5DBc223944158cCb",
@@ -3718,6 +3745,14 @@
       "address": "0x91F9cc2649ac70a071602cadE9b0C1A5868af51D",
       "chainId": 56,
       "logoURI": "https://cdn.oku.trade/logos/56/0x91f9cc2649ac70a071602cade9b0c1a5868af51d.png"
+    },
+    {
+      "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 59144,
+      "logoURI": "https://cdn.oku.trade/logos/59144/0x176211869ca2b568f2a7d4ee941e073a821ee1ff.png"
     },
     {
       "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
@@ -5072,6 +5107,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xd77cd13c2a72b20668bed8899321daf97404fd71.png"
     },
     {
+      "address": "0xd85c31854c2B0Fb40aaA9E2Fc4Da23C21f829d46",
+      "name": "Ping",
+      "symbol": "PING",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xd85c31854c2b0fb40aaa9e2fc4da23c21f829d46.png"
+    },
+    {
       "address": "0xdf00fdE26A6819507649904Ca52FE5062eF75Ba7",
       "name": "Dumpster Divers",
       "symbol": "TRASH",
@@ -5646,6 +5689,17 @@
       "decimals": 6,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png"
+    },
+    {
+      "name": "LuckyCoin",
+      "symbol": "LUK",
+      "decimals": 0,
+      "website": "https://luckycoinvn.vercel.app",
+      "description": "LuckyCoin is the experimental token for the store project.",
+      "explorer": "https://plasmascan.to/token/0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d",
+      "address": "0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d",
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0xc1b471a3228aa15571c05e79a002a26edf6f3c9d.png"
     }
   ]
 }
