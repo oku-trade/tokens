@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-11-18T19:39:27.141Z",
+  "timestamp": "2025-11-19T17:14:59.391Z",
   "version": {
     "major": 42,
-    "minor": 421,
+    "minor": 425,
     "patch": 352
   },
   "tokens": [
@@ -3641,6 +3641,14 @@
       "logoURI": "https://cdn.oku.trade/logos/5464/0x58d9fbbc6037dedfba99cafa28e4c371b795ad97.png"
     },
     {
+      "address": "0x704a58f888f18506C9Fc199e53AE220B5fdCaEd8",
+      "name": "YieldFi vyUSD",
+      "symbol": "vyUSD",
+      "decimals": 18,
+      "chainId": 5464,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0x704a58f888f18506c9fc199e53ae220b5fdcaed8.png"
+    },
+    {
       "address": "0x7cF468a019C5bf734311D10C3a429bB504CAF3ce",
       "name": "tBTC",
       "symbol": "tBTC",
@@ -3649,12 +3657,36 @@
       "logoURI": "https://cdn.oku.trade/logos/5464/0x7cf468a019c5bf734311d10c3a429bb504caf3ce.png"
     },
     {
+      "address": "0x839e7e610108Cf3DCc9b40329db33b6E6bc9baCE",
+      "name": "YieldFi yUSD",
+      "symbol": "yUSD",
+      "decimals": 18,
+      "chainId": 5464,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0x839e7e610108cf3dcc9b40329db33b6e6bc9bace.png"
+    },
+    {
       "address": "0xA19377761FED745723B90993988E04d641c2CfFE",
       "name": "Saga",
       "symbol": "SAGA",
       "decimals": 6,
       "chainId": 5464,
       "logoURI": "https://cdn.oku.trade/logos/5464/0xa19377761fed745723b90993988e04d641c2cffe.png"
+    },
+    {
+      "address": "0xA6F89de43315B444114258f6E6700765D08bcd56",
+      "name": "YieldFi yETH",
+      "symbol": "yETH",
+      "decimals": 18,
+      "chainId": 5464,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xa6f89de43315b444114258f6e6700765d08bcd56.png"
+    },
+    {
+      "address": "0xA8b56ce258a7f55327BdE886B0e947EE059ca434",
+      "name": "MUST Stablecoin",
+      "symbol": "MUST",
+      "decimals": 18,
+      "chainId": 5464,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xa8b56ce258a7f55327bde886b0e947ee059ca434.png"
     },
     {
       "address": "0xB76144F87DF95816e8c55C240F874C554B4553C3",
