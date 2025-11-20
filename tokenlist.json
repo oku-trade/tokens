@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-11-19T17:14:59.391Z",
+  "timestamp": "2025-11-20T17:36:27.195Z",
   "version": {
     "major": 42,
-    "minor": 425,
+    "minor": 426,
     "patch": 352
   },
   "tokens": [
@@ -4705,6 +4705,14 @@
       "address": "0x4a125fa0eaA33F74fb011C5437F6E78738Bd0B07",
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0x4a125fa0eaa33f74fb011c5437f6e78738bd0b07.png"
+    },
+    {
+      "address": "0x50F88fe97f72CD3E75b9Eb4f747F59BcEBA80d59",
+      "name": "jesse",
+      "symbol": "jesse",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x50f88fe97f72cd3e75b9eb4f747f59bceba80d59.png"
     },
     {
       "address": "0x5511c1176f1CaB491F849B260E7A3b1d8BcE2323",
