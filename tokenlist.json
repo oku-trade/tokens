@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-11-21T00:12:18.045Z",
+  "timestamp": "2025-11-21T17:41:48.884Z",
   "version": {
     "major": 42,
-    "minor": 427,
+    "minor": 428,
     "patch": 352
   },
   "tokens": [
@@ -5748,6 +5748,15 @@
       "address": "0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d",
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xc1b471a3228aa15571c05e79a002a26edf6f3c9d.png"
+    },
+    {
+      "address": "0xfC8A5aeEfAd8cC23f629489Cdc6b0Ec883D04702",
+      "name": "BANKLESS",
+      "symbol": "BANKLESS",
+      "website": "https://bankless.run/",
+      "decimals": 18,
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0xfc8a5aeefad8cc23f629489cdc6b0ec883d04702.png"
     }
   ]
 }
