@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-11-20T17:36:27.195Z",
+  "timestamp": "2025-11-21T00:12:18.045Z",
   "version": {
     "major": 42,
-    "minor": 426,
+    "minor": 427,
     "patch": 352
   },
   "tokens": [
@@ -3945,6 +3945,14 @@
       "decimals": 8,
       "chainId": 60808,
       "logoURI": "https://cdn.oku.trade/logos/60808/0xa45d4121b3d47719ff57a947a9d961539ba33204.png"
+    },
+    {
+      "address": "0xB0BD54846a92b214C04A63B26AD7Dc5e19A60808",
+      "name": "BOB",
+      "symbol": "BOB",
+      "decimals": 18,
+      "chainId": 60808,
+      "logoURI": "https://cdn.oku.trade/logos/60808/0xb0bd54846a92b214c04a63b26ad7dc5e19a60808.png"
     },
     {
       "address": "0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2",
