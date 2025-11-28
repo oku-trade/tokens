@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-11-21T17:41:48.884Z",
+  "timestamp": "2025-11-28T16:54:43.094Z",
   "version": {
     "major": 42,
-    "minor": 428,
+    "minor": 429,
     "patch": 352
   },
   "tokens": [
@@ -3519,6 +3519,14 @@
       "address": "0x3d8EADb739D1Ef95dd53D718e4810721837c69c1",
       "chainId": 50,
       "logoURI": "https://cdn.oku.trade/logos/50/0x3d8eadb739d1ef95dd53d718e4810721837c69c1.png"
+    },
+    {
+      "name": "Dog with a Purpose",
+      "symbol": "DOPU",
+      "decimals": 18,
+      "address": "0x3fB46c4Db76d8E9f69F3F8388f43a7CA7E140807",
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0x3fb46c4db76d8e9f69f3f8388f43a7ca7e140807.png"
     },
     {
       "name": "Wrapped XDC",
