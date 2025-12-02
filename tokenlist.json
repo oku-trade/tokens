@@ -1,6 +1,6 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-11-28T16:54:43.094Z",
+  "timestamp": "2025-12-02T14:58:02.500Z",
   "version": {
     "major": 42,
     "minor": 429,
@@ -3305,20 +3305,20 @@
       "logoURI": "https://cdn.oku.trade/logos/42793/0x004a476b5b76738e34c86c7144554b9d34402f13.png"
     },
     {
-      "name": "Sogni AI",
-      "symbol": "SOGNI",
-      "decimals": 18,
-      "address": "0x2767Fc1048cd0ae4fd952eeF09853301c9DC7173",
-      "chainId": 42793,
-      "logoURI": "https://cdn.oku.trade/logos/42793/0x2767fc1048cd0ae4fd952eef09853301c9dc7173.png"
-    },
-    {
       "name": "Lyzi",
       "symbol": "LYZI",
       "decimals": 6,
       "address": "0x19418d0af0F36865cDfbB2437dFEd29BA34d3190",
       "chainId": 42793,
       "logoURI": "https://cdn.oku.trade/logos/42793/0x19418d0af0f36865cdfbb2437dfed29ba34d3190.png"
+    },
+    {
+      "name": "Sogni AI",
+      "symbol": "SOGNI",
+      "decimals": 18,
+      "address": "0x2767Fc1048cd0ae4fd952eeF09853301c9DC7173",
+      "chainId": 42793,
+      "logoURI": "https://cdn.oku.trade/logos/42793/0x2767fc1048cd0ae4fd952eef09853301c9dc7173.png"
     },
     {
       "address": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
