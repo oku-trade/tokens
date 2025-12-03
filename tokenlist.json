@@ -1,10 +1,10 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-12-02T14:58:02.500Z",
+  "timestamp": "2025-12-03T22:24:49.234Z",
   "version": {
     "major": 42,
-    "minor": 429,
-    "patch": 352
+    "minor": 430,
+    "patch": 353
   },
   "tokens": [
     {
@@ -2089,6 +2089,14 @@
       "logoURI": "https://cdn.oku.trade/logos/1750/0x51e85d70944256710cb141847f1a04f568c1db0e.png"
     },
     {
+      "address": "0x519d3443cACc61bD844546eDAea48E5502021802",
+      "name": "LightLink",
+      "symbol": "LL",
+      "decimals": 18,
+      "chainId": 1890,
+      "logoURI": "https://cdn.oku.trade/logos/1890/0x519d3443cacc61bd844546edaea48e5502021802.png"
+    },
+    {
       "address": "0x7EbeF2A4b1B09381Ec5B9dF8C5c6f2dBECA59c73",
       "name": "Wrapped Ether",
       "symbol": "WETH",
@@ -2114,8 +2122,8 @@
     },
     {
       "address": "0xd9d7123552fA2bEdB2348bB562576D67f6E8e96E",
-      "name": "LightLink",
-      "symbol": "LL.e",
+      "name": "LightLink (Legacy)",
+      "symbol": "LL.e (Legacy)",
       "decimals": 18,
       "chainId": 1890,
       "logoURI": "https://cdn.oku.trade/logos/1890/0xd9d7123552fa2bedb2348bb562576d67f6e8e96e.png"
