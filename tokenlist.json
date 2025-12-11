@@ -1,10 +1,10 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-12-10T21:04:22.311Z",
+  "timestamp": "2025-12-11T01:51:13.771Z",
   "version": {
     "major": 42,
     "minor": 432,
-    "patch": 353
+    "patch": 354
   },
   "tokens": [
     {
@@ -3514,7 +3514,7 @@
     },
     {
       "address": "0x79A02482A880bCE3F13e09Da970dC34db4CD24d1",
-      "name": "Bridged USDC",
+      "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 480,
