@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-12-11T01:51:13.771Z",
+  "timestamp": "2025-12-16T16:43:07.684Z",
   "version": {
     "major": 42,
-    "minor": 432,
+    "minor": 433,
     "patch": 354
   },
   "tokens": [
@@ -5745,6 +5745,14 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0x6100e367285b01f48d07953803a2d8dca5d19873.png"
+    },
+    {
+      "address": "0x90729a45948c3078890Bc80F2a4e7870A2Ea4C5E",
+      "name": "BiLira",
+      "symbol": "TRYB",
+      "decimals": 6,
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0x90729a45948c3078890bc80f2a4e7870a2ea4c5e.png"
     },
     {
       "address": "0x92A01Ab7317Ac318b39b00EB6704ba56F0245D7a",
