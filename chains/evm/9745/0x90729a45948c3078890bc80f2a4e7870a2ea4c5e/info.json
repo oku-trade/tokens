@@ -1,7 +1,6 @@
 {
-    "address": "0x90729a45948c3078890bc80f2a4e7870a2ea4c5e",
-    "name": "BiLira",
-    "symbol": "TRYB",
-    "decimals": 6
-  }
-  
+  "address": "0x90729a45948c3078890bc80f2a4e7870a2ea4c5e",
+  "name": "BiLira",
+  "symbol": "TRYB",
+  "decimals": 6
+}
