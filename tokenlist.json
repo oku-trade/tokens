@@ -1,10 +1,10 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-11-21T17:41:48.884Z",
+  "timestamp": "2025-12-16T16:43:07.684Z",
   "version": {
     "major": 42,
-    "minor": 428,
-    "patch": 352
+    "minor": 433,
+    "patch": 354
   },
   "tokens": [
     {
@@ -248,6 +248,14 @@
       "decimals": 6,
       "chainId": 10,
       "logoURI": "https://cdn.oku.trade/logos/10/0x7f5c764cbc14f9669b88837ca1490cca17c31607.png"
+    },
+    {
+      "address": "0xA88594D404727625A9437C3f886C7643872296AE",
+      "name": "Moonwell",
+      "symbol": "WELL",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://cdn.oku.trade/logos/10/0xa88594d404727625a9437c3f886c7643872296ae.png"
     },
     {
       "address": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
@@ -2089,6 +2097,14 @@
       "logoURI": "https://cdn.oku.trade/logos/1750/0x51e85d70944256710cb141847f1a04f568c1db0e.png"
     },
     {
+      "address": "0x519d3443cACc61bD844546eDAea48E5502021802",
+      "name": "LightLink",
+      "symbol": "LL",
+      "decimals": 18,
+      "chainId": 1890,
+      "logoURI": "https://cdn.oku.trade/logos/1890/0x519d3443cacc61bd844546edaea48e5502021802.png"
+    },
+    {
       "address": "0x7EbeF2A4b1B09381Ec5B9dF8C5c6f2dBECA59c73",
       "name": "Wrapped Ether",
       "symbol": "WETH",
@@ -2114,8 +2130,8 @@
     },
     {
       "address": "0xd9d7123552fA2bEdB2348bB562576D67f6E8e96E",
-      "name": "LightLink",
-      "symbol": "LL.e",
+      "name": "LightLink (Legacy)",
+      "symbol": "LL.e (Legacy)",
       "decimals": 18,
       "chainId": 1890,
       "logoURI": "https://cdn.oku.trade/logos/1890/0xd9d7123552fa2bedb2348bb562576d67f6e8e96e.png"
@@ -3305,20 +3321,20 @@
       "logoURI": "https://cdn.oku.trade/logos/42793/0x004a476b5b76738e34c86c7144554b9d34402f13.png"
     },
     {
-      "name": "Sogni AI",
-      "symbol": "SOGNI",
-      "decimals": 18,
-      "address": "0x12B11c246BD3aF9b1F18C5A9710Ef889Ca1C9B28",
-      "chainId": 42793,
-      "logoURI": "https://cdn.oku.trade/logos/42793/0x12b11c246bd3af9b1f18c5a9710ef889ca1c9b28.png"
-    },
-    {
       "name": "Lyzi",
       "symbol": "LYZI",
       "decimals": 6,
       "address": "0x19418d0af0F36865cDfbB2437dFEd29BA34d3190",
       "chainId": 42793,
       "logoURI": "https://cdn.oku.trade/logos/42793/0x19418d0af0f36865cdfbb2437dfed29ba34d3190.png"
+    },
+    {
+      "name": "Sogni AI",
+      "symbol": "SOGNI",
+      "decimals": 18,
+      "address": "0x2767Fc1048cd0ae4fd952eeF09853301c9DC7173",
+      "chainId": 42793,
+      "logoURI": "https://cdn.oku.trade/logos/42793/0x2767fc1048cd0ae4fd952eef09853301c9dc7173.png"
     },
     {
       "address": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
@@ -3481,6 +3497,14 @@
       "logoURI": "https://cdn.oku.trade/logos/43111/0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e.png"
     },
     {
+      "address": "0x1C60ba0A0eD1019e8Eb035E6daF4155A5cE2380B",
+      "name": "EURC",
+      "symbol": "EURC",
+      "decimals": 6,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0x1c60ba0a0ed1019e8eb035e6daf4155a5ce2380b.png"
+    },
+    {
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
       "name": "Renzo Restaked ETH",
       "symbol": "ezETH",
@@ -3490,7 +3514,7 @@
     },
     {
       "address": "0x79A02482A880bCE3F13e09Da970dC34db4CD24d1",
-      "name": "Bridged USDC",
+      "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 480,
@@ -3519,6 +3543,14 @@
       "address": "0x3d8EADb739D1Ef95dd53D718e4810721837c69c1",
       "chainId": 50,
       "logoURI": "https://cdn.oku.trade/logos/50/0x3d8eadb739d1ef95dd53d718e4810721837c69c1.png"
+    },
+    {
+      "name": "Dog with a Purpose",
+      "symbol": "DOPU",
+      "decimals": 18,
+      "address": "0x3fB46c4Db76d8E9f69F3F8388f43a7CA7E140807",
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0x3fb46c4db76d8e9f69f3f8388f43a7ca7e140807.png"
     },
     {
       "name": "Wrapped XDC",
@@ -5713,6 +5745,14 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0x6100e367285b01f48d07953803a2d8dca5d19873.png"
+    },
+    {
+      "address": "0x90729a45948c3078890Bc80F2a4e7870A2Ea4C5E",
+      "name": "BiLira",
+      "symbol": "TRYB",
+      "decimals": 6,
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0x90729a45948c3078890bc80f2a4e7870a2ea4c5e.png"
     },
     {
       "address": "0x92A01Ab7317Ac318b39b00EB6704ba56F0245D7a",
