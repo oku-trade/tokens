@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-12-18T22:41:06.375Z",
+  "timestamp": "2025-12-18T22:44:46.427Z",
   "version": {
     "major": 42,
-    "minor": 434,
+    "minor": 436,
     "patch": 354
   },
   "tokens": [
@@ -1905,6 +1905,14 @@
       "logoURI": "https://cdn.oku.trade/logos/146/0xeb44a2dcb4ab00494b605ded93afc02c09ac9a62.png"
     },
     {
+      "address": "0x081599E4936D12c46Bd48913B2329115Cd26cbdd",
+      "name": "Macropod AUDM",
+      "symbol": "AUDM",
+      "decimals": 18,
+      "chainId": 151,
+      "logoURI": "https://cdn.oku.trade/logos/151/0x081599e4936d12c46bd48913b2329115cd26cbdd.png"
+    },
+    {
       "address": "0x5501A36b1313aC5d27e85418acd2AA4564f50b44",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
@@ -3567,6 +3575,14 @@
       "address": "0x9B8e12b0BAC165B86967E771d98B520Ec3F665A6",
       "chainId": 50,
       "logoURI": "https://cdn.oku.trade/logos/50/0x9b8e12b0bac165b86967e771d98b520ec3f665a6.png"
+    },
+    {
+      "name": "Australian Digital Dollar",
+      "symbol": "AUDD",
+      "decimals": 18,
+      "address": "0x9fe4E6321eEB7c4bc537570F015e4734b15002B8",
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0x9fe4e6321eeb7c4bc537570f015e4734b15002b8.png"
     },
     {
       "address": "0xC6Ae1Db6C66d909F7bFEeEb24F9adb8620bf9dbf",
