@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-12-18T11:20:12.970Z",
+  "timestamp": "2025-12-18T13:05:26.181Z",
   "version": {
     "major": 42,
-    "minor": 433,
+    "minor": 434,
     "patch": 1072
   },
   "tokens": [
@@ -3565,6 +3565,14 @@
       "symbol": "psXDC",
       "decimals": 18,
       "address": "0x9B8e12b0BAC165B86967E771d98B520Ec3F665A6",
+      "chainId": 50,
+      "logoURI": ""
+    },
+    {
+      "name": "Australian Digital Dollar",
+      "symbol": "AUDD",
+      "decimals": 18,
+      "address": "0x9fe4E6321eEB7c4bc537570F015e4734b15002B8",
       "chainId": 50,
       "logoURI": ""
     },
