@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-12-16T16:43:07.684Z",
+  "timestamp": "2025-12-18T22:41:06.375Z",
   "version": {
     "major": 42,
-    "minor": 433,
+    "minor": 434,
     "patch": 354
   },
   "tokens": [
@@ -5788,6 +5788,17 @@
       "address": "0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d",
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xc1b471a3228aa15571c05e79a002a26edf6f3c9d.png"
+    },
+    {
+      "name": "yzPP",
+      "symbol": "yzPP",
+      "decimals": 18,
+      "website": "https://yuzu.money/",
+      "description": "yzPP (Yuzu Protection Pool) is the protocol’s first-loss tranche",
+      "explorer": "https://plasmascan.to/token/0xEbFC8C2Fe73C431Ef2A371AeA9132110aaB50DCa",
+      "address": "0xEbFC8C2Fe73C431Ef2A371AeA9132110aaB50DCa",
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0xebfc8c2fe73c431ef2a371aea9132110aab50dca.png"
     },
     {
       "address": "0xfC8A5aeEfAd8cC23f629489Cdc6b0Ec883D04702",
