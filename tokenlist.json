@@ -5824,6 +5824,15 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xfc8a5aeefad8cc23f629489cdc6b0ec883d04702.png"
+    },
+    {
+      "address": "0x97401d48A80B15bC7291599e24B590Eedcd7cE37",
+      "name": "Hyperstitions",
+      "symbol": "HST",
+      "website": "https://www.hyperstitions.com/",
+      "decimals": 18,
+      "chainId": 143,
+      "logoURI": "https://cdn.oku.trade/logos/143/0x97401d48A80B15bC7291599e24B590Eedcd7cE37.png"
     }
   ]
 }
