@@ -1,10 +1,10 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-12-18T22:44:46.427Z",
+  "timestamp": "2025-12-29T16:55:24.416Z",
   "version": {
     "major": 42,
-    "minor": 436,
-    "patch": 354
+    "minor": 437,
+    "patch": 355
   },
   "tokens": [
     {
@@ -1513,6 +1513,14 @@
       "logoURI": "https://cdn.oku.trade/logos/137/0xff60a9a00314681069c8fc3412fdf6bb76433b09.png"
     },
     {
+      "address": "0x97401d48A80B15bC7291599e24B590Eedcd7cE37",
+      "name": "Hyperstitions",
+      "symbol": "HST",
+      "decimals": 18,
+      "chainId": 143,
+      "logoURI": "https://cdn.oku.trade/logos/143/0x97401d48a80b15bc7291599e24b590eedcd7ce37.png"
+    },
+    {
       "address": "0x037d8001C4b218B837E7b1052b6d48517BCA5156",
       "name": "Grupo Supervielle SA Tokenized by Sailing",
       "symbol": "SUPVs",
@@ -1911,6 +1919,14 @@
       "decimals": 18,
       "chainId": 151,
       "logoURI": "https://cdn.oku.trade/logos/151/0x081599e4936d12c46bd48913b2329115cd26cbdd.png"
+    },
+    {
+      "address": "0x54a210e824B0F89dA988E4B5586440aB354f0e46",
+      "name": "Australian Digital Dollar",
+      "symbol": "AUDD",
+      "decimals": 6,
+      "chainId": 151,
+      "logoURI": "https://cdn.oku.trade/logos/151/0x54a210e824b0f89da988e4b5586440ab354f0e46.png"
     },
     {
       "address": "0x5501A36b1313aC5d27e85418acd2AA4564f50b44",
@@ -5824,15 +5840,6 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xfc8a5aeefad8cc23f629489cdc6b0ec883d04702.png"
-    },
-    {
-      "address": "0x97401d48A80B15bC7291599e24B590Eedcd7cE37",
-      "name": "Hyperstitions",
-      "symbol": "HST",
-      "website": "https://www.hyperstitions.com/",
-      "decimals": 18,
-      "chainId": 143,
-      "logoURI": "https://cdn.oku.trade/logos/143/0x97401d48A80B15bC7291599e24B590Eedcd7cE37.png"
     }
   ]
 }
