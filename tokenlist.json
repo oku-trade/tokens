@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2025-12-29T16:55:24.416Z",
+  "timestamp": "2026-01-05T21:05:36.296Z",
   "version": {
     "major": 42,
-    "minor": 437,
+    "minor": 438,
     "patch": 355
   },
   "tokens": [
@@ -5820,6 +5820,14 @@
       "address": "0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d",
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xc1b471a3228aa15571c05e79a002a26edf6f3c9d.png"
+    },
+    {
+      "address": "0xC4374775489CB9C56003BF2C9b12495fC64F0771",
+      "name": "Syrup USDT",
+      "symbol": "syrupUSDT",
+      "decimals": 6,
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0xc4374775489cb9c56003bf2c9b12495fc64f0771.png"
     },
     {
       "name": "yzPP",
