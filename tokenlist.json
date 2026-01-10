@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-01-05T21:05:36.296Z",
+  "timestamp": "2026-01-10T00:47:04.748Z",
   "version": {
     "major": 42,
-    "minor": 438,
+    "minor": 452,
     "patch": 355
   },
   "tokens": [
@@ -4651,6 +4651,22 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0x1dc7edcf1368285e77fdb2e9bfba56f48ec317bd.png"
     },
     {
+      "address": "0x1a9022A1552Ca46580615cA972dD36830206094C",
+      "name": "Chicago Bears",
+      "symbol": "CHI",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x1a9022a1552ca46580615ca972dd36830206094c.png"
+    },
+    {
+      "address": "0x1b6041AFc50Cc343fe47046f2701b142f07F54C3",
+      "name": "Pittsburgh Steelers",
+      "symbol": "PIT",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x1b6041afc50cc343fe47046f2701b142f07f54c3.png"
+    },
+    {
       "address": "0x1b6A569DD61EdCe3C383f6D565e2f79Ec3a12980",
       "name": "Young Peezy AKA Pepe",
       "symbol": "PEEZY",
@@ -4739,6 +4755,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0x3837b038e3194d18bd5eb099c69399820c49fbff.png"
     },
     {
+      "address": "0x38C2A7Ad0798f080db90fb90f79D37432BC32828",
+      "name": "Los Angeles Rams",
+      "symbol": "LAR",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x38c2a7ad0798f080db90fb90f79d37432bc32828.png"
+    },
+    {
       "address": "0x40677EC2D93E5aB7A46146A30A5EcAB7C5871451",
       "name": "BitMine Immersion Technologies, Inc Tokenized by Sailing",
       "symbol": "BMNRs",
@@ -4777,6 +4801,14 @@
       "address": "0x4a125fa0eaA33F74fb011C5437F6E78738Bd0B07",
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0x4a125fa0eaa33f74fb011c5437f6e78738bd0b07.png"
+    },
+    {
+      "address": "0x4b24f89C3f7460175F281877bC11f06C27bD9859",
+      "name": "New England Patriots",
+      "symbol": "NE",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x4b24f89c3f7460175f281877bc11f06c27bd9859.png"
     },
     {
       "address": "0x50F88fe97f72CD3E75b9Eb4f747F59BcEBA80d59",
@@ -4971,12 +5003,36 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0x92da258fb6b3b0933666488e861b4af3d3e7a2dc.png"
     },
     {
+      "address": "0x9445502F94d7996E9d3408b3420702fBF0aD21a0",
+      "name": "Philadelphia Eagles",
+      "symbol": "PHI",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x9445502f94d7996e9d3408b3420702fbf0ad21a0.png"
+    },
+    {
       "address": "0x971e007444126Cc0939c658405B4D1ba4Dd6f635",
       "name": "Meta Platforms Inc Tokenized by Sailing",
       "symbol": "METAs",
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0x971e007444126cc0939c658405b4d1ba4dd6f635.png"
+    },
+    {
+      "address": "0x97D5BCb92767B2B570b78301815255E00D872961",
+      "name": "Green Bay Packers",
+      "symbol": "GB",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x97d5bcb92767b2b570b78301815255e00d872961.png"
+    },
+    {
+      "address": "0x99cd0Ae8FA0dd62625c1e1975e43E607C50A57F0",
+      "name": "Carolina Panthers",
+      "symbol": "CAR",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x99cd0ae8fa0dd62625c1e1975e43e607c50a57f0.png"
     },
     {
       "address": "0x9F8958bED430cFAA757F00963F800d19D769Cd79",
@@ -5017,6 +5073,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xaa6cccdce193698d33deb9ffd4be74eaa74c4898.png"
+    },
+    {
+      "address": "0xB681D92fBC0611EB443d6c708a89ff390A8d3292",
+      "name": "Houston Texans",
+      "symbol": "HOU",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb681d92fbc0611eb443d6c708a89ff390a8d3292.png"
     },
     {
       "address": "0xBaB990e0D6c094d57e8e6D30dFc3177A4E018b82",
@@ -5099,6 +5163,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xf4ad5a6aa3d66aa2730752f66e795748c1ceee39.png"
     },
     {
+      "address": "0xFCB65C81C73C328C284aDffFCDd1E846F0508552",
+      "name": "Buffalo Bills",
+      "symbol": "BUF",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xfcb65c81c73c328c284adfffcdd1e846f0508552.png"
+    },
+    {
       "address": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
       "name": "WELL (Old)",
       "symbol": "WELL",
@@ -5123,6 +5195,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xfef2d7b013b88fec2bfe4d2fee0aeb719af73481.png"
     },
     {
+      "address": "0xFfaCd2a94e44e6bb7dA01202f954f4Bbc1F2B254",
+      "name": "Jacksonville Jaguars",
+      "symbol": "JAX",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xffacd2a94e44e6bb7da01202f954f4bbc1f2b254.png"
+    },
+    {
       "address": "0xaCBf591209A7315c8cD5cb2Fa0151F6a37c98153",
       "name": "DLocal Ltd Tokenized by Sailing",
       "symbol": "DLOs",
@@ -5137,6 +5217,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf.png"
+    },
+    {
+      "address": "0xb08D4ca999155D71dcB63D897d891B8fA8b29F8B",
+      "name": "Seattle Seahawks",
+      "symbol": "SEA",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb08d4ca999155d71dcb63d897d891b8fa8b29f8b.png"
     },
     {
       "address": "0xb290b4612Ad0374CE5Ab16465194Ca5954FCcD60",
@@ -5187,6 +5275,22 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xc4cb7b43f7f97d18b4c4a545b589f95ec06829fb.png"
     },
     {
+      "address": "0xc927060866b357Cd1e4CfA5eEb3aAea8C15d4D7c",
+      "name": "San Francisco 49ers",
+      "symbol": "SF",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xc927060866b357cd1e4cfa5eeb3aaea8c15d4d7c.png"
+    },
+    {
+      "address": "0xcF105Cc7afCCc7f20aAb86a67D94E07a92B0e5eF",
+      "name": "Los Angeles Chargers",
+      "symbol": "LAC",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xcf105cc7afccc7f20aab86a67d94e07a92b0e5ef.png"
+    },
+    {
       "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
       "name": "Coinbase Wrapped BTC",
       "symbol": "cbBTC",
@@ -5225,6 +5329,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xd85c31854c2b0fb40aaa9e2fc4da23c21f829d46.png"
+    },
+    {
+      "address": "0xdcFA70f574c8CF68DA63927B8E9B6c1CcDF7633B",
+      "name": "Denver Broncos",
+      "symbol": "DEN",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xdcfa70f574c8cf68da63927b8e9b6c1ccdf7633b.png"
     },
     {
       "address": "0xdf00fdE26A6819507649904Ca52FE5062eF75Ba7",
