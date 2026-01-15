@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-01-10T00:47:04.748Z",
+  "timestamp": "2026-01-15T17:29:35.372Z",
   "version": {
     "major": 42,
-    "minor": 452,
+    "minor": 454,
     "patch": 355
   },
   "tokens": [
@@ -5251,6 +5251,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452.png"
     },
     {
+      "address": "0xc1E9dc436DB90F778c0D0F8DBa92d8aC5562804d",
+      "name": "City Dog",
+      "symbol": "CITYDOG",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xc1e9dc436db90f778c0d0f8dba92d8ac5562804d.png"
+    },
+    {
       "address": "0xc27468b12ffA6d714B1b5fBC87eF403F38b82AD4",
       "name": "OFFICIAL TRUMP",
       "symbol": "TRUMP",
@@ -5345,6 +5353,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xdf00fde26a6819507649904ca52fe5062ef75ba7.png"
+    },
+    {
+      "address": "0xe0CC881E977006488D694148223eAdb5eF207275",
+      "name": "burd",
+      "symbol": "BURD",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xe0cc881e977006488d694148223eadb5ef207275.png"
     },
     {
       "address": "0xe0Cd4F3a33f9966c8654f6B5bc64f6942370D88c",
