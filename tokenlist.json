@@ -1,8 +1,8 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-01-15T17:29:35.372Z",
+  "timestamp": "2026-01-23T21:13:03.737Z",
   "version": {
-    "major": 42,
+    "major": 43,
     "minor": 454,
     "patch": 355
   },
@@ -5976,6 +5976,14 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xfc8a5aeefad8cc23f629489cdc6b0ec883d04702.png"
+    },
+    {
+      "address": "0xd0Ee0CF300DFB598270cd7F4D0c6E0D8F6e13f29",
+      "name": "Altura Vault Tokens",
+      "symbol": "AVLT",
+      "decimals": 6,
+      "chainId": 999,
+      "logoURI": "https://cdn.oku.trade/logos/999/0xd0ee0cf300dfb598270cd7f4d0c6e0d8f6e13f29.png"
     }
   ]
 }
