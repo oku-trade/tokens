@@ -1,10 +1,10 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-01-23T21:13:03.737Z",
+  "timestamp": "2026-01-27T20:43:28.865Z",
   "version": {
     "major": 43,
-    "minor": 454,
-    "patch": 355
+    "minor": 455,
+    "patch": 356
   },
   "tokens": [
     {
@@ -348,7 +348,7 @@
       "description": "L-USDC is a bridged USD Coin (USDC) implementation for rollup ecosystems, designed in alignment with Circle’s official Bridged USDC Standard.",
       "explorer": "https://gnosisscan.io/token/0xCD2f64112ec04e21cC56F7bf2294A6A37790305e",
       "symbol": "USDC.e",
-      "decimals": 18,
+      "decimals": 6,
       "address": "0xCD2f64112ec04e21cC56F7bf2294A6A37790305e",
       "chainId": 100,
       "logoURI": "https://cdn.oku.trade/logos/100/0xcd2f64112ec04e21cc56f7bf2294a6a37790305e.png"
@@ -2535,6 +2535,17 @@
       "decimals": 18,
       "chainId": 288,
       "logoURI": "https://cdn.oku.trade/logos/288/0x52e4d8989fa8b3e1c06696e7b16def5d7707a0d1.png"
+    },
+    {
+      "name": "Bridged USDC (Lucid)",
+      "website": "https://lucidlabs.fi",
+      "description": "L-USDC is a bridged USD Coin (USDC) implementation for rollup ecosystems, designed in alignment with Circle’s official Bridged USDC Standard.",
+      "explorer": "https://bobascan.com/address/0x71879254030C385C0047b83968DA5436f82cd690",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "address": "0x71879254030C385C0047b83968DA5436f82cd690",
+      "chainId": 288,
+      "logoURI": "https://cdn.oku.trade/logos/288/0x71879254030c385c0047b83968da5436f82cd690.png"
     },
     {
       "address": "0x0837f2C7763B77d7b3D1DE8616edFC42a05d3aC6",
