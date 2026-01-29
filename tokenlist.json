@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-01-27T20:43:28.865Z",
+  "timestamp": "2026-01-29T16:45:15.768Z",
   "version": {
     "major": 43,
-    "minor": 455,
+    "minor": 456,
     "patch": 356
   },
   "tokens": [
@@ -184,6 +184,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0xa84f95eb3dabdc1bbd613709ef5f2fd42ce5be8d.png"
+    },
+    {
+      "address": "0xb8D89678E75a973E74698c976716308abB8a46A4",
+      "name": "Staked avUSD",
+      "symbol": "savUSD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0xb8d89678e75a973e74698c976716308abb8a46a4.png"
     },
     {
       "name": "Wrapped XTZ",
