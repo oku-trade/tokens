@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-01-29T16:45:15.768Z",
+  "timestamp": "2026-01-30T20:56:29.888Z",
   "version": {
     "major": 43,
-    "minor": 456,
+    "minor": 457,
     "patch": 356
   },
   "tokens": [
@@ -5100,6 +5100,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb681d92fbc0611eb443d6c708a89ff390a8d3292.png"
+    },
+    {
+      "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+      "name": "Moltbook",
+      "symbol": "MOLT",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb695559b26bb2c9703ef1935c37aeae9526bab07.png"
     },
     {
       "address": "0xBaB990e0D6c094d57e8e6D30dFc3177A4E018b82",
