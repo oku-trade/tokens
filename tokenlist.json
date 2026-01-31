@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-01-30T20:56:29.888Z",
+  "timestamp": "2026-01-31T05:54:59.451Z",
   "version": {
     "major": 43,
-    "minor": 457,
+    "minor": 458,
     "patch": 356
   },
   "tokens": [
@@ -4860,6 +4860,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0x5ba129abfebd3721864d9da90e76086cfed9754c.png"
+    },
+    {
+      "address": "0x5Da9be6787B4e88E46D718CcAe90c501E71C7b07",
+      "name": "OpenClaw",
+      "symbol": "OPENCLAW",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x5da9be6787b4e88e46d718ccae90c501e71c7b07.png"
     },
     {
       "address": "0x61C1500124fFe148387FFf2CDCD8426bC4cdD8C5",
