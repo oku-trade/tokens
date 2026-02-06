@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-01-31T05:54:59.451Z",
+  "timestamp": "2026-02-06T17:15:07.127Z",
   "version": {
     "major": 43,
-    "minor": 458,
+    "minor": 459,
     "patch": 356
   },
   "tokens": [
@@ -126,6 +126,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0x9f1060ccb458c07bbd371f1e3b5ff5dbac338b39.png"
+    },
+    {
+      "address": "0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2",
+      "name": "AZTEC",
+      "symbol": "AZTEC",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0xa27ec0006e59f245217ff08cd52a7e8b169e62d2.png"
     },
     {
       "address": "0xAa9435e8B790402fe37D690671F11e8acFA6A744",
