@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-02-06T17:15:07.127Z",
+  "timestamp": "2026-02-07T16:16:23.605Z",
   "version": {
     "major": 43,
-    "minor": 459,
+    "minor": 460,
     "patch": 356
   },
   "tokens": [
@@ -5948,6 +5948,14 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0x6100e367285b01f48d07953803a2d8dca5d19873.png"
+    },
+    {
+      "address": "0x61E030A56D33e8260FdD81f03B162A79Fe3449Cd",
+      "name": "Fluid",
+      "symbol": "FLUID",
+      "decimals": 18,
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0x61e030a56d33e8260fdd81f03b162a79fe3449cd.png"
     },
     {
       "address": "0x90729a45948c3078890Bc80F2a4e7870A2Ea4C5E",
