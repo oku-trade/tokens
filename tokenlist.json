@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-02-07T16:16:23.605Z",
+  "timestamp": "2026-02-17T19:16:54.511Z",
   "version": {
     "major": 43,
-    "minor": 460,
+    "minor": 463,
     "patch": 356
   },
   "tokens": [
@@ -1937,6 +1937,14 @@
       "logoURI": "https://cdn.oku.trade/logos/151/0x081599e4936d12c46bd48913b2329115cd26cbdd.png"
     },
     {
+      "name": "Stargate Bridged USD₮0",
+      "symbol": "USD₮0",
+      "decimals": 6,
+      "address": "0x420e07cec544b8A52B7d0c62b1C9BF990cc58083",
+      "chainId": 151,
+      "logoURI": "https://cdn.oku.trade/logos/151/0x420e07cec544b8a52b7d0c62b1c9bf990cc58083.png"
+    },
+    {
       "address": "0x54a210e824B0F89dA988E4B5586440aB354f0e46",
       "name": "Australian Digital Dollar",
       "symbol": "AUDD",
@@ -1951,6 +1959,14 @@
       "decimals": 8,
       "chainId": 151,
       "logoURI": "https://cdn.oku.trade/logos/151/0x5501a36b1313ac5d27e85418acd2aa4564f50b44.png"
+    },
+    {
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x5a7e19089909c92ae07a1bd33d3FeF428312DebA",
+      "chainId": 151,
+      "logoURI": "https://cdn.oku.trade/logos/151/0x5a7e19089909c92ae07a1bd33d3fef428312deba.png"
     },
     {
       "address": "0x6ed1F491e2d31536D6561f6bdB2AdC8F092a6076",
@@ -1975,6 +1991,14 @@
       "decimals": 6,
       "chainId": 151,
       "logoURI": "https://cdn.oku.trade/logos/151/0x8c4acd74ff4385f3b7911432fa6787aa14406f8b.png"
+    },
+    {
+      "name": "Stargate Bridged USDC",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "address": "0xE08DED898D7782B085cD240d7B234063696765aD",
+      "chainId": 151,
+      "logoURI": "https://cdn.oku.trade/logos/151/0xe08ded898d7782b085cd240d7b234063696765ad.png"
     },
     {
       "address": "0x1Cd0690fF9a693f5EF2dD976660a8dAFc81A109c",
