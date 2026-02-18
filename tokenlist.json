@@ -1,12 +1,20 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-02-17T19:16:54.511Z",
+  "timestamp": "2026-02-18T18:08:55.116Z",
   "version": {
-    "major": 43,
-    "minor": 463,
+    "major": 44,
+    "minor": 469,
     "patch": 356
   },
   "tokens": [
+    {
+      "address": "0x020940df9F5E77338a094D55b5B5914122a804A5",
+      "name": "Redbelly Network coin",
+      "symbol": "RBNT",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x020940df9f5e77338a094d55b5b5914122a804a5.png"
+    },
     {
       "address": "0x0317F9f077d90193871A4Ee1F1681e24c4A2671C",
       "name": "Sailing",
@@ -1025,6 +1033,14 @@
       "logoURI": "https://cdn.oku.trade/logos/1329/0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392.png"
     },
     {
+      "address": "0x020940df9F5E77338a094D55b5B5914122a804A5",
+      "name": "Redbelly Network coin",
+      "symbol": "RBNT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://cdn.oku.trade/logos/137/0x020940df9f5e77338a094d55b5b5914122a804a5.png"
+    },
+    {
       "address": "0x07E75874150b39d01ea83a1d428dA8B27d35Ed8e",
       "name": "Netflix Inc Tokenized by Sailing",
       "symbol": "NFLXs",
@@ -1535,6 +1551,14 @@
       "decimals": 18,
       "chainId": 143,
       "logoURI": "https://cdn.oku.trade/logos/143/0x97401d48a80b15bc7291599e24b590eedcd7ce37.png"
+    },
+    {
+      "address": "0x020940df9F5E77338a094D55b5B5914122a804A5",
+      "name": "Redbelly Network coin",
+      "symbol": "RBNT",
+      "decimals": 18,
+      "chainId": 146,
+      "logoURI": "https://cdn.oku.trade/logos/146/0x020940df9f5e77338a094d55b5b5914122a804a5.png"
     },
     {
       "address": "0x037d8001C4b218B837E7b1052b6d48517BCA5156",
@@ -2964,6 +2988,14 @@
       "logoURI": "https://cdn.oku.trade/logos/40/0xee327f30da53b42ccf80a6b86f818702365ef954.png"
     },
     {
+      "address": "0x020940df9F5E77338a094D55b5B5914122a804A5",
+      "name": "Redbelly Network coin",
+      "symbol": "RBNT",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://cdn.oku.trade/logos/42161/0x020940df9f5e77338a094d55b5b5914122a804a5.png"
+    },
+    {
       "address": "0x035E3A43C496F8F90015E5661f5279F7AA130B23",
       "name": "BitMine Immersion Technologies, Inc Tokenized by Sailing",
       "symbol": "BMNRs",
@@ -3572,6 +3604,14 @@
       "logoURI": "https://cdn.oku.trade/logos/43111/0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e.png"
     },
     {
+      "address": "0x020940df9F5E77338a094D55b5B5914122a804A5",
+      "name": "Redbelly Network coin",
+      "symbol": "RBNT",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://cdn.oku.trade/logos/43114/0x020940df9f5e77338a094d55b5b5914122a804a5.png"
+    },
+    {
       "address": "0x1C60ba0A0eD1019e8Eb035E6daF4155A5cE2380B",
       "name": "EURC",
       "symbol": "EURC",
@@ -3892,6 +3932,14 @@
       "address": "0x91F9cc2649ac70a071602cadE9b0C1A5868af51D",
       "chainId": 56,
       "logoURI": "https://cdn.oku.trade/logos/56/0x91f9cc2649ac70a071602cade9b0c1a5868af51d.png"
+    },
+    {
+      "address": "0x9C52485aFAE2d45Ac7574EA897233eD4CF8f2CAc",
+      "name": "Redbelly Network coin",
+      "symbol": "RBNT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://cdn.oku.trade/logos/56/0x9c52485afae2d45ac7574ea897233ed4cf8f2cac.png"
     },
     {
       "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
@@ -4636,6 +4684,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0x004975f0005b1e2e78c29eaf8434794dc9c52c30.png"
+    },
+    {
+      "address": "0x020940df9F5E77338a094D55b5B5914122a804A5",
+      "name": "Redbelly Network coin",
+      "symbol": "RBNT",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x020940df9f5e77338a094d55b5b5914122a804a5.png"
     },
     {
       "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
