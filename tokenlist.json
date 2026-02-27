@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-02-23T18:15:10.377Z",
+  "timestamp": "2026-02-27T03:31:04.298Z",
   "version": {
     "major": 44,
-    "minor": 469,
+    "minor": 471,
     "patch": 356
   },
   "tokens": [
@@ -6014,6 +6014,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8822/0xf88d2ad6638aa4aa62d7f07396b06ead6cd03a70.png"
     },
     {
+      "address": "0x29AD7fE4516909b9e498B5a65339e54791293234",
+      "name": "Metronome Synth USD",
+      "symbol": "msUSD",
+      "decimals": 18,
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0x29ad7fe4516909b9e498b5a65339e54791293234.png"
+    },
+    {
       "address": "0x2E7Fa0C70D63FFfa29c792f406C3a66C01918BA1",
       "name": "Fishcoin",
       "symbol": "FIS",
@@ -6036,6 +6044,14 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0x61e030a56d33e8260fdd81f03b162a79fe3449cd.png"
+    },
+    {
+      "address": "0x7230a9D42D622E18FDf7207041EcA18465F9F1bE",
+      "name": "Metronome Synth ETH",
+      "symbol": "msETH",
+      "decimals": 18,
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0x7230a9d42d622e18fdf7207041eca18465f9f1be.png"
     },
     {
       "address": "0x90729a45948c3078890Bc80F2a4e7870A2Ea4C5E",
