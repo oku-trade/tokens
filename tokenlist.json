@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-03-17T00:27:58.016Z",
+  "timestamp": "2026-03-24T16:00:56.086Z",
   "version": {
     "major": 44,
-    "minor": 472,
+    "minor": 476,
     "patch": 356
   },
   "tokens": [
@@ -945,6 +945,14 @@
       "logoURI": "https://cdn.oku.trade/logos/1284/0xffffffff7d2b0b761af01ca8e25242976ac0ad7d.png"
     },
     {
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1329,
+      "logoURI": "https://cdn.oku.trade/logos/1329/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png"
+    },
+    {
       "address": "0x059A6b0bA116c63191182a0956cF697d0d2213eC",
       "name": "Synnax Stablecoin",
       "symbol": "syUSD",
@@ -967,6 +975,22 @@
       "decimals": 6,
       "chainId": 1329,
       "logoURI": "https://cdn.oku.trade/logos/1329/0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1.png"
+    },
+    {
+      "address": "0x4809010926aec940b550D34a46A52739f996D75D",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "wsrUSD",
+      "decimals": 18,
+      "chainId": 1329,
+      "logoURI": "https://cdn.oku.trade/logos/1329/0x4809010926aec940b550d34a46a52739f996d75d.png"
+    },
+    {
+      "address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
+      "name": "Staked Frax USD",
+      "symbol": "sfrxUSD",
+      "decimals": 18,
+      "chainId": 1329,
+      "logoURI": "https://cdn.oku.trade/logos/1329/0x5bff88ca1442c2496f7e475e9e7786383bc070c0.png"
     },
     {
       "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
@@ -1007,6 +1031,14 @@
       "decimals": 6,
       "chainId": 1329,
       "logoURI": "https://cdn.oku.trade/logos/1329/0xb75d0b03c06a926e488e2659df1a861f860bd3d1.png"
+    },
+    {
+      "address": "0xC257361320F4514D91c05F461006CE6a0300E2d2",
+      "name": "Splashing SEI",
+      "symbol": "spSEI",
+      "decimals": 18,
+      "chainId": 1329,
+      "logoURI": "https://cdn.oku.trade/logos/1329/0xc257361320f4514d91c05f461006ce6a0300e2d2.png"
     },
     {
       "address": "0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
