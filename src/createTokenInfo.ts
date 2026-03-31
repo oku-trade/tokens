@@ -47,7 +47,7 @@ export async function createTokenInfo(input: TokenInfoInput, options: CreateToke
   }
 
   const chainId = chainInfo.id;
-  const defaultRpcUrl = `https://venn.staging.gfx.town/${chainName}`;
+  const defaultRpcUrl = `https://venn.oku.gfx.town/${chainName}`;
   const effectiveRpcUrl = rpcUrl || defaultRpcUrl;
 
   // Create public client with configurable RPC URL
