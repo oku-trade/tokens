@@ -1,10 +1,10 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-03-24T16:00:56.086Z",
+  "timestamp": "2026-03-31T16:43:49.552Z",
   "version": {
     "major": 44,
-    "minor": 476,
-    "patch": 356
+    "minor": 484,
+    "patch": 357
   },
   "tokens": [
     {
@@ -30,6 +30,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0x36e66fbbce51e4cd5bd3c62b637eb411b18949d4.png"
+    },
+    {
+      "address": "0x387167e5C088468906Bcd67C06746409a8E44abA",
+      "name": "Yuzu USD",
+      "symbol": "yzUSD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x387167e5c088468906bcd67c06746409a8e44aba.png"
     },
     {
       "address": "0x3dC2bfe52c5de2aA17C3e89Ac816ddDeF24f0736",
@@ -104,6 +112,14 @@
       "logoURI": "https://cdn.oku.trade/logos/1/0x69fa6e8f2ff28d66ebbb781d2f29f0896492568d.png"
     },
     {
+      "address": "0x6DFF69eb720986E98Bb3E8b26cb9E02Ec1a35D12",
+      "name": "Staked Yuzu USD",
+      "symbol": "syzUSD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x6dff69eb720986e98bb3e8b26cb9e02ec1a35d12.png"
+    },
+    {
       "address": "0x7CB8A5ABf019983eD053484D5ad17F96FEc56F28",
       "name": "Lead Wrapped Bitcoin",
       "symbol": "leadBTC",
@@ -150,6 +166,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0xaa9435e8b790402fe37d690671f11e8acfa6a744.png"
+    },
+    {
+      "address": "0xB2429bA2cfa6387C9A336Da127d34480C069F851",
+      "name": "Yuzu Protection Pool",
+      "symbol": "yzPP",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0xb2429ba2cfa6387c9a336da127d34480c069f851.png"
     },
     {
       "name": "Wrapped Ether",
@@ -1577,12 +1601,36 @@
       "logoURI": "https://cdn.oku.trade/logos/137/0xff60a9a00314681069c8fc3412fdf6bb76433b09.png"
     },
     {
+      "address": "0x484be0540aD49f351eaa04eeB35dF0f937D4E73f",
+      "name": "Staked Yuzu USD",
+      "symbol": "syzUSD",
+      "decimals": 18,
+      "chainId": 143,
+      "logoURI": "https://cdn.oku.trade/logos/143/0x484be0540ad49f351eaa04eeb35df0f937d4e73f.png"
+    },
+    {
       "address": "0x97401d48A80B15bC7291599e24B590Eedcd7cE37",
       "name": "Hyperstitions",
       "symbol": "HST",
       "decimals": 18,
       "chainId": 143,
       "logoURI": "https://cdn.oku.trade/logos/143/0x97401d48a80b15bc7291599e24b590eedcd7ce37.png"
+    },
+    {
+      "address": "0x9dcB0D17eDDE04D27F387c89fECb78654C373858",
+      "name": "Yuzu USD",
+      "symbol": "yzUSD",
+      "decimals": 18,
+      "chainId": 143,
+      "logoURI": "https://cdn.oku.trade/logos/143/0x9dcb0d17edde04d27f387c89fecb78654c373858.png"
+    },
+    {
+      "address": "0xb37476cB1F6111cC682b107B747b8652f90B0984",
+      "name": "Yuzu Protection Pool",
+      "symbol": "yzPP",
+      "decimals": 18,
+      "chainId": 143,
+      "logoURI": "https://cdn.oku.trade/logos/143/0xb37476cb1f6111cc682b107b747b8652f90b0984.png"
     },
     {
       "address": "0x020940df9F5E77338a094D55b5B5914122a804A5",
@@ -6086,6 +6134,14 @@
       "logoURI": "https://cdn.oku.trade/logos/9745/0x61e030a56d33e8260fdd81f03b162a79fe3449cd.png"
     },
     {
+      "address": "0x6695c0f8706C5ACe3Bdf8995073179cCA47926dc",
+      "name": "Yuzu USD",
+      "symbol": "yzUSD",
+      "decimals": 18,
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0x6695c0f8706c5ace3bdf8995073179cca47926dc.png"
+    },
+    {
       "address": "0x7230a9D42D622E18FDf7207041EcA18465F9F1bE",
       "name": "Metronome Synth ETH",
       "symbol": "msETH",
@@ -6145,13 +6201,18 @@
       "logoURI": "https://cdn.oku.trade/logos/9745/0xc4374775489cb9c56003bf2c9b12495fc64f0771.png"
     },
     {
-      "name": "yzPP",
+      "address": "0xC8A8DF9B210243c55D31c73090F06787aD0A1Bf6",
+      "name": "Staked Yuzu USD",
+      "symbol": "syzUSD",
+      "decimals": 18,
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0xc8a8df9b210243c55d31c73090f06787ad0a1bf6.png"
+    },
+    {
+      "address": "0xEbFC8C2Fe73C431Ef2A371AeA9132110aaB50DCa",
+      "name": "Yuzu Protection Pool",
       "symbol": "yzPP",
       "decimals": 18,
-      "website": "https://yuzu.money/",
-      "description": "yzPP (Yuzu Protection Pool) is the protocol’s first-loss tranche",
-      "explorer": "https://plasmascan.to/token/0xEbFC8C2Fe73C431Ef2A371AeA9132110aaB50DCa",
-      "address": "0xEbFC8C2Fe73C431Ef2A371AeA9132110aaB50DCa",
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xebfc8c2fe73c431ef2a371aea9132110aab50dca.png"
     },
