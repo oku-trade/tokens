@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-08T16:12:04.490Z",
+  "timestamp": "2026-04-08T16:28:32.670Z",
   "version": {
     "major": 45,
-    "minor": 484,
+    "minor": 486,
     "patch": 357
   },
   "tokens": [
@@ -2113,6 +2113,14 @@
       "logoURI": "https://cdn.oku.trade/logos/151/0xe08ded898d7782b085cd240d7b234063696765ad.png"
     },
     {
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 16661,
+      "logoURI": "https://cdn.oku.trade/logos/16661/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png"
+    },
+    {
       "address": "0x1Cd0690fF9a693f5EF2dD976660a8dAFc81A109c",
       "name": "Wrapped 0G",
       "symbol": "W0G",
@@ -2127,6 +2135,14 @@
       "decimals": 6,
       "chainId": 16661,
       "logoURI": "https://cdn.oku.trade/logos/16661/0x1f3aa82227281ca364bfb3d253b0f1af1da6473e.png"
+    },
+    {
+      "address": "0x564770837Ef8bbF077cFe54E5f6106538c815B22",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 16661,
+      "logoURI": "https://cdn.oku.trade/logos/16661/0x564770837ef8bbf077cfe54e5f6106538c815b22.png"
     },
     {
       "address": "0x07d83526730c7438048D55A4fc0b850e2aaB6f0b",
