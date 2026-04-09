@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-09T02:49:03.017Z",
+  "timestamp": "2026-04-09T15:19:06.139Z",
   "version": {
     "major": 45,
-    "minor": 488,
+    "minor": 489,
     "patch": 357
   },
   "tokens": [
@@ -993,6 +993,14 @@
       "logoURI": "https://cdn.oku.trade/logos/1329/0x059a6b0ba116c63191182a0956cf697d0d2213ec.png"
     },
     {
+      "address": "0x142cdc44890978B506e745bB3Bd11607B7f7faEf",
+      "name": "PYUSD0",
+      "symbol": "PYUSD0",
+      "decimals": 6,
+      "chainId": 1329,
+      "logoURI": "https://cdn.oku.trade/logos/1329/0x142cdc44890978b506e745bb3bd11607b7f7faef.png"
+    },
+    {
       "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
       "name": "Wrapped Ether",
       "symbol": "WETH",
@@ -1017,14 +1025,6 @@
       "logoURI": "https://cdn.oku.trade/logos/1329/0x4809010926aec940b550d34a46a52739f996d75d.png"
     },
     {
-      "address": "0x50715ae180FF0EA799dc8AB635C2D876e528bfe8",
-      "name": "Feather PYUSD0",
-      "symbol": "featherPYUSD0",
-      "decimals": 18,
-      "chainId": 1329,
-      "logoURI": "https://cdn.oku.trade/logos/1329/0x50715ae180ff0ea799dc8ab635c2d876e528bfe8.png"
-    },
-    {
       "address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
       "name": "Staked Frax USD",
       "symbol": "sfrxUSD",
@@ -1047,14 +1047,6 @@
       "decimals": 6,
       "chainId": 1329,
       "logoURI": "https://cdn.oku.trade/logos/1329/0x5f0e07dfee5832faa00c63f2d33a0d79150e8598.png"
-    },
-    {
-      "address": "0x6137dCfDd3C83Fe2922B1cba4105d2E92B327A06",
-      "name": "PYUSD0 Y10k Capital",
-      "symbol": "y10kPYUSD",
-      "decimals": 18,
-      "chainId": 1329,
-      "logoURI": "https://cdn.oku.trade/logos/1329/0x6137dcfdd3c83fe2922b1cba4105d2e92b327a06.png"
     },
     {
       "address": "0x9151434b16b9763660705744891fA906F660EcC5",
