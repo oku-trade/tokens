@@ -1,8 +1,8 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-09T15:19:06.139Z",
+  "timestamp": "2026-04-10T16:11:23.810Z",
   "version": {
-    "major": 45,
+    "major": 46,
     "minor": 489,
     "patch": 357
   },
@@ -4284,6 +4284,22 @@
       "decimals": 18,
       "chainId": 60808,
       "logoURI": "https://cdn.oku.trade/logos/60808/0xecf21b335b41f9d5a89f6186a99c19a3c467871f.png"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 685689,
+      "logoURI": "https://cdn.oku.trade/logos/685689/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "address": "0x5b32c997211621d55a89Cc5abAF1cC21F3A6ddF5",
+      "name": "Bridged USDC (Stargate)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "chainId": 685689,
+      "logoURI": "https://cdn.oku.trade/logos/685689/0x5b32c997211621d55a89cc5abaf1cc21f3a6ddf5.png"
     },
     {
       "name": "Bridged USDC (Stargate)",
