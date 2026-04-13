@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-10T16:11:23.810Z",
+  "timestamp": "2026-04-13T18:23:12.847Z",
   "version": {
     "major": 46,
-    "minor": 489,
+    "minor": 490,
     "patch": 357
   },
   "tokens": [
@@ -1615,6 +1615,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://cdn.oku.trade/logos/137/0xff60a9a00314681069c8fc3412fdf6bb76433b09.png"
+    },
+    {
+      "address": "0x3Ec7310937281CA4Bf89D5bB11704bE9b7ff7777",
+      "name": "ANAGO",
+      "symbol": "ANAGO",
+      "decimals": 18,
+      "chainId": 143,
+      "logoURI": "https://cdn.oku.trade/logos/143/0x3ec7310937281ca4bf89d5bb11704be9b7ff7777.png"
     },
     {
       "address": "0x484be0540aD49f351eaa04eeB35dF0f937D4E73f",
