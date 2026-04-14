@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-14T15:37:08.553Z",
+  "timestamp": "2026-04-14T16:14:10.238Z",
   "version": {
     "major": 46,
-    "minor": 493,
+    "minor": 494,
     "patch": 357
   },
   "tokens": [
@@ -967,6 +967,14 @@
       "decimals": 6,
       "chainId": 1284,
       "logoURI": "https://cdn.oku.trade/logos/1284/0xffffffff7d2b0b761af01ca8e25242976ac0ad7d.png"
+    },
+    {
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 130,
+      "logoURI": "https://cdn.oku.trade/logos/130/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png"
     },
     {
       "address": "0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
