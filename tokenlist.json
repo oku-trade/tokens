@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-14T02:44:52.542Z",
+  "timestamp": "2026-04-14T15:37:08.553Z",
   "version": {
     "major": 46,
-    "minor": 491,
+    "minor": 493,
     "patch": 357
   },
   "tokens": [
@@ -1505,6 +1505,14 @@
       "logoURI": "https://cdn.oku.trade/logos/137/0xe407ff7cc8eab24a2670e17e8488e4821bc45471.png"
     },
     {
+      "address": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+      "name": "JPY Coin",
+      "symbol": "JPYC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://cdn.oku.trade/logos/137/0xe7c3d8c9a439fede00d2600032d5db0be71c3c29.png"
+    },
+    {
       "address": "0xE9B80cAD988046335D176Bef8D91a5b17e12B56d",
       "name": "United States Brent Oil Fund Tokenized by Sailing",
       "symbol": "BNOs",
@@ -2826,6 +2834,14 @@
       "decimals": 6,
       "chainId": 30,
       "logoURI": "https://cdn.oku.trade/logos/30/0x779ded0c9e1022225f8e0630b35a9b54be713736.png"
+    },
+    {
+      "address": "0x7F71f02aE0945364F658860d67dbc10c86Ca3a3C",
+      "name": "Midas Hyperithm BTC",
+      "symbol": "mHyperBTC",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://cdn.oku.trade/logos/30/0x7f71f02ae0945364f658860d67dbc10c86ca3a3c.png"
     },
     {
       "address": "0x91B26F71D8b6F78b7BdaDd557c20727232C4bF2c",
