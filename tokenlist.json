@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-13T18:23:12.847Z",
+  "timestamp": "2026-04-14T02:44:52.542Z",
   "version": {
     "major": 46,
-    "minor": 490,
+    "minor": 491,
     "patch": 357
   },
   "tokens": [
@@ -4300,6 +4300,14 @@
       "decimals": 18,
       "chainId": 685689,
       "logoURI": "https://cdn.oku.trade/logos/685689/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "address": "0x4e742319f6b0FeC4afA504fC8ED3cEAB0fb751A2",
+      "name": "Gensyn",
+      "symbol": "AI",
+      "decimals": 18,
+      "chainId": 685689,
+      "logoURI": "https://cdn.oku.trade/logos/685689/0x4e742319f6b0fec4afa504fc8ed3ceab0fb751a2.png"
     },
     {
       "address": "0x5b32c997211621d55a89Cc5abAF1cC21F3A6ddF5",
