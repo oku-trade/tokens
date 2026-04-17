@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-17T18:14:27.917Z",
+  "timestamp": "2026-04-17T20:52:27.540Z",
   "version": {
     "major": 47,
-    "minor": 494,
+    "minor": 496,
     "patch": 357
   },
   "tokens": [
@@ -3788,6 +3788,17 @@
       "logoURI": "https://cdn.oku.trade/logos/43114/0x020940df9f5e77338a094d55b5b5914122a804a5.png"
     },
     {
+      "address": "0x0458965C6A85b14E022C1920276197c972f0Fd2f",
+      "name": "SEED Token",
+      "symbol": "SEED",
+      "decimals": 18,
+      "website": "https://www.seedfarm.world/",
+      "description": "SEED Token for the SEED Farm ecosystem on World Chain.",
+      "explorer": "https://worldscan.org/address/0x0458965C6A85b14E022C1920276197c972f0Fd2f",
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0x0458965c6a85b14e022c1920276197c972f0fd2f.png"
+    },
+    {
       "address": "0x1C60ba0A0eD1019e8Eb035E6daF4155A5cE2380B",
       "name": "EURC",
       "symbol": "EURC",
@@ -3810,6 +3821,14 @@
       "decimals": 6,
       "chainId": 480,
       "logoURI": "https://cdn.oku.trade/logos/480/0x79a02482a880bce3f13e09da970dc34db4cd24d1.png"
+    },
+    {
+      "address": "0xD55c9869bf65D87ce183CA4f87400f64054804cb",
+      "name": "World Agentic Fund",
+      "symbol": "WFUND",
+      "decimals": 18,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0xd55c9869bf65d87ce183ca4f87400f64054804cb.png"
     },
     {
       "name": "Bridged USDC",
