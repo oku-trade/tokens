@@ -1,8 +1,8 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-14T16:14:10.238Z",
+  "timestamp": "2026-04-17T18:14:27.917Z",
   "version": {
-    "major": 46,
+    "major": 47,
     "minor": 494,
     "patch": 357
   },
@@ -2239,6 +2239,38 @@
       "decimals": 18,
       "chainId": 167000,
       "logoURI": "https://cdn.oku.trade/logos/167000/0xfe93132c6015bdf9d0b0f4329cb4cae8e6819a8d.png"
+    },
+    {
+      "address": "0x1f4b7011Ee3d53969bb67F59428a9ec0477856E9",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x1f4b7011ee3d53969bb67f59428a9ec0477856e9.png"
+    },
+    {
+      "address": "0x51e2A24742Db77604B881d6781Ee16B5b8fcBE29",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x51e2a24742db77604b881d6781ee16b5b8fcbe29.png"
+    },
+    {
+      "address": "0x52C48d4213107b20bC583832b0d951FB9CA8F0B0",
+      "name": "Wrapped PROS",
+      "symbol": "WPROS",
+      "decimals": 18,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x52c48d4213107b20bc583832b0d951fb9ca8f0b0.png"
+    },
+    {
+      "address": "0xC879C018dB60520F4355C26eD1a6D572cdAC1815",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0xc879c018db60520f4355c26ed1a6d572cdac1815.png"
     },
     {
       "address": "0x305E88d809c9DC03179554BFbf85Ac05Ce8F18d6",
