@@ -1,0 +1,9 @@
+{
+  "name": "Wrapped Dobbscoin",
+  "symbol": "wBOB",
+  "decimals": 8,
+  "website": "https://bridge.subgenius.finance",
+  "description": "Wrapped Dobbscoin (wBOB) is the Gnosis-side ERC-20 of the Dobbscoin (BOB) bridge. Each wBOB is backed 1:1 by BOB locked on the Dobbscoin chain via a 3-of-5 watcher-signed lock-mint / burn-release bridge.",
+  "explorer": "https://gnosisscan.io/token/0x13550ae65f22a36f60a50d625b70b58666488263",
+  "address": "0x13550ae65f22A36f60A50d625B70b58666488263"
+}
