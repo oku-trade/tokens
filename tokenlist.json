@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-13T18:23:12.847Z",
+  "timestamp": "2026-04-17T20:52:27.540Z",
   "version": {
-    "major": 46,
-    "minor": 490,
+    "major": 47,
+    "minor": 496,
     "patch": 357
   },
   "tokens": [
@@ -969,6 +969,14 @@
       "logoURI": "https://cdn.oku.trade/logos/1284/0xffffffff7d2b0b761af01ca8e25242976ac0ad7d.png"
     },
     {
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 130,
+      "logoURI": "https://cdn.oku.trade/logos/130/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png"
+    },
+    {
       "address": "0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
       "name": "Wrapped eETH",
       "symbol": "weETH",
@@ -1503,6 +1511,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://cdn.oku.trade/logos/137/0xe407ff7cc8eab24a2670e17e8488e4821bc45471.png"
+    },
+    {
+      "address": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+      "name": "JPY Coin",
+      "symbol": "JPYC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://cdn.oku.trade/logos/137/0xe7c3d8c9a439fede00d2600032d5db0be71c3c29.png"
     },
     {
       "address": "0xE9B80cAD988046335D176Bef8D91a5b17e12B56d",
@@ -2225,6 +2241,38 @@
       "logoURI": "https://cdn.oku.trade/logos/167000/0xfe93132c6015bdf9d0b0f4329cb4cae8e6819a8d.png"
     },
     {
+      "address": "0x1f4b7011Ee3d53969bb67F59428a9ec0477856E9",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x1f4b7011ee3d53969bb67f59428a9ec0477856e9.png"
+    },
+    {
+      "address": "0x51e2A24742Db77604B881d6781Ee16B5b8fcBE29",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x51e2a24742db77604b881d6781ee16b5b8fcbe29.png"
+    },
+    {
+      "address": "0x52C48d4213107b20bC583832b0d951FB9CA8F0B0",
+      "name": "Wrapped PROS",
+      "symbol": "WPROS",
+      "decimals": 18,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x52c48d4213107b20bc583832b0d951fb9ca8f0b0.png"
+    },
+    {
+      "address": "0xC879C018dB60520F4355C26eD1a6D572cdAC1815",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0xc879c018db60520f4355c26ed1a6d572cdac1815.png"
+    },
+    {
       "address": "0x305E88d809c9DC03179554BFbf85Ac05Ce8F18d6",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
@@ -2826,6 +2874,14 @@
       "decimals": 6,
       "chainId": 30,
       "logoURI": "https://cdn.oku.trade/logos/30/0x779ded0c9e1022225f8e0630b35a9b54be713736.png"
+    },
+    {
+      "address": "0x7F71f02aE0945364F658860d67dbc10c86Ca3a3C",
+      "name": "Midas Hyperithm BTC",
+      "symbol": "mHyperBTC",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://cdn.oku.trade/logos/30/0x7f71f02ae0945364f658860d67dbc10c86ca3a3c.png"
     },
     {
       "address": "0x91B26F71D8b6F78b7BdaDd557c20727232C4bF2c",
@@ -3732,6 +3788,17 @@
       "logoURI": "https://cdn.oku.trade/logos/43114/0x020940df9f5e77338a094d55b5b5914122a804a5.png"
     },
     {
+      "address": "0x0458965C6A85b14E022C1920276197c972f0Fd2f",
+      "name": "SEED Token",
+      "symbol": "SEED",
+      "decimals": 18,
+      "website": "https://www.seedfarm.world/",
+      "description": "SEED Token for the SEED Farm ecosystem on World Chain.",
+      "explorer": "https://worldscan.org/address/0x0458965C6A85b14E022C1920276197c972f0Fd2f",
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0x0458965c6a85b14e022c1920276197c972f0fd2f.png"
+    },
+    {
       "address": "0x1C60ba0A0eD1019e8Eb035E6daF4155A5cE2380B",
       "name": "EURC",
       "symbol": "EURC",
@@ -3754,6 +3821,14 @@
       "decimals": 6,
       "chainId": 480,
       "logoURI": "https://cdn.oku.trade/logos/480/0x79a02482a880bce3f13e09da970dc34db4cd24d1.png"
+    },
+    {
+      "address": "0xD55c9869bf65D87ce183CA4f87400f64054804cb",
+      "name": "World Agentic Fund",
+      "symbol": "WFUND",
+      "decimals": 18,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0xd55c9869bf65d87ce183ca4f87400f64054804cb.png"
     },
     {
       "name": "Bridged USDC",
@@ -4300,6 +4375,14 @@
       "decimals": 18,
       "chainId": 685689,
       "logoURI": "https://cdn.oku.trade/logos/685689/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "address": "0x4e742319f6b0FeC4afA504fC8ED3cEAB0fb751A2",
+      "name": "Gensyn",
+      "symbol": "AI",
+      "decimals": 18,
+      "chainId": 685689,
+      "logoURI": "https://cdn.oku.trade/logos/685689/0x4e742319f6b0fec4afa504fc8ed3ceab0fb751a2.png"
     },
     {
       "address": "0x5b32c997211621d55a89Cc5abAF1cC21F3A6ddF5",
