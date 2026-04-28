@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-28T16:08:09.355Z",
+  "timestamp": "2026-04-28T16:29:45.507Z",
   "version": {
     "major": 47,
-    "minor": 497,
+    "minor": 498,
     "patch": 1936
   },
   "tokens": [
@@ -331,6 +331,17 @@
       "address": "0x0a06c8354A6CC1a07549a38701eAc205942E3Ac6",
       "chainId": 100,
       "logoURI": "https://cdn.oku.trade/logos/100/0x0a06c8354a6cc1a07549a38701eac205942e3ac6.png"
+    },
+    {
+      "name": "Wrapped Dobbscoin",
+      "symbol": "wBOB",
+      "decimals": 8,
+      "website": "https://bridge.subgenius.finance",
+      "description": "Wrapped Dobbscoin (wBOB) is the Gnosis-side ERC-20 of the Dobbscoin (BOB) bridge. Each wBOB is backed 1:1 by BOB locked on the Dobbscoin chain via a 3-of-5 watcher-signed lock-mint / burn-release bridge.",
+      "explorer": "https://gnosisscan.io/token/0x13550ae65f22a36f60a50d625b70b58666488263",
+      "address": "0x13550ae65f22A36f60A50d625B70b58666488263",
+      "chainId": 100,
+      "logoURI": "https://cdn.oku.trade/logos/100/0x13550ae65f22a36f60a50d625b70b58666488263.png"
     },
     {
       "name": "Backed Tesla",
