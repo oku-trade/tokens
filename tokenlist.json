@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-28T16:29:45.507Z",
+  "timestamp": "2026-04-28T16:47:49.405Z",
   "version": {
     "major": 47,
-    "minor": 498,
+    "minor": 499,
     "patch": 1936
   },
   "tokens": [
@@ -280,6 +280,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0xec53bf9167f50cdeb3ae105f56099aaab9061f83.png"
+    },
+    {
+      "address": "0xf4c13D631450De6B12a19829E37c8e2826891dC4",
+      "name": "avUSD",
+      "symbol": "avUSD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0xf4c13d631450de6b12a19829e37c8e2826891dc4.png"
     },
     {
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
