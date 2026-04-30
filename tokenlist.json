@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-28T16:47:49.405Z",
+  "timestamp": "2026-04-30T23:32:20.529Z",
   "version": {
     "major": 47,
-    "minor": 499,
+    "minor": 500,
     "patch": 1936
   },
   "tokens": [
@@ -5674,6 +5674,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xcf105cc7afccc7f20aab86a67d94e07a92b0e5ef.png"
+    },
+    {
+      "address": "0xcb111E6A2a3bde90856D299d61341ac302167D23",
+      "name": "Coinbase Wrapped MEGA",
+      "symbol": "cbMEGA",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xcb111e6a2a3bde90856d299d61341ac302167d23.png"
     },
     {
       "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
