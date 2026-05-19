@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-05-19T19:27:05.235Z",
+  "timestamp": "2026-05-19T19:33:29.117Z",
   "version": {
     "major": 47,
-    "minor": 503,
+    "minor": 504,
     "patch": 1936
   },
   "tokens": [
@@ -5490,6 +5490,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xbab990e0d6c094d57e8e6d30dfc3177a4e018b82.png"
+    },
+    {
+      "address": "0xBf8E8f0e8866a7052F948C16508644347c57aba3",
+      "name": "aeon",
+      "symbol": "aeon",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xbf8e8f0e8866a7052f948c16508644347c57aba3.png"
     },
     {
       "address": "0xC31389794Ffac23331E0D9F611b7953f90AA5fDC",
