@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-05-27T19:44:38.284Z",
+  "timestamp": "2026-05-27T21:58:48.981Z",
   "version": {
     "major": 47,
-    "minor": 505,
+    "minor": 507,
     "patch": 1936
   },
   "tokens": [
@@ -3888,6 +3888,22 @@
       "decimals": 18,
       "chainId": 480,
       "logoURI": "https://cdn.oku.trade/logos/480/0xd55c9869bf65d87ce183ca4f87400f64054804cb.png"
+    },
+    {
+      "address": "0xEdE54d9c024ee80C85ec0a75eD2d8774c7Fbac9B",
+      "name": "Drachma",
+      "symbol": "WDD",
+      "decimals": 18,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0xede54d9c024ee80c85ec0a75ed2d8774c7fbac9b.png"
+    },
+    {
+      "address": "0xF3F92A60e6004f3982F0FdE0d43602fC0a30a0dB",
+      "name": "Orb",
+      "symbol": "ORB",
+      "decimals": 18,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0xf3f92a60e6004f3982f0fde0d43602fc0a30a0db.png"
     },
     {
       "name": "Bridged USDC",
