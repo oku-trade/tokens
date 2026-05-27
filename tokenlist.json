@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-05-19T19:33:29.117Z",
+  "timestamp": "2026-05-27T19:44:38.284Z",
   "version": {
     "major": 47,
-    "minor": 504,
+    "minor": 505,
     "patch": 1936
   },
   "tokens": [
@@ -1058,6 +1058,14 @@
       "decimals": 18,
       "chainId": 1329,
       "logoURI": "https://cdn.oku.trade/logos/1329/0x4809010926aec940b550d34a46a52739f996d75d.png"
+    },
+    {
+      "address": "0x54cD901491AeF397084453F4372B93c33260e2A6",
+      "name": "Ondo U.S. Dollar Yield",
+      "symbol": "USDY",
+      "decimals": 18,
+      "chainId": 1329,
+      "logoURI": "https://cdn.oku.trade/logos/1329/0x54cd901491aef397084453f4372b93c33260e2a6.png"
     },
     {
       "address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
