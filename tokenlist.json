@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-05-27T21:58:48.981Z",
+  "timestamp": "2026-06-01T15:02:09.924Z",
   "version": {
     "major": 47,
-    "minor": 507,
+    "minor": 508,
     "patch": 1936
   },
   "tokens": [
@@ -3904,6 +3904,14 @@
       "decimals": 18,
       "chainId": 480,
       "logoURI": "https://cdn.oku.trade/logos/480/0xf3f92a60e6004f3982f0fde0d43602fc0a30a0db.png"
+    },
+    {
+      "address": "0xab09A728E53d3d6BC438BE95eeD46Da0Bbe7FB38",
+      "name": "SUSHI Token",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0xab09a728e53d3d6bc438be95eed46da0bbe7fb38.png"
     },
     {
       "name": "Bridged USDC",
