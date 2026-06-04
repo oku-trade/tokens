@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-06-04T15:38:13.060Z",
+  "timestamp": "2026-06-04T17:40:28.038Z",
   "version": {
     "major": 47,
-    "minor": 514,
+    "minor": 516,
     "patch": 1936
   },
   "tokens": [
@@ -144,6 +144,14 @@
       "logoURI": "https://cdn.oku.trade/logos/1/0x873d589f38abbcdd1fca27261aba2f1aa0661d44.png"
     },
     {
+      "address": "0x884649f1fE3Bf3Ae0Bd720Eaf660cB561dcE39ef",
+      "name": "PUPCUP",
+      "symbol": "PUPCUP",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x884649f1fe3bf3ae0bd720eaf660cb561dce39ef.png"
+    },
+    {
       "address": "0x97Ad75064b20fb2B2447feD4fa953bF7F007a706",
       "name": "Berachain STONE",
       "symbol": "beraSTONE",
@@ -248,6 +256,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0xb8d89678e75a973e74698c976716308abb8a46a4.png"
+    },
+    {
+      "address": "0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930",
+      "name": "K9",
+      "symbol": "K9",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0xbc920c7fa25d3cd5606394aa4c6751d71dcb7930.png"
     },
     {
       "name": "Wrapped XTZ",
