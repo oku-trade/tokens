@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-06-03T19:21:26.280Z",
+  "timestamp": "2026-06-04T15:38:13.060Z",
   "version": {
     "major": 47,
-    "minor": 509,
+    "minor": 514,
     "patch": 1936
   },
   "tokens": [
@@ -134,6 +134,14 @@
       "decimals": 8,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0x8236a87084f8b84306f72007f36f2618a5634494.png"
+    },
+    {
+      "address": "0x873d589F38abBCDD1fCA27261aBA2F1aA0661d44",
+      "name": "WisdomTree 500 Digital Fund",
+      "symbol": "SPXUX",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x873d589f38abbcdd1fca27261aba2f1aa0661d44.png"
     },
     {
       "address": "0x97Ad75064b20fb2B2447feD4fa953bF7F007a706",
@@ -288,6 +296,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0xf4c13d631450de6b12a19829e37c8e2826891dc4.png"
+    },
+    {
+      "address": "0x1A149E21bd3E74b7018Db79C988B4Ba3bbC1873d",
+      "name": "WisdomTree 500 Digital Fund",
+      "symbol": "SPXUX",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://cdn.oku.trade/logos/10/0x1a149e21bd3e74b7018db79c988b4ba3bbc1873d.png"
     },
     {
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
@@ -3351,6 +3367,14 @@
       "logoURI": "https://cdn.oku.trade/logos/42161/0x40fbb60bcb38d64cbc42329a12cf50e0a5bcfc58.png"
     },
     {
+      "address": "0x4122047076a1106618e984a8776A3F7bbcB1d429",
+      "name": "WisdomTree 500 Digital Fund",
+      "symbol": "SPXUX",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://cdn.oku.trade/logos/42161/0x4122047076a1106618e984a8776a3f7bbcb1d429.png"
+    },
+    {
       "name": "WrappedM by M^0",
       "symbol": "wM",
       "decimals": 6,
@@ -3829,6 +3853,14 @@
       "decimals": 18,
       "chainId": 43114,
       "logoURI": "https://cdn.oku.trade/logos/43114/0x020940df9f5e77338a094d55b5b5914122a804a5.png"
+    },
+    {
+      "address": "0x1A149E21bd3E74b7018Db79C988B4Ba3bbC1873d",
+      "name": "WisdomTree 500 Digital Fund",
+      "symbol": "SPXUX",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://cdn.oku.trade/logos/43114/0x1a149e21bd3e74b7018db79c988b4ba3bbc1873d.png"
     },
     {
       "address": "0x0458965C6A85b14E022C1920276197c972f0Fd2f",
@@ -5898,6 +5930,14 @@
       "decimals": 6,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xfde4c96c8593536e31f229ea8f37b2ada2699bb2.png"
+    },
+    {
+      "address": "0xfec440FdF48860FF6E2265BD1ef9Cae8bB2cCe8a",
+      "name": "WisdomTree 500 Digital Fund",
+      "symbol": "SPXUX",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xfec440fdf48860ff6e2265bd1ef9cae8bb2cce8a.png"
     },
     {
       "address": "0x015461a28351bc444Ddb236e1C516B3036425B5F",
