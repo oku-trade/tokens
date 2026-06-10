@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-06-04T17:40:28.038Z",
+  "timestamp": "2026-06-10T15:01:03.507Z",
   "version": {
     "major": 47,
-    "minor": 516,
+    "minor": 518,
     "patch": 1936
   },
   "tokens": [
@@ -3279,6 +3279,14 @@
       "logoURI": "https://cdn.oku.trade/logos/42161/0x168dbf404d33cacc752b27df4e66116d1758b7b0.png"
     },
     {
+      "address": "0x1Aad217B8F78dbA5E6693460e8470F8b1A3977f3",
+      "name": "Strategy PP Variable xStock",
+      "symbol": "STRCX",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://cdn.oku.trade/logos/42161/0x1aad217b8f78dba5e6693460e8470f8b1a3977f3.png"
+    },
+    {
       "address": "0x20a22B65Aa96AF3EBCf995445343b11A47efF4f0",
       "name": "SPDR S&P 500 ETF Trust Tokenized by Sailing",
       "symbol": "SPYs",
@@ -3928,6 +3936,14 @@
       "decimals": 6,
       "chainId": 480,
       "logoURI": "https://cdn.oku.trade/logos/480/0x79a02482a880bce3f13e09da970dc34db4cd24d1.png"
+    },
+    {
+      "address": "0x8e500B8fE2cAF4332D07FbFB448196e764649F4E",
+      "name": "Worldchain Army",
+      "symbol": "WARMY",
+      "decimals": 18,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0x8e500b8fe2caf4332d07fbfb448196e764649f4e.png"
     },
     {
       "address": "0xD55c9869bf65D87ce183CA4f87400f64054804cb",
