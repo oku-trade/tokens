@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-06-10T15:01:03.507Z",
+  "timestamp": "2026-07-06T15:51:16.450Z",
   "version": {
     "major": 47,
-    "minor": 518,
+    "minor": 520,
     "patch": 1936
   },
   "tokens": [
@@ -22,6 +22,17 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0x0317f9f077d90193871a4ee1f1681e24c4a2671c.png"
+    },
+    {
+      "address": "0x056B269Eb1f75477a8666ae8C7fE01b64dD55eCc",
+      "name": "USD3",
+      "symbol": "USD3",
+      "decimals": 6,
+      "website": "https://www.3jane.xyz",
+      "description": "USD3 is a credit-backed yieldcoin by 3Jane, earning from warehouse facilities, forward-flow programs, and credit lines.",
+      "explorer": "https://etherscan.io/token/0x056b269eb1f75477a8666ae8c7fe01b64dd55ecc",
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x056b269eb1f75477a8666ae8c7fe01b64dd55ecc.png"
     },
     {
       "address": "0x36E66fbBce51e4cD5bd3C62B637Eb411b18949D4",
@@ -6542,6 +6553,17 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xfc8a5aeefad8cc23f629489cdc6b0ec883d04702.png"
+    },
+    {
+      "address": "0x696238e0Ca31c94e24ca4CBe7921754E172E4d0F",
+      "name": "Staked KNTQ",
+      "symbol": "sKNTQ",
+      "decimals": 18,
+      "website": "https://kinetiq.xyz",
+      "description": "Staked KNTQ (sKNTQ) is the staked version of Kinetiq's governance token, earning protocol rewards on HyperEVM.",
+      "explorer": "https://hyperevmscan.io/token/0x696238e0ca31c94e24ca4cbe7921754e172e4d0f",
+      "chainId": 999,
+      "logoURI": "https://cdn.oku.trade/logos/999/0x696238e0ca31c94e24ca4cbe7921754e172e4d0f.png"
     },
     {
       "address": "0xd0Ee0CF300DFB598270cd7F4D0c6E0D8F6e13f29",
