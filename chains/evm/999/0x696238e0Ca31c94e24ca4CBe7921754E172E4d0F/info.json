@@ -1,0 +1,9 @@
+{
+  "address": "0x696238e0Ca31c94e24ca4CBe7921754E172E4d0F",
+  "name": "Staked KNTQ",
+  "symbol": "sKNTQ",
+  "decimals": 18,
+  "website": "https://kinetiq.xyz",
+  "description": "Staked KNTQ (sKNTQ) is the staked version of Kinetiq's governance token, earning protocol rewards on HyperEVM.",
+  "explorer": "https://hyperevmscan.io/token/0x696238e0ca31c94e24ca4cbe7921754e172e4d0f"
+}
