@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-07-06T15:51:16.450Z",
+  "timestamp": "2026-07-07T16:31:57.432Z",
   "version": {
     "major": 47,
-    "minor": 520,
+    "minor": 521,
     "patch": 1936
   },
   "tokens": [
@@ -2325,6 +2325,14 @@
       "decimals": 18,
       "chainId": 1672,
       "logoURI": "https://cdn.oku.trade/logos/1672/0x1f4b7011ee3d53969bb67f59428a9ec0477856e9.png"
+    },
+    {
+      "address": "0x4809010926aec940b550D34a46A52739f996D75D",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "wsrUSD",
+      "decimals": 18,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x4809010926aec940b550d34a46a52739f996d75d.png"
     },
     {
       "address": "0x51e2A24742Db77604B881d6781Ee16B5b8fcBE29",
