@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-07-07T16:31:57.432Z",
+  "timestamp": "2026-07-07T18:02:13.184Z",
   "version": {
     "major": 47,
-    "minor": 521,
+    "minor": 522,
     "patch": 1936
   },
   "tokens": [
@@ -5925,6 +5925,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xe2706dc55d4e3b7e5afc5f8103251e139c6ffbd8.png"
+    },
+    {
+      "address": "0xeE8F4eC5672F09119b96Ab6fB59C27E1b7e44b61",
+      "name": "Gauntlet USDC Prime",
+      "symbol": "gtUSDCp",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xee8f4ec5672f09119b96ab6fb59c27e1b7e44b61.png"
     },
     {
       "address": "0xeb72Fa3D52b50A13B7c5a04D5E32044987d5f5a0",
