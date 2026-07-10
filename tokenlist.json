@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-07-07T18:02:13.184Z",
+  "timestamp": "2026-07-10T16:21:46.832Z",
   "version": {
     "major": 47,
-    "minor": 522,
+    "minor": 524,
     "patch": 1936
   },
   "tokens": [
@@ -1749,6 +1749,15 @@
       "decimals": 18,
       "chainId": 143,
       "logoURI": "https://cdn.oku.trade/logos/143/0xb37476cb1f6111cc682b107b747b8652f90b0984.png"
+    },
+    {
+      "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+      "name": "Gho Token",
+      "symbol": "GHO",
+      "decimals": 18,
+      "explorer": "https://monadscan.com/token/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
+      "chainId": 143,
+      "logoURI": "https://cdn.oku.trade/logos/143/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73.png"
     },
     {
       "address": "0x020940df9F5E77338a094D55b5B5914122a804A5",
@@ -3704,6 +3713,15 @@
       "decimals": 6,
       "chainId": 42220,
       "logoURI": "https://cdn.oku.trade/logos/42220/0x617f3112bf5397d0467d315cc709ef968d9ba546.png"
+    },
+    {
+      "address": "0xCCF663b1fF11028f0b19058d0f7B674004a40746",
+      "name": "Mento British Pound",
+      "symbol": "GBPm",
+      "decimals": 18,
+      "explorer": "https://celoscan.io/token/0xccf663b1ff11028f0b19058d0f7b674004a40746",
+      "chainId": 42220,
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xccf663b1ff11028f0b19058d0f7b674004a40746.png"
     },
     {
       "address": "0x004A476B5B76738E34c86C7144554B9d34402F13",
