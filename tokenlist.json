@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-07-10T16:21:46.832Z",
+  "timestamp": "2026-07-13T19:13:09.213Z",
   "version": {
     "major": 47,
-    "minor": 524,
+    "minor": 525,
     "patch": 1936
   },
   "tokens": [
@@ -307,6 +307,15 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0xe55da2fed43cc1732f2f2b3fd0dbd71997b4fb30.png"
+    },
+    {
+      "address": "0xe6a60d2886b11256C24C128210159133096e5CcF",
+      "name": "RWA Index Token",
+      "symbol": "iREET",
+      "decimals": 18,
+      "explorer": "https://etherscan.io/token/0xe6a60d2886b11256c24c128210159133096e5ccf",
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0xe6a60d2886b11256c24c128210159133096e5ccf.png"
     },
     {
       "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
