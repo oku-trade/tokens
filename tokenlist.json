@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-07-14T17:52:08.265Z",
+  "timestamp": "2026-07-14T23:57:38.348Z",
   "version": {
     "major": 48,
-    "minor": 525,
+    "minor": 527,
     "patch": 1936
   },
   "tokens": [
@@ -1654,6 +1654,15 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://cdn.oku.trade/logos/137/0xf7a10f5177aad02a8daf7a7ebdd918ed5d14fee0.png"
+    },
+    {
+      "address": "0xd2a530170D71a9Cfe1651Fb468E2B98F7Ed7456b",
+      "name": "Forte AUD",
+      "symbol": "AUDF",
+      "decimals": 6,
+      "explorer": "https://polygon.blockscout.com/token/0xd2a530170D71a9Cfe1651Fb468E2B98F7Ed7456b",
+      "chainId": 137,
+      "logoURI": "https://cdn.oku.trade/logos/137/0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b.png"
     },
     {
       "address": "0xd82955acB89a2524dC934B4D008DA5ed95ce2050",
@@ -6787,6 +6796,15 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xebfc8c2fe73c431ef2a371aea9132110aab50dca.png"
+    },
+    {
+      "address": "0xb77E872A68C62CfC0dFb02C067Ecc3DA23B4bbf3",
+      "name": "Gho Token",
+      "symbol": "GHO",
+      "decimals": 18,
+      "explorer": "https://plasmascan.to/token/0xb77e872a68c62cfc0dfb02c067ecc3da23b4bbf3",
+      "chainId": 9745,
+      "logoURI": "https://cdn.oku.trade/logos/9745/0xb77e872a68c62cfc0dfb02c067ecc3da23b4bbf3.png"
     },
     {
       "address": "0xfC8A5aeEfAd8cC23f629489Cdc6b0Ec883D04702",
