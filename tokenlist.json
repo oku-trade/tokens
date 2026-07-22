@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-07-14T23:57:38.348Z",
+  "timestamp": "2026-07-22T17:01:09.916Z",
   "version": {
     "major": 48,
-    "minor": 527,
+    "minor": 528,
     "patch": 1936
   },
   "tokens": [
@@ -6825,6 +6825,15 @@
       "explorer": "https://hyperevmscan.io/token/0x696238e0ca31c94e24ca4cbe7921754e172e4d0f",
       "chainId": 999,
       "logoURI": "https://cdn.oku.trade/logos/999/0x696238e0ca31c94e24ca4cbe7921754e172e4d0f.png"
+    },
+    {
+      "address": "0x9628BBa16DB41EA7fe1FD84f9CE53bC27c63f59b",
+      "name": "Derive",
+      "symbol": "DRV",
+      "decimals": 18,
+      "explorer": "https://hyperevmscan.io/token/0x9628bba16db41ea7fe1fd84f9ce53bc27c63f59b",
+      "chainId": 999,
+      "logoURI": "https://cdn.oku.trade/logos/999/0x9628bba16db41ea7fe1fd84f9ce53bc27c63f59b.png"
     },
     {
       "address": "0xd0Ee0CF300DFB598270cd7F4D0c6E0D8F6e13f29",
