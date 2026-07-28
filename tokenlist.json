@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-07-22T17:01:09.916Z",
+  "timestamp": "2026-07-28T14:50:35.949Z",
   "version": {
     "major": 48,
-    "minor": 528,
+    "minor": 529,
     "patch": 1936
   },
   "tokens": [
@@ -2360,6 +2360,14 @@
       "decimals": 18,
       "chainId": 1672,
       "logoURI": "https://cdn.oku.trade/logos/1672/0x4809010926aec940b550d34a46a52739f996d75d.png"
+    },
+    {
+      "address": "0x4b01436d82dFF601281F7ebdF44e73a47d77Ee3D",
+      "name": "BTCVC",
+      "symbol": "BTCVC",
+      "decimals": 8,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x4b01436d82dff601281f7ebdf44e73a47d77ee3d.png"
     },
     {
       "address": "0x51e2A24742Db77604B881d6781Ee16B5b8fcBE29",
