@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-07-28T14:50:35.949Z",
+  "timestamp": "2026-08-04T14:10:23.732Z",
   "version": {
     "major": 48,
-    "minor": 529,
+    "minor": 531,
     "patch": 1936
   },
   "tokens": [
@@ -448,6 +448,16 @@
       "logoURI": "https://cdn.oku.trade/logos/100/0x1f82284c1658ad71c576f7230e6c2dee7901c1fa.png"
     },
     {
+      "address": "0x420CA0f9B9b604cE0fd9C18EF134C705e5Fa3430",
+      "name": "Monerium EURe",
+      "symbol": "EURe",
+      "decimals": 18,
+      "website": "https://monerium.com",
+      "description": "EURe is regulated euro e-money issued on-chain by Monerium.",
+      "chainId": 100,
+      "logoURI": "https://cdn.oku.trade/logos/100/0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430.png"
+    },
+    {
       "name": "Wrapped Backed NVIDIA",
       "website": "https://backed.fi/",
       "description": "wbNVDA is a wrapper of bNVDA, a tokenized NVIDIA product, issued by Backed",
@@ -457,6 +467,16 @@
       "address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
       "chainId": 100,
       "logoURI": "https://cdn.oku.trade/logos/100/0x7e8101a1c322d394b3961498c7d40d2dfa94c392.png"
+    },
+    {
+      "address": "0x8E34bfEC4f6Eb781f9743D9b4af99CD23F9b7053",
+      "name": "Monerium GBPe",
+      "symbol": "GBPe",
+      "decimals": 18,
+      "website": "https://monerium.com",
+      "description": "GBPe is regulated pound sterling e-money issued on-chain by Monerium.",
+      "chainId": 100,
+      "logoURI": "https://cdn.oku.trade/logos/100/0x8e34bfec4f6eb781f9743d9b4af99cd23f9b7053.png"
     },
     {
       "name": "Backed NVIDIA",
