@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-08-05T15:16:57.118Z",
+  "timestamp": "2026-08-05T19:28:52.332Z",
   "version": {
     "major": 48,
-    "minor": 532,
+    "minor": 534,
     "patch": 1936
   },
   "tokens": [
@@ -5423,6 +5423,15 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0x1dc7edcf1368285e77fdb2e9bfba56f48ec317bd.png"
     },
     {
+      "address": "0x1a44233FAe8D50F1AeB3a5d58dd426ff4814Cb53",
+      "name": "Squuid",
+      "symbol": "QUID",
+      "decimals": 18,
+      "explorer": "https://basescan.org/token/0x1a44233fae8d50f1aeb3a5d58dd426ff4814cb53",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x1a44233fae8d50f1aeb3a5d58dd426ff4814cb53.png"
+    },
+    {
       "address": "0x1a9022A1552Ca46580615cA972dD36830206094C",
       "name": "Chicago Bears",
       "symbol": "CHI",
@@ -6850,6 +6859,15 @@
       "decimals": 18,
       "chainId": 9745,
       "logoURI": "https://cdn.oku.trade/logos/9745/0xfc8a5aeefad8cc23f629489cdc6b0ec883d04702.png"
+    },
+    {
+      "address": "0x5f1ab62C3159eBE04aFF14Beef84b0b60de63DDF",
+      "name": "Staked USDM",
+      "symbol": "sUSDM",
+      "decimals": 12,
+      "explorer": "https://hyperscan.com/token/0x5f1ab62c3159ebe04aff14beef84b0b60de63ddf",
+      "chainId": 999,
+      "logoURI": "https://cdn.oku.trade/logos/999/0x5f1ab62c3159ebe04aff14beef84b0b60de63ddf.png"
     },
     {
       "address": "0x696238e0Ca31c94e24ca4CBe7921754E172E4d0F",
