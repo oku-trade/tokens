@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-08-04T14:10:23.732Z",
+  "timestamp": "2026-08-05T15:16:57.118Z",
   "version": {
     "major": 48,
-    "minor": 531,
+    "minor": 532,
     "patch": 1936
   },
   "tokens": [
@@ -5957,6 +5957,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xf4ad5a6aa3d66aa2730752f66e795748c1ceee39.png"
+    },
+    {
+      "address": "0xF4f8c66085910d583c01f3b4e44Bf731D4e2c565",
+      "name": "Wrapped Rocket Lab USA Inc ST0x",
+      "symbol": "wtRKLB",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xf4f8c66085910d583c01f3b4e44bf731d4e2c565.png"
     },
     {
       "address": "0xFCB65C81C73C328C284aDffFCDd1E846F0508552",
