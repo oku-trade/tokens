@@ -3,6 +3,5 @@
   "name": "Monerium GBPe",
   "symbol": "GBPe",
   "decimals": 18,
-  "website": "https://monerium.com",
-  "description": "GBPe is regulated pound sterling e-money issued on-chain by Monerium."
+  "explorer": "https://gnosisscan.io/token/0x8e34bfec4f6eb781f9743d9b4af99cd23f9b7053"
 }
