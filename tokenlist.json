@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-08-05T19:28:52.332Z",
+  "timestamp": "2026-08-06T23:23:08.572Z",
   "version": {
     "major": 48,
-    "minor": 534,
+    "minor": 535,
     "patch": 1936
   },
   "tokens": [
@@ -2404,6 +2404,14 @@
       "decimals": 18,
       "chainId": 1672,
       "logoURI": "https://cdn.oku.trade/logos/1672/0x52c48d4213107b20bc583832b0d951fb9ca8f0b0.png"
+    },
+    {
+      "address": "0x54dF79D8EDf36D15cd83fbeDbdd90807fC828934",
+      "name": "Staked Yuzu USD",
+      "symbol": "syzUSD",
+      "decimals": 18,
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x54df79d8edf36d15cd83fbedbdd90807fc828934.png"
     },
     {
       "address": "0xC879C018dB60520F4355C26eD1a6D572cdAC1815",
