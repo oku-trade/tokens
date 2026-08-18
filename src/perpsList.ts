@@ -4,6 +4,8 @@ import * as fs from "fs/promises";
 
 type PerpsList = Record<string, [string, string][]>;
 
+const DEFAULT_PROVIDER_DIRECTORY = "default";
+
 const s3Client = new S3({
   forcePathStyle: true,
   endpoint: "https://6f19dc20133dce480cc5b278c8964331.r2.cloudflarestorage.com",
@@ -36,7 +38,7 @@ async function generatePerpsList(baseDirectory: string, outputFile: string) {
       assets.push([asset, `https://cdn.oku.trade/${key}`]);
     }
 
-    perpsList[provider] = assets;
+    perpsList[provider === DEFAULT_PROVIDER_DIRECTORY ? "" : provider] = assets;
   }
 
   const body = JSON.stringify(perpsList, null, 2);
