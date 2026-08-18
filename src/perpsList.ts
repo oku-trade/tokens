@@ -39,7 +39,15 @@ async function generatePerpsList(baseDirectory: string, outputFile: string) {
     perpsList[provider] = assets;
   }
 
-  await fs.writeFile(outputFile, JSON.stringify(perpsList, null, 2), "utf-8");
+  const body = JSON.stringify(perpsList, null, 2);
+  await fs.writeFile(outputFile, body, "utf-8");
+  await s3Client.putObject({
+    Bucket: "oku-cdn",
+    Key: "perpslist.json",
+    Body: body,
+    ContentType: "application/json",
+    ACL: "public-read",
+  });
 }
 
 generatePerpsList("./perps", "./perpslist.json").catch((error) => {
