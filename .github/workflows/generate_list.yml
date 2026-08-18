@@ -19,20 +19,20 @@ jobs:
       - name: Setup environment
         run: make setup
 
-      - name: Update tokenlist.json
+      - name: Update asset lists
         env:
           CF_SECRET: ${{ secrets.CF_SECRET }}
           CF_KEY: ${{ secrets.CF_KEY }}
         run: make list
 
-      - name: Commit updated tokenlist.json
+      - name: Commit updated asset lists
         run: |
           git config --local user.email "github-actions@github.com"
           git config --local user.name "GitHub Actions"
-          if [ -n "$(git status --porcelain tokenlist.json)" ]; then
-            git add tokenlist.json
-            git commit -m "chore: update tokenlist [skip ci]"
+          if [ -n "$(git status --porcelain tokenlist.json perpslist.json)" ]; then
+            git add tokenlist.json perpslist.json
+            git commit -m "chore: update asset lists [skip ci]"
             git push origin main
           else
-            echo "No changes in tokenlist.json"
+            echo "No changes in asset lists"
           fi

@@ -5,7 +5,7 @@
     "build": "yarn tsc",
     "validate": "yarn build && yarn node dist/validate.js",
     "checksum": "yarn build && yarn node dist/checksumUpdate.js",
-    "list": "yarn build && yarn node dist/list.js",
+    "list": "yarn build && yarn node dist/list.js && yarn node dist/perpsList.js",
     "format": "yarn biome check --write",
     "prepare": "husky install"
   },

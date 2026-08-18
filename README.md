@@ -18,6 +18,11 @@ chains/
         └── <checksummed-token-address>/
             ├── info.json
             └── logo.png
+
+perps/
+└── <provider>/
+    └── <ASSET>/
+        └── logo.svg
 ```
 
 - **Chain ID Folders:**  
@@ -50,6 +55,10 @@ The `info.json` file should adhere to the following schema:
 
 Each token folder must include a logo.png file. This file should be a valid PNG image representing the token's logo.
 The image should be square and no larger than 256x256 pixels or smaller than 64x64 pixels.
+
+## Perps
+
+HIP-3 perp logos use paths such as `perps/xyz/COPPER/logo.svg`. Running `make list` uploads these SVGs to R2 and generates `perpslist.json`.
 
 ## How to Submit a PR
 
