@@ -13,30 +13,6 @@
       "https://cdn.oku.trade/perps/default/GALA/logo.svg"
     ],
     [
-      "kBONK",
-      "https://cdn.oku.trade/perps/default/kBONK/logo.svg"
-    ],
-    [
-      "kFLOKI",
-      "https://cdn.oku.trade/perps/default/kFLOKI/logo.svg"
-    ],
-    [
-      "kLUNC",
-      "https://cdn.oku.trade/perps/default/kLUNC/logo.svg"
-    ],
-    [
-      "kNEIRO",
-      "https://cdn.oku.trade/perps/default/kNEIRO/logo.svg"
-    ],
-    [
-      "kPEPE",
-      "https://cdn.oku.trade/perps/default/kPEPE/logo.svg"
-    ],
-    [
-      "kSHIB",
-      "https://cdn.oku.trade/perps/default/kSHIB/logo.svg"
-    ],
-    [
       "MEGA",
       "https://cdn.oku.trade/perps/default/MEGA/logo.svg"
     ],
@@ -59,6 +35,30 @@
     [
       "XLM",
       "https://cdn.oku.trade/perps/default/XLM/logo.svg"
+    ],
+    [
+      "kBONK",
+      "https://cdn.oku.trade/perps/default/kBONK/logo.svg"
+    ],
+    [
+      "kFLOKI",
+      "https://cdn.oku.trade/perps/default/kFLOKI/logo.svg"
+    ],
+    [
+      "kLUNC",
+      "https://cdn.oku.trade/perps/default/kLUNC/logo.svg"
+    ],
+    [
+      "kNEIRO",
+      "https://cdn.oku.trade/perps/default/kNEIRO/logo.svg"
+    ],
+    [
+      "kPEPE",
+      "https://cdn.oku.trade/perps/default/kPEPE/logo.svg"
+    ],
+    [
+      "kSHIB",
+      "https://cdn.oku.trade/perps/default/kSHIB/logo.svg"
     ]
   ],
   "para": [
