@@ -13,26 +13,6 @@
       "https://cdn.oku.trade/perps/default/GALA/logo.svg"
     ],
     [
-      "MEGA",
-      "https://cdn.oku.trade/perps/default/MEGA/logo.svg"
-    ],
-    [
-      "NEAR",
-      "https://cdn.oku.trade/perps/default/NEAR/logo.svg"
-    ],
-    [
-      "ONDO",
-      "https://cdn.oku.trade/perps/default/ONDO/logo.svg"
-    ],
-    [
-      "WLD",
-      "https://cdn.oku.trade/perps/default/WLD/logo.svg"
-    ],
-    [
-      "XLM",
-      "https://cdn.oku.trade/perps/default/XLM/logo.svg"
-    ],
-    [
       "kBONK",
       "https://cdn.oku.trade/perps/default/kBONK/logo.svg"
     ],
@@ -55,6 +35,30 @@
     [
       "kSHIB",
       "https://cdn.oku.trade/perps/default/kSHIB/logo.svg"
+    ],
+    [
+      "MEGA",
+      "https://cdn.oku.trade/perps/default/MEGA/logo.svg"
+    ],
+    [
+      "NEAR",
+      "https://cdn.oku.trade/perps/default/NEAR/logo.svg"
+    ],
+    [
+      "ONDO",
+      "https://cdn.oku.trade/perps/default/ONDO/logo.svg"
+    ],
+    [
+      "PEOPLE",
+      "https://cdn.oku.trade/perps/default/PEOPLE/logo.png"
+    ],
+    [
+      "WLD",
+      "https://cdn.oku.trade/perps/default/WLD/logo.svg"
+    ],
+    [
+      "XLM",
+      "https://cdn.oku.trade/perps/default/XLM/logo.svg"
     ]
   ],
   "para": [
@@ -71,6 +75,10 @@
     [
       "AVGO",
       "https://cdn.oku.trade/perps/xyz/AVGO/logo.svg"
+    ],
+    [
+      "BE",
+      "https://cdn.oku.trade/perps/xyz/BE/logo.svg"
     ],
     [
       "BIRD",

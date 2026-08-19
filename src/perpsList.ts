@@ -5,6 +5,11 @@ import * as fs from "fs/promises";
 type PerpsList = Record<string, [string, string][]>;
 
 const DEFAULT_PROVIDER_DIRECTORY = "default";
+const LOGO_CONTENT_TYPES = {
+  svg: "image/svg+xml",
+  png: "image/png",
+  jpg: "image/jpeg",
+} as const;
 
 const s3Client = new S3({
   forcePathStyle: true,
@@ -24,14 +29,25 @@ async function generatePerpsList(baseDirectory: string, outputFile: string) {
     const assets: [string, string][] = [];
 
     for (const asset of (await fs.readdir(providerPath)).sort()) {
-      const logoPath = path.join(providerPath, asset, "logo.svg");
-      const key = `perps/${provider}/${asset}/logo.svg`;
+      const assetPath = path.join(providerPath, asset);
+      const logoFiles = (await fs.readdir(assetPath)).filter((file) =>
+        Object.hasOwn(LOGO_CONTENT_TYPES, path.extname(file).slice(1)),
+      );
+
+      if (logoFiles.length !== 1) {
+        throw new Error(`${assetPath} must contain exactly one supported logo file (logo.svg, logo.png, or logo.jpg)`);
+      }
+
+      const logoFile = logoFiles[0];
+      const extension = path.extname(logoFile).slice(1) as keyof typeof LOGO_CONTENT_TYPES;
+      const logoPath = path.join(assetPath, logoFile);
+      const key = `perps/${provider}/${asset}/${logoFile}`;
 
       await s3Client.putObject({
         Bucket: "oku-cdn",
         Key: key,
         Body: await fs.readFile(logoPath),
-        ContentType: "image/svg+xml",
+        ContentType: LOGO_CONTENT_TYPES[extension],
         ACL: "public-read",
       });
 

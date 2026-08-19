@@ -58,7 +58,7 @@ The image should be square and no larger than 256x256 pixels or smaller than 64x
 
 ## Perps
 
-HIP-3 perp logos use paths such as `perps/xyz/COPPER/logo.svg`. Default perp logos without a dex prefix use paths such as `perps/default/BTC/logo.svg`; the `default` directory is emitted under the empty provider key in `perpslist.json`. Running `make list` uploads these SVGs to R2 and generates `perpslist.json`.
+Perp logos may be named `logo.svg`, `logo.png`, or `logo.jpg`. Each asset directory must contain exactly one of these files. HIP-3 perp logos use paths such as `perps/xyz/COPPER/logo.svg`. Default perp logos without a dex prefix use paths such as `perps/default/BTC/logo.png`; the `default` directory is emitted under the empty provider key in `perpslist.json`. Running `make list` uploads the logos to R2 with the correct content type and generates `perpslist.json`.
 
 ## How to Submit a PR
 
