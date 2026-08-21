@@ -65,6 +65,10 @@
     [
       "AVGO",
       "https://cdn.oku.trade/perps/para/AVGO/logo.svg"
+    ],
+    [
+      "IREN",
+      "https://cdn.oku.trade/perps/para/IREN/logo.svg"
     ]
   ],
   "xyz": [
@@ -99,6 +103,10 @@
     [
       "EWT",
       "https://cdn.oku.trade/perps/xyz/EWT/logo.svg"
+    ],
+    [
+      "IREN",
+      "https://cdn.oku.trade/perps/xyz/IREN/logo.svg"
     ],
     [
       "MRNA",
