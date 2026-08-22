@@ -67,6 +67,10 @@
       "https://cdn.oku.trade/perps/para/AVGO/logo.svg"
     ],
     [
+      "CRWD",
+      "https://cdn.oku.trade/perps/para/CRWD/logo.svg"
+    ],
+    [
       "IREN",
       "https://cdn.oku.trade/perps/para/IREN/logo.svg"
     ],
@@ -103,6 +107,10 @@
     [
       "COPPER",
       "https://cdn.oku.trade/perps/xyz/COPPER/logo.svg"
+    ],
+    [
+      "CRWD",
+      "https://cdn.oku.trade/perps/xyz/CRWD/logo.svg"
     ],
     [
       "EBAY",
