@@ -69,6 +69,10 @@
     [
       "IREN",
       "https://cdn.oku.trade/perps/para/IREN/logo.svg"
+    ],
+    [
+      "NET",
+      "https://cdn.oku.trade/perps/para/NET/logo.svg"
     ]
   ],
   "xyz": [
@@ -115,6 +119,10 @@
     [
       "NATGAS",
       "https://cdn.oku.trade/perps/xyz/NATGAS/logo.svg"
+    ],
+    [
+      "NET",
+      "https://cdn.oku.trade/perps/xyz/NET/logo.svg"
     ],
     [
       "PURRDAT",
