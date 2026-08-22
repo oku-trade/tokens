@@ -73,6 +73,10 @@
     [
       "NET",
       "https://cdn.oku.trade/perps/para/NET/logo.svg"
+    ],
+    [
+      "STX",
+      "https://cdn.oku.trade/perps/para/STX/logo.svg"
     ]
   ],
   "xyz": [
