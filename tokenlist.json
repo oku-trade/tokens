@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-08-23T16:08:33.270Z",
+  "timestamp": "2026-08-25T23:17:47.715Z",
   "version": {
     "major": 48,
-    "minor": 535,
+    "minor": 536,
     "patch": 1936
   },
   "tokens": [
@@ -3992,6 +3992,14 @@
       "decimals": 18,
       "chainId": 4663,
       "logoURI": "https://cdn.oku.trade/logos/4663/0x12f190a9f9d7d37a250758b26824b97ce941bf54.png"
+    },
+    {
+      "address": "0x2E8c31162b855A2ffa90F6F8634643Ad6F111e18",
+      "name": "Artificial Inu",
+      "symbol": "AI",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x2e8c31162b855a2ffa90f6f8634643ad6f111e18.png"
     },
     {
       "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
