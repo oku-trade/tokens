@@ -61,6 +61,12 @@
       "https://cdn.oku.trade/perps/default/kSHIB/logo.svg"
     ]
   ],
+  "io": [
+    [
+      "ANTH",
+      "https://cdn.oku.trade/perps/io/ANTH/logo.svg"
+    ]
+  ],
   "para": [
     [
       "AVGO",
