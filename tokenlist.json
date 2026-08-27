@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-08-25T23:54:18.749Z",
+  "timestamp": "2026-08-27T16:10:57.561Z",
   "version": {
     "major": 48,
-    "minor": 536,
+    "minor": 537,
     "patch": 1936
   },
   "tokens": [
@@ -5574,6 +5574,15 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0x40fbb60bcb38d64cbc42329a12cf50e0a5bcfc58.png"
+    },
+    {
+      "address": "0x4154550f4Db74Dc38d1FE98e1F3F28ed6daD627d",
+      "name": "Jarvis Synthetic Euro",
+      "symbol": "jEUR",
+      "decimals": 18,
+      "explorer": "https://basescan.org/token/0x4154550f4db74dc38d1fe98e1f3f28ed6dad627d",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x4154550f4db74dc38d1fe98e1f3f28ed6dad627d.png"
     },
     {
       "address": "0x4379c13143Eb91148fF9282CFb2f93536687A45b",
