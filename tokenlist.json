@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-08-28T21:43:06.002Z",
+  "timestamp": "2026-08-31T15:06:22.454Z",
   "version": {
     "major": 48,
-    "minor": 552,
+    "minor": 563,
     "patch": 1936
   },
   "tokens": [
@@ -3978,6 +3978,14 @@
       "logoURI": "https://cdn.oku.trade/logos/43114/0x1a149e21bd3e74b7018db79c988b4ba3bbc1873d.png"
     },
     {
+      "address": "0x0d6b6f604C1BF5b3533C445334bb4e1044145688",
+      "name": "SmokeV2 Token",
+      "symbol": "SMK2",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x0d6b6f604c1bf5b3533c445334bb4e1044145688.png"
+    },
+    {
       "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
       "name": "SPDR S&P 500 ETF Trust • Robinhood Token",
       "symbol": "SPY",
@@ -4000,6 +4008,14 @@
       "decimals": 18,
       "chainId": 4663,
       "logoURI": "https://cdn.oku.trade/logos/4663/0x2e8c31162b855a2ffa90f6f8634643ad6f111e18.png"
+    },
+    {
+      "address": "0x2d8d6F4A93AcD7a916A5a654ec8b690bA3B3EAdd",
+      "name": "Statics",
+      "symbol": "STATICS",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x2d8d6f4a93acd7a916a5a654ec8b690ba3b3eadd.png"
     },
     {
       "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
@@ -4026,12 +4042,44 @@
       "logoURI": "https://cdn.oku.trade/logos/4663/0x411efb0e7f985935daec3d4c3ebaea0d0ad7d89f.png"
     },
     {
+      "address": "0x4E676b556F67816F3a1ee7c2Dbe7991Ba191083b",
+      "name": "Core AI Holdings, Inc. Common Sh",
+      "symbol": "CHAI",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x4e676b556f67816f3a1ee7c2dbe7991ba191083b.png"
+    },
+    {
       "address": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
       "name": "Space Exploration Technologies Corp. Class A Common Stock • Robinhood Token",
       "symbol": "SPCX",
       "decimals": 18,
       "chainId": 4663,
       "logoURI": "https://cdn.oku.trade/logos/4663/0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea.png"
+    },
+    {
+      "address": "0x5B3CbaF058bD0d2bb1680B4E51be1D621b2b8E34",
+      "name": "Buddy The Unicorn",
+      "symbol": "BUDDY",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x5b3cbaf058bd0d2bb1680b4e51be1d621b2b8e34.png"
+    },
+    {
+      "address": "0x5a86828Efd322bfb16d93cFeD16EE9BC14940D7F",
+      "name": "QUOTRONS",
+      "symbol": "QUOTRON",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x5a86828efd322bfb16d93cfed16ee9bc14940d7f.png"
+    },
+    {
+      "address": "0x5d9144d2d017386519a7134Fcc7f1E4bA22f920c",
+      "name": "Lil' Shrub",
+      "symbol": "SHRUB",
+      "decimals": 9,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x5d9144d2d017386519a7134fcc7f1e4ba22f920c.png"
     },
     {
       "address": "0x5f10A1C971B69e47e059e1dC91901B59b3fB49C3",
@@ -4074,6 +4122,14 @@
       "logoURI": "https://cdn.oku.trade/logos/4663/0x894e1ec2d74ffe5aef8dc8a9e84686accb964f2a.png"
     },
     {
+      "address": "0x8E1FB3f2bE16737381D4F8e5FA5242209e676D72",
+      "name": "富贵",
+      "symbol": "富贵",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x8e1fb3f2be16737381d4f8e5fa5242209e676d72.png"
+    },
+    {
       "address": "0x92FD66527192E3e61d4DDd13322Aa222DE86F9B5",
       "name": "iShares 0-3 Month Treasury Bond • Robinhood Token",
       "symbol": "SGOV",
@@ -4082,12 +4138,28 @@
       "logoURI": "https://cdn.oku.trade/logos/4663/0x92fd66527192e3e61d4ddd13322aa222de86f9b5.png"
     },
     {
+      "address": "0x98096d17e191B3dA1d5f99a6D7b3584351b11E18",
+      "name": "Boner Coin",
+      "symbol": "BONER",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x98096d17e191b3da1d5f99a6d7b3584351b11e18.png"
+    },
+    {
       "address": "0xB90A19fF0Af67f7779afF50A882A9CfF42446400",
       "name": "Sandisk Corporation • Robinhood Token",
       "symbol": "SNDK",
       "decimals": 18,
       "chainId": 4663,
       "logoURI": "https://cdn.oku.trade/logos/4663/0xb90a19ff0af67f7779aff50a882a9cff42446400.png"
+    },
+    {
+      "address": "0xD5f1afEA47b1A9eab414D2ee740cF1d6d039E725",
+      "name": "microduck",
+      "symbol": "microduck",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xd5f1afea47b1a9eab414d2ee740cf1d6d039e725.png"
     },
     {
       "address": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
@@ -4138,6 +4210,14 @@
       "logoURI": "https://cdn.oku.trade/logos/4663/0xc0d6457c16cc70d6790dd43521c899c87ce02f35.png"
     },
     {
+      "address": "0xc1f374f5711CD4cFE6d1588AD5a1A382657C8814",
+      "name": "LIAM",
+      "symbol": "LIAM",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xc1f374f5711cd4cfe6d1588ad5a1a382657c8814.png"
+    },
+    {
       "address": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
       "name": "Intel • Robinhood Token",
       "symbol": "INTC",
@@ -4168,6 +4248,14 @@
       "decimals": 18,
       "chainId": 4663,
       "logoURI": "https://cdn.oku.trade/logos/4663/0xdf0992e440dd0be65bd8439b609d6d4366bf1cb5.png"
+    },
+    {
+      "address": "0xe8ffd7e24187F72afB08d75B1bb13088A989a791",
+      "name": "Delta",
+      "symbol": "DELTA",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xe8ffd7e24187f72afb08d75b1bb13088a989a791.png"
     },
     {
       "address": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
