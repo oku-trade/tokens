@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-08-31T15:50:23.978Z",
+  "timestamp": "2026-08-31T16:08:05.741Z",
   "version": {
     "major": 48,
-    "minor": 563,
+    "minor": 564,
     "patch": 1936
   },
   "tokens": [
@@ -4056,6 +4056,15 @@
       "decimals": 18,
       "chainId": 4663,
       "logoURI": "https://cdn.oku.trade/logos/4663/0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea.png"
+    },
+    {
+      "address": "0x5173D45A1191eE33cBB7D8c7e65f21B04eD54802",
+      "name": "Ramses",
+      "symbol": "RAM",
+      "decimals": 18,
+      "explorer": "https://robinscan.io/token/0x5173d45a1191ee33cbb7d8c7e65f21b04ed54802",
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0x5173d45a1191ee33cbb7d8c7e65f21b04ed54802.png"
     },
     {
       "address": "0x5B3CbaF058bD0d2bb1680B4E51be1D621b2b8E34",
