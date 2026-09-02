@@ -73,6 +73,10 @@
     [
       "NBIS",
       "https://cdn.oku.trade/perps/io/NBIS/logo.svg"
+    ],
+    [
+      "OPENAI",
+      "https://cdn.oku.trade/perps/io/OPENAI/logo.svg"
     ]
   ],
   "para": [
