@@ -173,6 +173,10 @@
     [
       "URNM",
       "https://cdn.oku.trade/perps/xyz/URNM/logo.svg"
+    ],
+    [
+      "XBI",
+      "https://cdn.oku.trade/perps/xyz/XBI/logo.svg"
     ]
   ]
 }

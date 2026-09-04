@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-09-03T15:45:32.659Z",
+  "timestamp": "2026-09-04T15:47:54.444Z",
   "version": {
     "major": 48,
-    "minor": 564,
+    "minor": 566,
     "patch": 1936
   },
   "tokens": [
@@ -4211,6 +4211,15 @@
       "logoURI": "https://cdn.oku.trade/logos/4663/0xb0992820e760d836549ba69bc7598b4af75dee03.png"
     },
     {
+      "address": "0xbe98b75361935b18d688409424a869a4C3dC7401",
+      "name": "Send Nudes",
+      "symbol": "NUDES",
+      "decimals": 18,
+      "explorer": "https://robinscan.io/token/0xbe98b75361935b18d688409424a869a4c3dc7401",
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xbe98b75361935b18d688409424a869a4c3dc7401.png"
+    },
+    {
       "address": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
       "name": "Meta Platforms • Robinhood Token",
       "symbol": "META",
@@ -5486,6 +5495,15 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938.png"
+    },
+    {
+      "address": "0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+      "name": "Staked USDai",
+      "symbol": "sUSDai",
+      "decimals": 18,
+      "explorer": "https://basescan.org/token/0x0b2b2b2076d95dda7817e785989fe353fe955ef9",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x0b2b2b2076d95dda7817e785989fe353fe955ef9.png"
     },
     {
       "address": "0x0C3B5E2DC4308c00F4049aD2c28F0D15Afd49a82",
