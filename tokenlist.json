@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-09-04T15:47:54.444Z",
+  "timestamp": "2026-09-09T16:47:33.977Z",
   "version": {
     "major": 48,
-    "minor": 566,
+    "minor": 567,
     "patch": 1936
   },
   "tokens": [
@@ -4193,6 +4193,15 @@
       "decimals": 18,
       "chainId": 4663,
       "logoURI": "https://cdn.oku.trade/logos/4663/0xaf3d76f1834a1d425780943c99ea8a608f8a93f9.png"
+    },
+    {
+      "address": "0xab093dEF657F15dF31b33922A95e047aDd645B29",
+      "name": "MUSHROOM",
+      "symbol": "SHROOM",
+      "decimals": 18,
+      "explorer": "https://robinscan.io/token/0xab093def657f15df31b33922a95e047add645b29",
+      "chainId": 4663,
+      "logoURI": "https://cdn.oku.trade/logos/4663/0xab093def657f15df31b33922a95e047add645b29.png"
     },
     {
       "address": "0xad25Ac6C84D497db898fa1E8387bf6Af3532a1c4",
