@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-09-09T16:47:33.977Z",
+  "timestamp": "2026-09-10T15:22:38.071Z",
   "version": {
     "major": 48,
-    "minor": 567,
+    "minor": 568,
     "patch": 1936
   },
   "tokens": [
@@ -4390,6 +4390,14 @@
       "decimals": 18,
       "chainId": 480,
       "logoURI": "https://cdn.oku.trade/logos/480/0xab09a728e53d3d6bc438be95eed46da0bbe7fb38.png"
+    },
+    {
+      "address": "0xdBB7bE091f5aDddb22ebC7117De52bcc4c93FFb0",
+      "name": "FruitToken",
+      "symbol": "FRUIT",
+      "decimals": 18,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0xdbb7be091f5adddb22ebc7117de52bcc4c93ffb0.png"
     },
     {
       "name": "Bridged USDC",
