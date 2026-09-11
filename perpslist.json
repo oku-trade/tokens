@@ -95,6 +95,10 @@
     [
       "TLT",
       "https://cdn.oku.trade/perps/mkts/TLT/logo.png"
+    ],
+    [
+      "US500",
+      "https://cdn.oku.trade/perps/mkts/US500/logo.png"
     ]
   ],
   "para": [
