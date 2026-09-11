@@ -115,16 +115,36 @@
       "https://cdn.oku.trade/perps/para/CRWD/logo.svg"
     ],
     [
+      "IGV",
+      "https://cdn.oku.trade/perps/para/IGV/logo.png"
+    ],
+    [
       "IREN",
       "https://cdn.oku.trade/perps/para/IREN/logo.svg"
+    ],
+    [
+      "MELI",
+      "https://cdn.oku.trade/perps/para/MELI/logo.svg"
     ],
     [
       "NET",
       "https://cdn.oku.trade/perps/para/NET/logo.svg"
     ],
     [
+      "SMCI",
+      "https://cdn.oku.trade/perps/para/SMCI/logo.svg"
+    ],
+    [
+      "SOFI",
+      "https://cdn.oku.trade/perps/para/SOFI/logo.svg"
+    ],
+    [
       "STX",
       "https://cdn.oku.trade/perps/para/STX/logo.svg"
+    ],
+    [
+      "TTWO",
+      "https://cdn.oku.trade/perps/para/TTWO/logo.svg"
     ]
   ],
   "xyz": [
@@ -143,6 +163,10 @@
     [
       "BIRD",
       "https://cdn.oku.trade/perps/xyz/BIRD/logo.svg"
+    ],
+    [
+      "BMNR",
+      "https://cdn.oku.trade/perps/xyz/BMNR/logo.svg"
     ],
     [
       "BOT",
