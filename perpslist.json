@@ -71,6 +71,10 @@
       "https://cdn.oku.trade/perps/io/GPRO/logo.svg"
     ],
     [
+      "IONQ",
+      "https://cdn.oku.trade/perps/io/IONQ/logo.svg"
+    ],
+    [
       "NBIS",
       "https://cdn.oku.trade/perps/io/NBIS/logo.svg"
     ],
@@ -79,10 +83,28 @@
       "https://cdn.oku.trade/perps/io/OAI/logo.svg"
     ]
   ],
+  "mkts": [
+    [
+      "IWM",
+      "https://cdn.oku.trade/perps/mkts/IWM/logo.png"
+    ],
+    [
+      "QQQ",
+      "https://cdn.oku.trade/perps/mkts/QQQ/logo.svg"
+    ],
+    [
+      "TLT",
+      "https://cdn.oku.trade/perps/mkts/TLT/logo.png"
+    ]
+  ],
   "para": [
     [
       "AVGO",
       "https://cdn.oku.trade/perps/para/AVGO/logo.svg"
+    ],
+    [
+      "CIFR",
+      "https://cdn.oku.trade/perps/para/CIFR/logo.svg"
     ],
     [
       "CRWD",

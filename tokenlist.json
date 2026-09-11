@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-09-10T15:22:38.071Z",
+  "timestamp": "2026-09-11T17:05:18.751Z",
   "version": {
     "major": 48,
-    "minor": 568,
+    "minor": 569,
     "patch": 1936
   },
   "tokens": [
@@ -4518,6 +4518,15 @@
       "decimals": 6,
       "chainId": 5000,
       "logoURI": "https://cdn.oku.trade/logos/5000/0x051665f2455116e929b9972c36d23070f5054ce0.png"
+    },
+    {
+      "address": "0x375450706cb79aB749EBB90001bDa10341dD82BC",
+      "name": "BILLI",
+      "symbol": "BILLI",
+      "decimals": 18,
+      "explorer": "https://mantlescan.xyz/token/0x375450706cb79aB749EBB90001bDa10341dD82BC",
+      "chainId": 5000,
+      "logoURI": "https://cdn.oku.trade/logos/5000/0x375450706cb79ab749ebb90001bda10341dd82bc.png"
     },
     {
       "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
