@@ -93,15 +93,31 @@
       "https://cdn.oku.trade/perps/mkts/QQQ/logo.svg"
     ],
     [
+      "SMALL2000",
+      "https://cdn.oku.trade/perps/mkts/SMALL2000/logo.svg"
+    ],
+    [
       "TLT",
       "https://cdn.oku.trade/perps/mkts/TLT/logo.png"
     ],
     [
       "US500",
       "https://cdn.oku.trade/perps/mkts/US500/logo.png"
+    ],
+    [
+      "USBOND",
+      "https://cdn.oku.trade/perps/mkts/USBOND/logo.svg"
     ]
   ],
   "para": [
+    [
+      "10Y",
+      "https://cdn.oku.trade/perps/para/10Y/logo.svg"
+    ],
+    [
+      "ANSEM",
+      "https://cdn.oku.trade/perps/para/ANSEM/logo.svg"
+    ],
     [
       "AVGO",
       "https://cdn.oku.trade/perps/para/AVGO/logo.svg"
@@ -143,6 +159,10 @@
       "https://cdn.oku.trade/perps/para/STX/logo.svg"
     ],
     [
+      "TREAD",
+      "https://cdn.oku.trade/perps/para/TREAD/logo.svg"
+    ],
+    [
       "TTWO",
       "https://cdn.oku.trade/perps/para/TTWO/logo.svg"
     ]
@@ -181,6 +201,10 @@
       "https://cdn.oku.trade/perps/xyz/CRWD/logo.svg"
     ],
     [
+      "CVX",
+      "https://cdn.oku.trade/perps/xyz/CVX/logo.svg"
+    ],
+    [
       "EBAY",
       "https://cdn.oku.trade/perps/xyz/EBAY/logo.svg"
     ],
@@ -195,6 +219,10 @@
     [
       "IREN",
       "https://cdn.oku.trade/perps/xyz/IREN/logo.svg"
+    ],
+    [
+      "KSTR",
+      "https://cdn.oku.trade/perps/xyz/KSTR/logo.svg"
     ],
     [
       "MRNA",
@@ -219,6 +247,10 @@
     [
       "SHEIN",
       "https://cdn.oku.trade/perps/xyz/SHEIN/logo.png"
+    ],
+    [
+      "SNXX",
+      "https://cdn.oku.trade/perps/xyz/SNXX/logo.svg"
     ],
     [
       "URNM",
