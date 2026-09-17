@@ -84,3 +84,24 @@ Perp logos may be named `logo.svg`, `logo.png`, or `logo.jpg`. Each asset direct
    Include a description of the changes you made.
 7. **Wait for Review:**  
    Wait for the reviewer to review your changes. They will provide feedback and suggestions if necessary.
+
+## Incremental CDN uploads
+
+`make list` hashes each logo's contents and processing recipe, comparing them with
+`.upload-manifest.json`. Only new or changed assets are resized (token PNGs) and
+uploaded. Metadata-only edits still update the lists without uploading logos.
+The generated `perpslist.json` is also uploaded only when its contents change.
+
+The main-branch workflow commits the manifest alongside the generated lists.
+The first run without a manifest uploads all assets to establish a verified
+baseline. Upload failures fail the command and are not recorded as successful,
+so the next run retries them. Runs are serialized to avoid overlapping uploads.
+Deleted assets disappear from the lists but are not deleted from the CDN.
+
+To force a full re-upload, remove `.upload-manifest.json` before running
+`make list` with R2 credentials. To force one asset, remove its CDN key from the
+manifest. When changing image processing settings, update the recipe string in
+`src/list.ts` to invalidate the corresponding cached uploads.
+
+Run `yarn test` for incremental-upload regression tests (no R2 credentials or
+network uploads required).
