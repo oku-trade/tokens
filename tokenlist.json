@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-09-11T19:08:08.918Z",
+  "timestamp": "2026-09-17T03:11:21.003Z",
   "version": {
     "major": 48,
-    "minor": 569,
+    "minor": 570,
     "patch": 1936
   },
   "tokens": [
@@ -6020,6 +6020,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xa66f83f38043ebe4d51fc6a6292b06f310a6a11a.png"
+    },
+    {
+      "address": "0xA6af0cEa8FBC93E1eCcC00f1FdD9a0BBa251FeE1",
+      "name": "iPod",
+      "symbol": "IPOD",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xa6af0cea8fbc93e1eccc00f1fdd9a0bba251fee1.png"
     },
     {
       "address": "0xAa6Cccdce193698D33deb9ffd4be74eAa74c4898",
