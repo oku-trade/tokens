@@ -13,6 +13,12 @@ test('incremental asset generation preserves lists and retries failed uploads', 
   const originalCwd = process.cwd();
   const directory = await fs.mkdtemp(path.join(os.tmpdir(), 'token-uploads-'));
   const originalPut = S3.prototype.putObject;
+  const originalResize = sharp.prototype.resize;
+  let resizeCount = 0;
+  sharp.prototype.resize = function (...args) {
+    resizeCount++;
+    return originalResize.apply(this, args);
+  };
   const uploads = [];
   let fail = false;
   S3.prototype.putObject = async function (input) {
@@ -36,20 +42,24 @@ test('incremental asset generation preserves lists and retries failed uploads', 
     await run();
     assert.deepEqual(uploads.map(x => x.Key), ['logos/1/0xabc.png', 'perps/default/BTC/logo.svg', 'perpslist.json']);
     assert.equal((await sharp(uploads[0].Body).metadata()).width, 64);
+    assert.equal(resizeCount, 1);
     const originalTokens = JSON.parse(await fs.readFile('tokenlist.json')).tokens;
     uploads.length = 0;
     await run();
     assert.equal(uploads.length, 0);
+    assert.equal(resizeCount, 1);
     assert.deepEqual(JSON.parse(await fs.readFile('tokenlist.json')).tokens, originalTokens);
     info.name = 'Renamed';
     await fs.writeFile(`${tokenDir}/info.json`, JSON.stringify(info));
     await run();
     assert.equal(uploads.length, 0);
+    assert.equal(resizeCount, 1);
     assert.equal(JSON.parse(await fs.readFile('tokenlist.json')).tokens[0].name, 'Renamed');
     await fs.writeFile(`${tokenDir}/logo.png`, await png('blue'));
     await fs.writeFile('perps/default/BTC/logo.svg', '<svg>changed</svg>');
     await run();
     assert.deepEqual(uploads.map(x => x.Key), ['logos/1/0xabc.png', 'perps/default/BTC/logo.svg']);
+    assert.equal(resizeCount, 2);
     uploads.length = 0;
     await fs.mkdir('perps/default/ETH');
     await fs.writeFile('perps/default/ETH/logo.jpg', Buffer.from('new logo'));
@@ -91,6 +101,7 @@ test('incremental asset generation preserves lists and retries failed uploads', 
   } finally {
     process.chdir(originalCwd);
     S3.prototype.putObject = originalPut;
+    sharp.prototype.resize = originalResize;
     await fs.rm(directory, { recursive: true, force: true });
   }
 });
