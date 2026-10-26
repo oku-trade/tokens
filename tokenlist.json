@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-09-29T16:41:31.700Z",
+  "timestamp": "2026-10-26T21:29:16.888Z",
   "version": {
     "major": 48,
-    "minor": 2567,
+    "minor": 2585,
     "patch": 1936
   },
   "tokens": [
@@ -35,6 +35,30 @@
       "logoURI": "https://cdn.oku.trade/logos/1/0x056b269eb1f75477a8666ae8c7fe01b64dd55ecc.png"
     },
     {
+      "address": "0x1bA9843bD4327c6c77011406dE5fA8749F7E3479",
+      "name": "Aave Ethereum STG",
+      "symbol": "aEthSTG",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x1ba9843bd4327c6c77011406de5fa8749f7e3479.png"
+    },
+    {
+      "address": "0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a",
+      "name": "Aave Ethereum USDT",
+      "symbol": "aEthUSDT",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x23878914efe38d27c4d67ab83ed1b93a74d4086a.png"
+    },
+    {
+      "address": "0x2516E7B3F76294e03C42AA4c5b5b4DCE9C436fB8",
+      "name": "Aave Ethereum BAL",
+      "symbol": "aEthBAL",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x2516e7b3f76294e03c42aa4c5b5b4dce9c436fb8.png"
+    },
+    {
       "address": "0x36E66fbBce51e4cD5bd3C62B637Eb411b18949D4",
       "name": "Omni Network",
       "symbol": "OMNI",
@@ -59,6 +83,14 @@
       "logoURI": "https://cdn.oku.trade/logos/1/0x3dc2bfe52c5de2aa17c3e89ac816dddef24f0736.png"
     },
     {
+      "address": "0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8",
+      "name": "Aave Ethereum WETH",
+      "symbol": "aEthWETH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x4d5f47fa6a74757f35c14fd3a6ef8e3c9bc514e8.png"
+    },
+    {
       "address": "0x56072C95FAA701256059aa122697B133aDEd9279",
       "name": "SKY Governance Token",
       "symbol": "SKY",
@@ -73,6 +105,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0x5c5b196abe0d54485975d1ec29617d42d9198326.png"
+    },
+    {
+      "address": "0x5b502e3796385E1e9755d7043B9C945C3aCCeC9C",
+      "name": "Aave Ethereum KNC",
+      "symbol": "aEthKNC",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x5b502e3796385e1e9755d7043b9c945c3accec9c.png"
     },
     {
       "address": "0x61C1500124fFe148387FFf2CDCD8426bC4cdD8C5",
@@ -163,12 +203,36 @@
       "logoURI": "https://cdn.oku.trade/logos/1/0x884649f1fe3bf3ae0bd720eaf660cb561dce39ef.png"
     },
     {
+      "address": "0x977b6fc5dE62598B08C85AC8Cf2b745874E8b78c",
+      "name": "Aave Ethereum cbETH",
+      "symbol": "aEthcbETH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x977b6fc5de62598b08c85ac8cf2b745874e8b78c.png"
+    },
+    {
       "address": "0x97Ad75064b20fb2B2447feD4fa953bF7F007a706",
       "name": "Berachain STONE",
       "symbol": "beraSTONE",
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0x97ad75064b20fb2b2447fed4fa953bf7f007a706.png"
+    },
+    {
+      "address": "0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c",
+      "name": "Aave Ethereum USDC",
+      "symbol": "aEthUSDC",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c.png"
+    },
+    {
+      "address": "0x9A44fd41566876A39655f74971a3A6eA0a17a454",
+      "name": "Aave Ethereum LDO",
+      "symbol": "aEthLDO",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x9a44fd41566876a39655f74971a3a6ea0a17a454.png"
     },
     {
       "address": "0x9F1060CCb458c07bBD371f1E3B5fF5DBAc338b39",
@@ -195,6 +259,14 @@
       "logoURI": "https://cdn.oku.trade/logos/1/0xa27ec0006e59f245217ff08cd52a7e8b169e62d2.png"
     },
     {
+      "address": "0xA700b4eB416Be35b2911fd5Dee80678ff64fF6C9",
+      "name": "Aave Ethereum AAVE",
+      "symbol": "aEthAAVE",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0xa700b4eb416be35b2911fd5dee80678ff64ff6c9.png"
+    },
+    {
       "address": "0xAa9435e8B790402fe37D690671F11e8acFA6A744",
       "name": "Circle Internet Group Inc Tokenized by Sailing",
       "symbol": "CRCLs",
@@ -219,6 +291,14 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+    {
+      "address": "0xC7B4c17861357B8ABB91F25581E7263E08DCB59c",
+      "name": "Aave Ethereum SNX",
+      "symbol": "aEthSNX",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0xc7b4c17861357b8abb91f25581e7263e08dcb59c.png"
     },
     {
       "address": "0xD29DA236dd4AAc627346e1bBa06A619E8c22d7C5",
@@ -358,6 +438,22 @@
       "logoURI": "https://cdn.oku.trade/logos/10/0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff.png"
     },
     {
+      "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+      "name": "Aave Optimism USDT",
+      "symbol": "aOptUSDT",
+      "decimals": 6,
+      "chainId": 10,
+      "logoURI": "https://cdn.oku.trade/logos/10/0x6ab707aca953edaefbc4fd23ba73294241490620.png"
+    },
+    {
+      "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+      "name": "Aave Optimism SUSD",
+      "symbol": "aOptSUSD",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://cdn.oku.trade/logos/10/0x6d80113e533a2c0fe82eabd35f1875dcea89ea97.png"
+    },
+    {
       "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
       "name": "USD Coin (Bridged from Ethereum)",
       "symbol": "USDC.e",
@@ -380,6 +476,14 @@
       "decimals": 18,
       "chainId": 10,
       "logoURI": "https://cdn.oku.trade/logos/10/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91.png"
+    },
+    {
+      "address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+      "name": "Aave Optimism WETH",
+      "symbol": "aOptWETH",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://cdn.oku.trade/logos/10/0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8.png"
     },
     {
       "name": "Brazilian Digital",
@@ -1442,6 +1546,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://cdn.oku.trade/logos/137/0x6e08fe9aea1054d09e71506459fd6e8dd2cd8f07.png"
+    },
+    {
+      "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+      "name": "Aave Polygon WMATIC",
+      "symbol": "aPolWMATIC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://cdn.oku.trade/logos/137/0x6d80113e533a2c0fe82eabd35f1875dcea89ea97.png"
     },
     {
       "address": "0x71b7E98CcfaEDD98C1ccBD17d5f36EF32BAC2131",
@@ -10765,6 +10877,14 @@
       "explorer": "https://arbiscan.io/token/0x6afcbc3b313869e47e0a943153dbf40e88426b4e",
       "chainId": 42161,
       "logoURI": "https://cdn.oku.trade/logos/42161/0x6afcbc3b313869e47e0a943153dbf40e88426b4e.png"
+    },
+    {
+      "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+      "name": "Aave Arbitrum USDT",
+      "symbol": "aArbUSDT",
+      "decimals": 6,
+      "chainId": 42161,
+      "logoURI": "https://cdn.oku.trade/logos/42161/0x6ab707aca953edaefbc4fd23ba73294241490620.png"
     },
     {
       "address": "0x6b25e9CdEc221C9a3A555Af25Fae68d5F15aa109",
@@ -23504,6 +23624,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0x0c3b5e2dc4308c00f4049ad2c28f0d15afd49a82.png"
     },
     {
+      "address": "0x0a1d576f3eFeF75b330424287a95A366e8281D54",
+      "name": "Aave Base USDbC",
+      "symbol": "aBasUSDbC",
+      "decimals": 6,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x0a1d576f3efef75b330424287a95a366e8281d54.png"
+    },
+    {
       "address": "0x0dF2783bf1Fb3CCA64F3756e3c22041892F0AA15",
       "name": "Dynatrace Inc Tokenized by Sailing",
       "symbol": "DTs",
@@ -24090,6 +24218,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xcd8e3131af0b438ee95e583615fb21cf84148146.png"
     },
     {
+      "address": "0xD4a0e0b9149BCee3C920d2E00b5dE09138fd8bb7",
+      "name": "Aave Base WETH",
+      "symbol": "aBasWETH",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xd4a0e0b9149bcee3c920d2e00b5de09138fd8bb7.png"
+    },
+    {
       "address": "0xD58E8c2247450788097Ba1494e8447C704A88fa6",
       "name": "Circle Internet Group Inc Tokenized by Sailing",
       "symbol": "CRCLs",
@@ -24376,6 +24512,14 @@
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.png"
+    },
+    {
+      "address": "0xcf3D55c10DB69f28fD1A75Bd73f3D8A2d9c595ad",
+      "name": "Aave Base cbETH",
+      "symbol": "aBascbETH",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xcf3d55c10db69f28fd1a75bd73f3d8a2d9c595ad.png"
     },
     {
       "address": "0xd6aF14b278A168660cFA3F10ac546c029C4AA191",
