@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-10-26T21:29:16.888Z",
+  "timestamp": "2026-10-29T19:57:46.780Z",
   "version": {
     "major": 48,
-    "minor": 2585,
+    "minor": 2586,
     "patch": 1936
   },
   "tokens": [
@@ -22578,6 +22578,14 @@
       "address": "0xa7348290de5cf01772479c48D50dec791c3fC212",
       "chainId": 50,
       "logoURI": "https://cdn.oku.trade/logos/50/0xa7348290de5cf01772479c48d50dec791c3fc212.png"
+    },
+    {
+      "address": "0xa7a612ae95E3464c7ECf90fBAF82Bd91f62615EA",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 50,
+      "logoURI": "https://cdn.oku.trade/logos/50/0xa7a612ae95e3464c7ecf90fbaf82bd91f62615ea.png"
     },
     {
       "name": "Bridged stgUSDT",
