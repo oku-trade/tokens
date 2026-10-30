@@ -18,6 +18,11 @@ chains/
         └── <checksummed-token-address>/
             ├── info.json
             └── logo.png
+
+perps/
+└── <provider>/
+    └── <ASSET>/
+        └── logo.svg
 ```
 
 - **Chain ID Folders:**  
@@ -51,6 +56,10 @@ The `info.json` file should adhere to the following schema:
 Each token folder must include a logo.png file. This file should be a valid PNG image representing the token's logo.
 The image should be square and no larger than 256x256 pixels or smaller than 64x64 pixels.
 
+## Perps
+
+Perp logos may be named `logo.svg`, `logo.png`, or `logo.jpg`. Each asset directory must contain exactly one of these files. HIP-3 perp logos use paths such as `perps/xyz/COPPER/logo.svg`. Default perp logos without a dex prefix use paths such as `perps/default/BTC/logo.png`; the `default` directory is emitted under the empty provider key in `perpslist.json`. Running `make list` uploads the logos to R2 with the correct content type and generates `perpslist.json`.
+
 ## How to Submit a PR
 
 1. **Fork the Repository:**  
@@ -75,3 +84,24 @@ The image should be square and no larger than 256x256 pixels or smaller than 64x
    Include a description of the changes you made.
 7. **Wait for Review:**  
    Wait for the reviewer to review your changes. They will provide feedback and suggestions if necessary.
+
+## Incremental CDN uploads
+
+`make list` hashes each logo's contents and processing recipe, comparing them with
+`.upload-manifest.json`. Only new or changed assets are resized (token PNGs) and
+uploaded. Metadata-only edits still update the lists without uploading logos.
+The generated `perpslist.json` is also uploaded only when its contents change.
+
+The main-branch workflow commits the manifest alongside the generated lists.
+The first run without a manifest uploads all assets to establish a verified
+baseline. Upload failures fail the command and are not recorded as successful,
+so the next run retries them. Runs are serialized to avoid overlapping uploads.
+Deleted assets disappear from the lists but are not deleted from the CDN.
+
+To force a full re-upload, remove `.upload-manifest.json` before running
+`make list` with R2 credentials. To force one asset, remove its CDN key from the
+manifest. When changing image processing settings, update the recipe string in
+`src/list.ts` to invalidate the corresponding cached uploads.
+
+Run `yarn test` for incremental-upload regression tests (no R2 credentials or
+network uploads required).

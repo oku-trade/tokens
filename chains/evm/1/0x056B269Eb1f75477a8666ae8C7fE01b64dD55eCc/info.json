@@ -1,0 +1,9 @@
+{
+  "address": "0x056B269Eb1f75477a8666ae8C7fE01b64dD55eCc",
+  "name": "USD3",
+  "symbol": "USD3",
+  "decimals": 6,
+  "website": "https://www.3jane.xyz",
+  "description": "USD3 is a credit-backed yieldcoin by 3Jane, earning from warehouse facilities, forward-flow programs, and credit lines.",
+  "explorer": "https://etherscan.io/token/0x056b269eb1f75477a8666ae8c7fe01b64dd55ecc"
+}

@@ -1,7 +1,7 @@
 import { join } from "path";
 import { MAINNET_CHAINS as chains } from "@gfxlabs/oku-chains";
 import { mkdir, writeFile } from "fs/promises";
-import { http, type Address, createPublicClient, erc20Abi, getContract } from "viem";
+import { http, type Address, createPublicClient, erc20Abi, getAddress, getContract } from "viem";
 import { mainnet } from "viem/chains";
 
 type TokenType = {
@@ -28,7 +28,8 @@ interface CreateTokenInfoOptions {
 }
 
 export async function createTokenInfo(input: TokenInfoInput, options: CreateTokenInfoOptions = {}): Promise<void> {
-  const { address, chainName, rpcUrl, website, description, explorer } = input;
+  const { chainName, rpcUrl, website, description, explorer } = input;
+  const address = getAddress(input.address);
   const { outputDir = "./chains/evm" } = options;
 
   function getChainByInternalName(internalName: string) {
@@ -47,7 +48,7 @@ export async function createTokenInfo(input: TokenInfoInput, options: CreateToke
   }
 
   const chainId = chainInfo.id;
-  const defaultRpcUrl = `https://venn.staging.gfx.town/${chainName}`;
+  const defaultRpcUrl = `https://venn.oku.gfx.town/${chainName}`;
   const effectiveRpcUrl = rpcUrl || defaultRpcUrl;
 
   // Create public client with configurable RPC URL
