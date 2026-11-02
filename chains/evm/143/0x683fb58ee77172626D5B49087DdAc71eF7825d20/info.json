@@ -1,0 +1,9 @@
+{
+  "address": "0x683fb58ee77172626D5B49087DdAc71eF7825d20",
+  "name": "Staked trUSD",
+  "symbol": "strUSD",
+  "decimals": 18,
+  "website": "https://tori.finance",
+  "description": "Staked trUSD, the yield-bearing version of the Tori trUSD stablecoin.",
+  "explorer": "https://monadscan.com/token/0x683fb58ee77172626D5B49087DdAc71eF7825d20"
+}

@@ -1,0 +1,9 @@
+{
+  "address": "0x25419E949b485d481BED4ea0c5A0496f6C7f7c63",
+  "name": "Staked trUSD",
+  "symbol": "strUSD",
+  "decimals": 18,
+  "website": "https://tori.finance",
+  "description": "Staked trUSD, the yield-bearing version of the Tori trUSD stablecoin.",
+  "explorer": "https://pharosscan.xyz/token/0x25419E949b485d481BED4ea0c5A0496f6C7f7c63"
+}
