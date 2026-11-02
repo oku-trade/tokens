@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-10-29T19:57:46.780Z",
+  "timestamp": "2026-11-02T17:01:40.248Z",
   "version": {
     "major": 48,
-    "minor": 2586,
+    "minor": 2591,
     "patch": 1936
   },
   "tokens": [
@@ -57,6 +57,17 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://cdn.oku.trade/logos/1/0x2516e7b3f76294e03c42aa4c5b5b4dce9c436fb8.png"
+    },
+    {
+      "address": "0x280839980a7eD0D7717F64125fE241012E5F5815",
+      "name": "Staked trUSD",
+      "symbol": "strUSD",
+      "decimals": 18,
+      "website": "https://tori.finance",
+      "description": "Staked trUSD, the yield-bearing version of the Tori trUSD stablecoin.",
+      "explorer": "https://etherscan.io/token/0x280839980a7eD0D7717F64125fE241012E5F5815",
+      "chainId": 1,
+      "logoURI": "https://cdn.oku.trade/logos/1/0x280839980a7ed0d7717f64125fe241012e5f5815.png"
     },
     {
       "address": "0x36E66fbBce51e4cD5bd3C62B637Eb411b18949D4",
@@ -1877,6 +1888,17 @@
       "logoURI": "https://cdn.oku.trade/logos/143/0x484be0540ad49f351eaa04eeb35df0f937d4e73f.png"
     },
     {
+      "address": "0x683fb58ee77172626D5B49087DdAc71eF7825d20",
+      "name": "Staked trUSD",
+      "symbol": "strUSD",
+      "decimals": 18,
+      "website": "https://tori.finance",
+      "description": "Staked trUSD, the yield-bearing version of the Tori trUSD stablecoin.",
+      "explorer": "https://monadscan.com/token/0x683fb58ee77172626D5B49087DdAc71eF7825d20",
+      "chainId": 143,
+      "logoURI": "https://cdn.oku.trade/logos/143/0x683fb58ee77172626d5b49087ddac71ef7825d20.png"
+    },
+    {
       "address": "0x97401d48A80B15bC7291599e24B590Eedcd7cE37",
       "name": "Hyperstitions",
       "symbol": "HST",
@@ -2484,6 +2506,17 @@
       "decimals": 18,
       "chainId": 1672,
       "logoURI": "https://cdn.oku.trade/logos/1672/0x1f4b7011ee3d53969bb67f59428a9ec0477856e9.png"
+    },
+    {
+      "address": "0x25419E949b485d481BED4ea0c5A0496f6C7f7c63",
+      "name": "Staked trUSD",
+      "symbol": "strUSD",
+      "decimals": 18,
+      "website": "https://tori.finance",
+      "description": "Staked trUSD, the yield-bearing version of the Tori trUSD stablecoin.",
+      "explorer": "https://pharosscan.xyz/token/0x25419E949b485d481BED4ea0c5A0496f6C7f7c63",
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x25419e949b485d481bed4ea0c5a0496f6c7f7c63.png"
     },
     {
       "address": "0x4809010926aec940b550D34a46A52739f996D75D",
@@ -6723,6 +6756,17 @@
       "explorer": "https://arbiscan.io/token/0x2ef8258d2fcb6633cc53d86f1a87d1ac12e989c0",
       "chainId": 42161,
       "logoURI": "https://cdn.oku.trade/logos/42161/0x2ef8258d2fcb6633cc53d86f1a87d1ac12e989c0.png"
+    },
+    {
+      "address": "0x2F0EF93CE562bd192F13dB1acb32D3A8aa324974",
+      "name": "Staked trUSD",
+      "symbol": "strUSD",
+      "decimals": 18,
+      "website": "https://tori.finance",
+      "description": "Staked trUSD, the yield-bearing version of the Tori trUSD stablecoin.",
+      "explorer": "https://arbiscan.io/token/0x2F0EF93CE562bd192F13dB1acb32D3A8aa324974",
+      "chainId": 42161,
+      "logoURI": "https://cdn.oku.trade/logos/42161/0x2f0ef93ce562bd192f13db1acb32d3a8aa324974.png"
     },
     {
       "address": "0x2F3842aEC3c1e3ee6B505b1d5a7F9B794989b6BD",
@@ -24056,6 +24100,15 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0x92da258fb6b3b0933666488e861b4af3d3e7a2dc.png"
+    },
+    {
+      "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+      "name": "Aerodrome Finance (Legacy)",
+      "symbol": "AERO",
+      "decimals": 18,
+      "explorer": "https://basescan.org/token/0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0x940181a94a35a4569e4529a3cdfb74e38fd98631.png"
     },
     {
       "address": "0x9445502F94d7996E9d3408b3420702fBF0aD21a0",
