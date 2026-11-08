@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-11-08T21:30:38.794Z",
+  "timestamp": "2026-11-08T23:38:46.135Z",
   "version": {
     "major": 49,
-    "minor": 2591,
+    "minor": 2605,
     "patch": 1936
   },
   "tokens": [
@@ -25369,6 +25369,94 @@
       "logoURI": "https://cdn.oku.trade/logos/999/0xd0ee0cf300dfb598270cd7f4d0c6e0d8f6e13f29.png"
     },
     {
+      "address": "0x00941E47969bABa0C86A8F512872007B667cEB1E",
+      "name": "Chomolon Joff",
+      "symbol": "JOFF",
+      "decimals": 8,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0x00941e47969baba0c86a8f512872007b667ceb1e.png"
+    },
+    {
+      "address": "0x119e8ab9F722295DC32F284Ef8D4cf95671C485E",
+      "name": "Kinetiq Earn Vault",
+      "symbol": "vkHYPE",
+      "decimals": 18,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0x119e8ab9f722295dc32f284ef8d4cf95671c485e.png"
+    },
+    {
+      "address": "0x248888D396A546A69A188f3Deb476964e581E9d0",
+      "name": "Kinetiq Staked HYPE",
+      "symbol": "kHYPE",
+      "decimals": 18,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0x248888d396a546a69a188f3deb476964e581e9d0.png"
+    },
+    {
+      "address": "0x3BdE42a1dA8F1D95564f2c4a51a0cF73a725674C",
+      "name": "USD₮0",
+      "symbol": "USD₮0",
+      "decimals": 6,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0x3bde42a1da8f1d95564f2c4a51a0cf73a725674c.png"
+    },
+    {
+      "address": "0x46b131573Ca7c2674b652BbeB7FC16D530396aEC",
+      "name": "Purr",
+      "symbol": "PURR",
+      "decimals": 18,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0x46b131573ca7c2674b652bbeb7fc16d530396aec.png"
+    },
+    {
+      "address": "0x7380B48F6BB40Cb6d624e34496987f9818fbaA64",
+      "name": "USDeOFT",
+      "symbol": "USDe",
+      "decimals": 18,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0x7380b48f6bb40cb6d624e34496987f9818fbaa64.png"
+    },
+    {
+      "address": "0x7A66A75fe41Bc26867C17fe1bc7D1C076EBd4eCd",
+      "name": "Unit Ethereum",
+      "symbol": "UETH",
+      "decimals": 18,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0x7a66a75fe41bc26867c17fe1bc7d1c076ebd4ecd.png"
+    },
+    {
+      "address": "0x87E904A076fb98eEd283AE3e3410507ce95A9326",
+      "name": "USDH",
+      "symbol": "USDH",
+      "decimals": 6,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0x87e904a076fb98eed283ae3e3410507ce95a9326.png"
+    },
+    {
+      "address": "0xE9C29585EAe4B9a55b02a9605AEa892B40d972E8",
+      "name": "Unit Bitcoin",
+      "symbol": "UBTC",
+      "decimals": 8,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0xe9c29585eae4b9a55b02a9605aea892b40d972e8.png"
+    },
+    {
+      "address": "0xF2012a08B042c6a555880025A2e36bBAe7F8AECd",
+      "name": "Staked KNTQ",
+      "symbol": "sKNTQ",
+      "decimals": 18,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0xf2012a08b042c6a555880025a2e36bbae7f8aecd.png"
+    },
+    {
+      "address": "0xa60a69b0508500a0181C299Ba4EAC4B81E19aC96",
+      "name": "Kinetiq Markets LST",
+      "symbol": "kmHYPE",
+      "decimals": 18,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0xa60a69b0508500a0181c299ba4eac4b81e19ac96.png"
+    },
+    {
       "address": "0xb47c4C8F73F009CC0C0d3f92B388d13E293F0B65",
       "name": "USDC",
       "symbol": "USDC",
@@ -25383,6 +25471,30 @@
       "decimals": 18,
       "chainId": 99901,
       "logoURI": "https://cdn.oku.trade/logos/99901/0xba876237b0f021a6c6d852d6c26e107997cc5e81.png"
+    },
+    {
+      "address": "0xc967A6f64684F663E2dF6a43b5A1746b2B582f8e",
+      "name": "Nest",
+      "symbol": "NEST",
+      "decimals": 18,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0xc967a6f64684f663e2df6a43b5a1746b2b582f8e.png"
+    },
+    {
+      "address": "0xd78eC40Ac7412069cA0f223413c7E5E1d18f4315",
+      "name": "Unit Solana",
+      "symbol": "USOL",
+      "decimals": 9,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0xd78ec40ac7412069ca0f223413c7e5e1d18f4315.png"
+    },
+    {
+      "address": "0xe45a355d9e9cAd2aD85F2d03E3eE3102A036acF0",
+      "name": "Kinetiq Governance Token",
+      "symbol": "KNTQ",
+      "decimals": 18,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0xe45a355d9e9cad2ad85f2d03e3ee3102a036acf0.png"
     }
   ]
 }
