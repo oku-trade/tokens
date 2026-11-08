@@ -1,8 +1,8 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-11-02T17:02:15.240Z",
+  "timestamp": "2026-11-08T21:30:38.794Z",
   "version": {
-    "major": 48,
+    "major": 49,
     "minor": 2591,
     "patch": 1936
   },
@@ -25367,6 +25367,22 @@
       "decimals": 6,
       "chainId": 999,
       "logoURI": "https://cdn.oku.trade/logos/999/0xd0ee0cf300dfb598270cd7f4d0c6e0d8f6e13f29.png"
+    },
+    {
+      "address": "0xb47c4C8F73F009CC0C0d3f92B388d13E293F0B65",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0xb47c4c8f73f009cc0c0d3f92b388d13e293f0b65.png"
+    },
+    {
+      "address": "0xbA876237B0F021A6c6D852d6c26E107997cC5E81",
+      "name": "WHYPE",
+      "symbol": "WHYPE",
+      "decimals": 18,
+      "chainId": 99901,
+      "logoURI": "https://cdn.oku.trade/logos/99901/0xba876237b0f021a6c6d852d6c26e107997cc5e81.png"
     }
   ]
 }
