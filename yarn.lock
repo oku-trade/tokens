@@ -760,12 +760,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@gfxlabs/oku-chains@npm:^1.11.30":
-  version: 1.11.30
-  resolution: "@gfxlabs/oku-chains@npm:1.11.30"
+"@gfxlabs/oku-chains@npm:^1.21.2":
+  version: 1.21.2
+  resolution: "@gfxlabs/oku-chains@npm:1.21.2"
   peerDependencies:
     viem: 2.x
-  checksum: 10/30d03ecbff1bf9a221160cf9e4b6578fc34add6b975ce9af339e1017811e328b1b2ff2013e3c9e76814565372636da7b629d4b70cb8941c2fc1371d2117583f5
+  checksum: 10/53fd8f3ba7d94f231ca66c7de1e88b12392da20636e9a8374ab9e24545ba986dadb26cb4846062a2f7c27abe21c64a85e52d100d8c694874c4468547ed1c3cb9
   languageName: node
   linkType: hard
 
@@ -1768,7 +1768,7 @@ __metadata:
   dependencies:
     "@aws-sdk/client-s3": "npm:^3.817.0"
     "@biomejs/biome": "npm:1.9.4"
-    "@gfxlabs/oku-chains": "npm:^1.11.30"
+    "@gfxlabs/oku-chains": "npm:^1.21.2"
     "@types/node": "npm:^22.12.0"
     fs: "npm:^0.0.1-security"
     fs.promises: "npm:^0.1.2"
@@ -1776,14 +1776,14 @@ __metadata:
     path: "npm:^0.12.7"
     sharp: "npm:^0.34.2"
     typescript: "npm:^5.7.3"
-    viem: "npm:^2.48.1"
+    viem: "npm:^2.56.6"
     zod: "npm:^3.25.26"
   languageName: unknown
   linkType: soft
 
-"ox@npm:0.14.17":
-  version: 0.14.17
-  resolution: "ox@npm:0.14.17"
+"ox@npm:0.14.63":
+  version: 0.14.63
+  resolution: "ox@npm:0.14.63"
   dependencies:
     "@adraffy/ens-normalize": "npm:^1.11.0"
     "@noble/ciphers": "npm:^1.3.0"
@@ -1798,7 +1798,7 @@ __metadata:
   peerDependenciesMeta:
     typescript:
       optional: true
-  checksum: 10/477faf5ce9cbfd78aeb298ec1f21ebb3f4807035352a13b4134b0752615864ac0da1c8e65f8dbaa2762da1075236ab2666967d10c80ba1c34f9ff0442fdf549f
+  checksum: 10/f818cf32888dd329fe1f5f8c2f671cc2d10ed87d702d277b6a28071ff2f093d0330abfe77a01e5e721aecc520b8abdf6e77a546559042d57efafa2dfcf30c93e
   languageName: node
   linkType: hard
 
@@ -1971,9 +1971,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"viem@npm:^2.48.1":
-  version: 2.48.1
-  resolution: "viem@npm:2.48.1"
+"viem@npm:^2.56.6":
+  version: 2.57.17
+  resolution: "viem@npm:2.57.17"
   dependencies:
     "@noble/curves": "npm:1.9.1"
     "@noble/hashes": "npm:1.8.0"
@@ -1981,20 +1981,23 @@ __metadata:
     "@scure/bip39": "npm:1.6.0"
     abitype: "npm:1.2.3"
     isows: "npm:1.0.7"
-    ox: "npm:0.14.17"
-    ws: "npm:8.18.3"
+    ox: "npm:0.14.63"
+    ws: "npm:8.21.0"
   peerDependencies:
+    mppx: ">=0.17.0"
     typescript: ">=5.0.4"
   peerDependenciesMeta:
+    mppx:
+      optional: true
     typescript:
       optional: true
-  checksum: 10/0eb9d1bfdfe24d82a48aebf6c3a40719c4a42fc95590a36f8fed3e81c725c8cf1d75a7b62f5c518b572acebd2cea537400cf96c34c41e13ca21fa3610c1eff17
+  checksum: 10/a142f3312ee52e0fd213fe33ae0b5ec3d97049c1aca4cdff25bae41e672c504a2d59390c085a7ef8ae765cafd09e23d11f6429b7216f5177466584b6d825eac9
   languageName: node
   linkType: hard
 
-"ws@npm:8.18.3":
-  version: 8.18.3
-  resolution: "ws@npm:8.18.3"
+"ws@npm:8.21.0":
+  version: 8.21.0
+  resolution: "ws@npm:8.21.0"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ">=5.0.2"
@@ -2003,7 +2006,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: 10/725964438d752f0ab0de582cd48d6eeada58d1511c3f613485b5598a83680bedac6187c765b0fe082e2d8cc4341fc57707c813ae780feee82d0c5efe6a4c61b6
+  checksum: 10/088411956432c8f876158409d5a285cb9ad1382f593391f51d3a599bd0a5b277f876609ebd00fc3596321c4a4c9064d6fffe1ebad960e8ea7fd9ae25324f35c2
   languageName: node
   linkType: hard
 

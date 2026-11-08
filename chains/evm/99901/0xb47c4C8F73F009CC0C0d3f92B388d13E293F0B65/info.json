@@ -1,0 +1,9 @@
+{
+  "address": "0xb47c4C8F73F009CC0C0d3f92B388d13E293F0B65",
+  "name": "USDC",
+  "symbol": "USDC",
+  "decimals": 6,
+  "website": "https://www.circle.com/usdc",
+  "description": "USDC is a fully reserved stablecoin issued by Circle.",
+  "explorer": "https://elysium.kinetiq.xyz/explorer/token/0xb47c4C8F73F009CC0C0d3f92B388d13E293F0B65"
+}
