@@ -2,8 +2,5 @@
   "address": "0xbA876237B0F021A6c6D852d6c26E107997cC5E81",
   "name": "WHYPE",
   "symbol": "WHYPE",
-  "decimals": 18,
-  "website": "https://hyperfoundation.org",
-  "description": "Wrapped HYPE, the wrapped native gas token of Elysium.",
-  "explorer": "https://elysium.kinetiq.xyz/explorer/token/0xbA876237B0F021A6c6D852d6c26E107997cC5E81"
+  "decimals": 18
 }
