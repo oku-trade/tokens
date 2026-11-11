@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-11-08T23:38:46.135Z",
+  "timestamp": "2026-11-11T22:55:52.358Z",
   "version": {
     "major": 49,
-    "minor": 2605,
+    "minor": 2606,
     "patch": 1936
   },
   "tokens": [
@@ -24221,6 +24221,14 @@
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000ab99cfa739e253872b.png"
+    },
+    {
+      "address": "0xB200000000000000000000f720C26062Bc3067Da",
+      "name": "Take-Two Interactive Software, Inc.",
+      "symbol": "TTWOc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000f720c26062bc3067da.png"
     },
     {
       "address": "0xB681D92fBC0611EB443d6c708a89ff390A8d3292",
