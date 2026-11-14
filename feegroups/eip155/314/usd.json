@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "symbol": "AXLUSDC"
+  },
+  {
+    "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+    "symbol": "AXLUSDT"
+  },
+  {
+    "address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
+    "symbol": "CEUSDT"
+  },
+  {
+    "address": "0x2421db204968A367CC2C866CD057fA754Cb84EdF",
+    "symbol": "USDC"
+  }
+]

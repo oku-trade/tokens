@@ -1,0 +1,10 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH"
+  },
+  {
+    "address": "0x7EbeF2A4b1B09381Ec5B9dF8C5c6f2dBECA59c73",
+    "symbol": "WETH"
+  }
+]

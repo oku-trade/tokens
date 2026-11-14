@@ -1,0 +1,14 @@
+[
+  {
+    "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+    "symbol": "FRXUSD"
+  },
+  {
+    "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
+    "symbol": "USDT"
+  }
+]

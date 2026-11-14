@@ -1,0 +1,46 @@
+[
+  {
+    "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "symbol": "AUSD"
+  },
+  {
+    "address": "0xAd4AA2a713fB86FBb6b60dE2aF9E32a11DB6Abf2",
+    "symbol": "CAUSD"
+  },
+  {
+    "address": "0x103222f020e98Bba0AD9809A011FDF8e6F067496",
+    "symbol": "EARNAUSD"
+  },
+  {
+    "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+    "symbol": "GHO"
+  },
+  {
+    "address": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+    "symbol": "MUSD"
+  },
+  {
+    "address": "0x484be0540aD49f351eaa04eeB35dF0f937D4E73f",
+    "symbol": "SYZUSD"
+  },
+  {
+    "address": "0x111111d2bf19e43C34263401e0CAd979eD1cdb61",
+    "symbol": "USD1"
+  },
+  {
+    "address": "0x0Bb150DFa86EA5d7742F07FEfCD8E8edA81D64eF",
+    "symbol": "USDAT"
+  },
+  {
+    "address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDE"
+  },
+  {
+    "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+    "symbol": "USDT0"
+  }
+]

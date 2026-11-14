@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0xc8F4518ed4bAB9a972808a493107926cE8237068",
+    "symbol": "CRVUSD"
+  },
+  {
+    "address": "0x07d83526730c7438048D55A4fc0b850e2aaB6f0b",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
+    "symbol": "USDC.E"
+  },
+  {
+    "address": "0x9c2dc7377717603eB92b2655c5f2E7997a4945BD",
+    "symbol": "USDT"
+  }
+]

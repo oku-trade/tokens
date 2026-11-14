@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "symbol": "AXLUSDC"
+  },
+  {
+    "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+    "symbol": "FRXUSD"
+  },
+  {
+    "address": "0x4300000000000000000000000000000000000003",
+    "symbol": "USDB"
+  },
+  {
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDE"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
+    "symbol": "WSTETH"
+  }
+]

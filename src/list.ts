@@ -2,6 +2,7 @@ import * as path from "path";
 import { S3 } from "@aws-sdk/client-s3";
 import * as fs from "fs/promises";
 import sharp from "sharp";
+import { UploadManifest } from "./uploadManifest";
 
 const GITHUB_RAW_BASE_URL = "https://raw.githubusercontent.com/oku-trade/tokens/main";
 
@@ -40,12 +41,16 @@ const s3Client = new S3({
 });
 
 // Helper to upload and process a logo image.
-async function uploadLogoToR2(logoPath: string, chainId: number, tokenAddress: string): Promise<string> {
-  console.log(`Uploading logo for ${chainId}/${tokenAddress}`);
+async function uploadLogoToR2(
+  manifest: UploadManifest,
+  logoPath: string,
+  chainId: number,
+  tokenAddress: string,
+): Promise<string> {
   const imageBuffer = await fs.readFile(logoPath);
-  const processedBuffer = await sharp(imageBuffer).resize(64, 64, { withoutEnlargement: true }).png().toBuffer();
   const key = `logos/${chainId}/${tokenAddress.toLowerCase()}.png`;
-  try {
+  await manifest.upload(key, imageBuffer, "png-64x64-withoutEnlargement-v1", async () => {
+    const processedBuffer = await sharp(imageBuffer).resize(64, 64, { withoutEnlargement: true }).png().toBuffer();
     await s3Client.putObject({
       Bucket: "oku-cdn",
       Key: key,
@@ -54,15 +59,12 @@ async function uploadLogoToR2(logoPath: string, chainId: number, tokenAddress: s
       ACL: "public-read",
     });
     console.log(`Uploaded logo for ${chainId}/${tokenAddress}`);
-    // Return the CDN URL.
-    return `https://cdn.oku.trade/${key}`;
-  } catch (e) {
-    console.error(e);
-    return "";
-  }
+  });
+  return `https://cdn.oku.trade/${key}`;
 }
 
-async function generateTokenList(baseDirectory: string, outputFile: string) {
+export async function generateTokenList(baseDirectory: string, outputFile: string) {
+  const manifest = await UploadManifest.load();
   const tokens: Token[] = [];
   const chainFolders = await fs.readdir(baseDirectory);
 
@@ -79,16 +81,22 @@ async function generateTokenList(baseDirectory: string, outputFile: string) {
         tokenData.chainId = chainId;
 
         const logoFilePath = path.join(tokenFolderPath, "logo.png");
-        try {
-          await fs.access(logoFilePath);
-          tokenData.logoURI = await uploadLogoToR2(logoFilePath, chainId, tokenFolder);
-        } catch {
+        const hasLogo = await fs.access(logoFilePath).then(
+          () => true,
+          (error: NodeJS.ErrnoException) => {
+            if (error.code !== "ENOENT") throw error;
+            return false;
+          },
+        );
+        if (hasLogo) {
+          tokenData.logoURI = await uploadLogoToR2(manifest, logoFilePath, chainId, tokenFolder);
+        } else {
           // Fallback: use the GitHub raw URL if no logo.png is found.
           tokenData.logoURI = `${GITHUB_RAW_BASE_URL}/chains/${chainFolder}/${tokenFolder}/logo.png`;
         }
         tokens.push(tokenData);
       } catch (err) {
-        console.error(`Error reading ${infoFilePath}:`, err);
+        throw new Error(`Error processing ${infoFilePath}`, { cause: err });
       }
     }
   }
@@ -161,6 +169,7 @@ async function generateTokenList(baseDirectory: string, outputFile: string) {
   };
 
   await fs.writeFile(outputFile, JSON.stringify(tokenList, null, 2), "utf-8");
+  await manifest.save();
   console.log(`Token list successfully written to ${outputFile}`);
 }
 

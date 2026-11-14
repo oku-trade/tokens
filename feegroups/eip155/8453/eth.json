@@ -1,0 +1,58 @@
+[
+  {
+    "address": "0xD4a0e0b9149BCee3C920d2E00b5dE09138fd8bb7",
+    "symbol": "AWETH"
+  },
+  {
+    "address": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+    "symbol": "BSDETH"
+  },
+  {
+    "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+    "symbol": "CBETH"
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH"
+  },
+  {
+    "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "symbol": "EZETH"
+  },
+  {
+    "address": "0x7Ba6F01772924a82D9626c126347A28299E98c98",
+    "symbol": "MSETH"
+  },
+  {
+    "address": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
+    "symbol": "RETH"
+  },
+  {
+    "address": "0x1Bc71130A0e39942a7658878169764Bbd8A45993",
+    "symbol": "RSETH"
+  },
+  {
+    "address": "0xDBFeFD2e8460a6Ee4955A68582F85708BAEA60A3",
+    "symbol": "SUPEROETHB"
+  },
+  {
+    "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+    "symbol": "WEETH"
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0xEDfa23602D0EC14714057867A78d01e94176BEA0",
+    "symbol": "WRSETH"
+  },
+  {
+    "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+    "symbol": "WSTETH"
+  },
+  {
+    "address": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+    "symbol": "WSUPEROETHB"
+  }
+]

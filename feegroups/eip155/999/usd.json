@@ -1,0 +1,34 @@
+[
+  {
+    "address": "0x5f1ab62C3159eBE04aFF14Beef84b0b60de63DDF",
+    "symbol": "SUSDM"
+  },
+  {
+    "address": "0xb88339CB7199b77E23DB6E890353E22632Ba630f",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDE"
+  },
+  {
+    "address": "0x111111a1a0667d36bD57c0A9f569b98057111111",
+    "symbol": "USDH"
+  },
+  {
+    "address": "0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5",
+    "symbol": "USDHL"
+  },
+  {
+    "address": "0xE2d2959f89B6389DeB624bF076Fe7D9E5401f377",
+    "symbol": "USDM"
+  },
+  {
+    "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+    "symbol": "USDT0"
+  },
+  {
+    "address": "0x8c6EB3C8d1FdDC752684274Fb4A3EB98DBE9cd26",
+    "symbol": "USDV"
+  }
+]

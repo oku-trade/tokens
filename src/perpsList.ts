@@ -1,6 +1,7 @@
 import * as path from "path";
 import { S3 } from "@aws-sdk/client-s3";
 import * as fs from "fs/promises";
+import { UploadManifest } from "./uploadManifest";
 
 type PerpsList = Record<string, [string, string][]>;
 
@@ -21,7 +22,8 @@ const s3Client = new S3({
   },
 });
 
-async function generatePerpsList(baseDirectory: string, outputFile: string) {
+export async function generatePerpsList(baseDirectory: string, outputFile: string) {
+  const manifest = await UploadManifest.load();
   const perpsList: PerpsList = {};
 
   for (const provider of (await fs.readdir(baseDirectory)).sort()) {
@@ -43,13 +45,16 @@ async function generatePerpsList(baseDirectory: string, outputFile: string) {
       const logoPath = path.join(assetPath, logoFile);
       const key = `perps/${provider}/${asset}/${logoFile}`;
 
-      await s3Client.putObject({
-        Bucket: "oku-cdn",
-        Key: key,
-        Body: await fs.readFile(logoPath),
-        ContentType: LOGO_CONTENT_TYPES[extension],
-        ACL: "public-read",
-      });
+      const source = await fs.readFile(logoPath);
+      await manifest.upload(key, source, `original-${LOGO_CONTENT_TYPES[extension]}-v1`, () =>
+        s3Client.putObject({
+          Bucket: "oku-cdn",
+          Key: key,
+          Body: source,
+          ContentType: LOGO_CONTENT_TYPES[extension],
+          ACL: "public-read",
+        }),
+      );
 
       assets.push([asset, `https://cdn.oku.trade/${key}`]);
     }
@@ -59,16 +64,21 @@ async function generatePerpsList(baseDirectory: string, outputFile: string) {
 
   const body = JSON.stringify(perpsList, null, 2);
   await fs.writeFile(outputFile, body, "utf-8");
-  await s3Client.putObject({
-    Bucket: "oku-cdn",
-    Key: "perpslist.json",
-    Body: body,
-    ContentType: "application/json",
-    ACL: "public-read",
-  });
+  await manifest.upload("perpslist.json", Buffer.from(body), "json-v1", () =>
+    s3Client.putObject({
+      Bucket: "oku-cdn",
+      Key: "perpslist.json",
+      Body: body,
+      ContentType: "application/json",
+      ACL: "public-read",
+    }),
+  );
+  await manifest.save();
 }
 
-generatePerpsList("./perps", "./perpslist.json").catch((error) => {
-  console.error(error);
-  process.exit(1);
-});
+if (require.main === module) {
+  generatePerpsList("./perps", "./perpslist.json").catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });
+}

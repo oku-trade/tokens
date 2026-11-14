@@ -1,0 +1,62 @@
+[
+  {
+    "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "symbol": "AUSD"
+  },
+  {
+    "address": "0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346",
+    "symbol": "AVUSD"
+  },
+  {
+    "address": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+    "symbol": "AXLUSDC"
+  },
+  {
+    "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+    "symbol": "DAI"
+  },
+  {
+    "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+    "symbol": "FRAX"
+  },
+  {
+    "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+    "symbol": "FRXUSD"
+  },
+  {
+    "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+    "symbol": "GHO"
+  },
+  {
+    "address": "0x06d47F3fb376649c3A9Dafe069B3D6E35572219E",
+    "symbol": "SAVUSD"
+  },
+  {
+    "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+    "symbol": "USDC.E"
+  },
+  {
+    "address": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
+    "symbol": "USDCET"
+  },
+  {
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDE"
+  },
+  {
+    "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+    "symbol": "USDTE"
+  },
+  {
+    "address": "0x94f9bB5c972285728DCee7EAece48BeC2fF341ce",
+    "symbol": "XUSD"
+  }
+]

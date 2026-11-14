@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "symbol": "BTCB"
+  },
+  {
+    "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+    "symbol": "LBTC"
+  },
+  {
+    "address": "0x7CB8A5ABf019983eD053484D5ad17F96FEc56F28",
+    "symbol": "LEADBTC"
+  },
+  {
+    "address": "0x4aae823a6a0b376De6A78e74eCC5b079d38cBCf7",
+    "symbol": "SOLVBTC"
+  },
+  {
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "symbol": "WBTC"
+  }
+]

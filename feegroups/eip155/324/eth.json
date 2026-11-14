@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH"
+  },
+  {
+    "address": "0xc1Fa6E2E8667d9bE0Ca938a54c7E0285E9Df924a",
+    "symbol": "WEETH"
+  },
+  {
+    "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0x703b52F2b28fEbcB60E1372858AF5b18849FE867",
+    "symbol": "WSTETH"
+  }
+]

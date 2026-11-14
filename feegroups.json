@@ -1,0 +1,3090 @@
+{
+  "name": "Oku Fee Groups",
+  "timestamp": "2026-11-14T00:47:14.859Z",
+  "chains": {
+    "eip155:1": {
+      "btc": [
+        {
+          "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+          "symbol": "CBBTC"
+        },
+        {
+          "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
+          "symbol": "LBTC"
+        },
+        {
+          "address": "0x7A56E1C57C7475CCf742a1832B028F0456652F97",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+          "symbol": "TBTC"
+        },
+        {
+          "address": "0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568",
+          "symbol": "UNIBTC"
+        },
+        {
+          "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+          "symbol": "WBTC"
+        }
+      ],
+      "ena": [
+        {
+          "address": "0x57e114B691Db790C35207b2e685D4A43181e6061",
+          "symbol": "ENA"
+        },
+        {
+          "address": "0x8bE3460A480c80728a8C4D7a5D5303c85ba7B3b9",
+          "symbol": "SENA"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8",
+          "symbol": "AWETH"
+        },
+        {
+          "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
+          "symbol": "CBETH"
+        },
+        {
+          "address": "0x35fA164735182de50811E8e2E824cFb9B6118ac2",
+          "symbol": "EETH"
+        },
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+          "symbol": "EZETH"
+        },
+        {
+          "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+          "symbol": "FRXETH"
+        },
+        {
+          "address": "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa",
+          "symbol": "METH"
+        },
+        {
+          "address": "0x64351fC9810aDAd17A690E4e1717Df5e7e085160",
+          "symbol": "MSETH"
+        },
+        {
+          "address": "0xf1C9acDc66974dFB6dEcB12aA385b9cD01190E38",
+          "symbol": "OSETH"
+        },
+        {
+          "address": "0xD9A442856C234a39a81a089C06451EBAa4306a72",
+          "symbol": "PUFETH"
+        },
+        {
+          "address": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
+          "symbol": "PXETH"
+        },
+        {
+          "address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+          "symbol": "RETH"
+        },
+        {
+          "address": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0xac3E018457B222d93114458476f3E3416Abbe38F",
+          "symbol": "SFRXETH"
+        },
+        {
+          "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+          "symbol": "STETH"
+        },
+        {
+          "address": "0xf951E335afb289353dc249e82926178EaC7DEd78",
+          "symbol": "SWETH"
+        },
+        {
+          "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+          "symbol": "WSTETH"
+        },
+        {
+          "address": "0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb",
+          "symbol": "YNETHX"
+        }
+      ],
+      "eur": [
+        {
+          "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+          "symbol": "EURC"
+        },
+        {
+          "address": "0x5F7827FDeb7c20b443265Fc2F40845B715385Ff2",
+          "symbol": "EURCV"
+        },
+        {
+          "address": "0x3231Cb76718CDeF2155FC47b5286d82e6eDA273f",
+          "symbol": "EURE"
+        },
+        {
+          "address": "0x39b8B6385416f4cA36a20319F70D28621895279D",
+          "symbol": "EURE"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
+          "symbol": "ALUSD"
+        },
+        {
+          "address": "0x98A878b1Cd98131B271883B390f68D2c90674665",
+          "symbol": "APXUSD"
+        },
+        {
+          "address": "0x38EEb52F0771140d10c4E9A9a72349A329Fe8a6A",
+          "symbol": "APYUSD"
+        },
+        {
+          "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+          "symbol": "AUSD"
+        },
+        {
+          "address": "0x6440f144b7e50D6a8439336510312d2F54beB01D",
+          "symbol": "BOLD"
+        },
+        {
+          "address": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+          "symbol": "CRVUSD"
+        },
+        {
+          "address": "0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC",
+          "symbol": "CUSD"
+        },
+        {
+          "address": "0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0",
+          "symbol": "CUSDO"
+        },
+        {
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+          "symbol": "FDUSD"
+        },
+        {
+          "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+          "symbol": "FRAX"
+        },
+        {
+          "address": "0xCAcd6fd266aF91b8AeD52aCCc382b4e165586E29",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0x085780639CC2cACd35E474e71f4d000e2405d8f6",
+          "symbol": "FXUSD"
+        },
+        {
+          "address": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+          "symbol": "GHO"
+        },
+        {
+          "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+          "symbol": "LUSD"
+        },
+        {
+          "address": "0x4ba01f22827018b4772CD326C7627FB4956A7C00",
+          "symbol": "MSUSD"
+        },
+        {
+          "address": "0xab5eB14c09D416F0aC63661E57EDB7AEcDb9BEfA",
+          "symbol": "MSUSD"
+        },
+        {
+          "address": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+          "symbol": "MUSD"
+        },
+        {
+          "address": "0xdD468A1DDc392dcdbEf6db6e34E89AA338F9F186",
+          "symbol": "MUSD"
+        },
+        {
+          "address": "0xE556ABa6fe6036275Ec1f87eda296BE72C811BCE",
+          "symbol": "NUSD"
+        },
+        {
+          "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+          "symbol": "OUSD"
+        },
+        {
+          "address": "0xC0c17dD08263C16f6b64E772fB9B723Bf1344DdF",
+          "symbol": "PMUSD"
+        },
+        {
+          "address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+          "symbol": "PYUSD"
+        },
+        {
+          "address": "0x5086bf358635B81D8C47C66d1C8b9E567Db70c72",
+          "symbol": "REUSD"
+        },
+        {
+          "address": "0xdDC0f880ff6e4e22E4B74632fBb43Ce4DF6cCC5a",
+          "symbol": "REUSDE"
+        },
+        {
+          "address": "0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
+          "symbol": "RLUSD"
+        },
+        {
+          "address": "0x0655977FEb2f289A4aB78af67BAB0d17aAb84367",
+          "symbol": "SCRVUSD"
+        },
+        {
+          "address": "0xcf62F905562626CfcDD2261162a51fd02Fc9c5b6",
+          "symbol": "SFRXUSD"
+        },
+        {
+          "address": "0x88887bE419578051FF9F4eb6C858A951921D8888",
+          "symbol": "STCUSD"
+        },
+        {
+          "address": "0xD166337499E176bbC38a1FBd113Ab144e5bd2Df7",
+          "symbol": "SUSDAT"
+        },
+        {
+          "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+          "symbol": "SUSDE"
+        },
+        {
+          "address": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+          "symbol": "SUSDS"
+        },
+        {
+          "address": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
+          "symbol": "SYRUPUSDC"
+        },
+        {
+          "address": "0xd0580192E98eA6CEB9c7b6191Ed2E27560911697",
+          "symbol": "TRUSD"
+        },
+        {
+          "address": "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
+          "symbol": "USD0"
+        },
+        {
+          "address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
+          "symbol": "USD0++"
+        },
+        {
+          "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
+          "symbol": "USD1"
+        },
+        {
+          "address": "0x056B269Eb1f75477a8666ae8C7fE01b64dD55eCc",
+          "symbol": "USD3"
+        },
+        {
+          "address": "0x23238f20b894f29041f48D88eE91131C395Aaa71",
+          "symbol": "USDAT"
+        },
+        {
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x5422374B27757da72d5265cC745ea906E0446634",
+          "symbol": "USDCV"
+        },
+        {
+          "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2",
+          "symbol": "USDF"
+        },
+        {
+          "address": "0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
+          "symbol": "USDG"
+        },
+        {
+          "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+          "symbol": "USDP"
+        },
+        {
+          "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+          "symbol": "USDS"
+        },
+        {
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0xC139190F447e929f090Edeb554D95AbB8b18aC1C",
+          "symbol": "USDTB"
+        },
+        {
+          "address": "0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
+          "symbol": "USDY"
+        }
+      ]
+    },
+    "eip155:10": {
+      "btc": [
+        {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "symbol": "TBTC"
+        },
+        {
+          "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+          "symbol": "AWETH"
+        },
+        {
+          "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+          "symbol": "AXLETH"
+        },
+        {
+          "address": "0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2",
+          "symbol": "CBETH"
+        },
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+          "symbol": "EZETH"
+        },
+        {
+          "address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
+          "symbol": "FRXETH"
+        },
+        {
+          "address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
+          "symbol": "RETH"
+        },
+        {
+          "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0x484c2D6e3cDd945a8B2DF735e079178C1036578c",
+          "symbol": "SFRXETH"
+        },
+        {
+          "address": "0x5A7fACB970D094B6C7FF1df0eA68D99E6e73CBFF",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0x4200000000000000000000000000000000000006",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+          "symbol": "WSTETH"
+        }
+      ],
+      "eur": [
+        {
+          "address": "0xDCB612005417Dc906fF72c87DF732e5a90D49e11",
+          "symbol": "EURC"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
+          "symbol": "ALUSD"
+        },
+        {
+          "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0x03569CC076654F82679C4BA2124D64774781B01D",
+          "symbol": "BOLD"
+        },
+        {
+          "address": "0xC52D7F23a2e460248Db6eE192Cb23dD12bDDCbf6",
+          "symbol": "CRVUSD"
+        },
+        {
+          "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+          "symbol": "FRAX"
+        },
+        {
+          "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+          "symbol": "LUSD"
+        },
+        {
+          "address": "0x9dAbAE7274D28A45F0B65Bf8ED201A5731492ca0",
+          "symbol": "MSUSD"
+        },
+        {
+          "address": "0x1217BfE6c773EEC6cc4A38b5Dc45B92292B6E189",
+          "symbol": "OUSDT"
+        },
+        {
+          "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+          "symbol": "SUSD"
+        },
+        {
+          "address": "0xb5B2dc7fd34C249F4be7fB1fCea07950784229e0",
+          "symbol": "SUSDS"
+        },
+        {
+          "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0x01bFF41798a0BcF287b996046Ca68b395DbC1071",
+          "symbol": "USDT0"
+        },
+        {
+          "address": "0x1eC50880101022C11530A069690F5446d1464592",
+          "symbol": "USDY"
+        }
+      ]
+    },
+    "eip155:100": {
+      "btc": [
+        {
+          "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
+          "symbol": "WSTETH"
+        }
+      ],
+      "eur": [
+        {
+          "address": "0x420CA0f9B9b604cE0fd9C18EF134C705e5Fa3430",
+          "symbol": "EURE"
+        },
+        {
+          "address": "0xcB444e90D8198415266c6a2724b7900fb12FC56E",
+          "symbol": "EURE"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xC0333cb85B59a788d8C7CAe5e1Fd6E229A3E5a65",
+          "symbol": "AGNOUSDCE"
+        },
+        {
+          "address": "0x7a5c3860a77a8DC1b225BD46d0fb2ac1C6D191BC",
+          "symbol": "ASDAI"
+        },
+        {
+          "address": "0xaBEf652195F98A91E490f047A5006B71c85f058d",
+          "symbol": "CRVUSD"
+        },
+        {
+          "address": "0x44fA8E6f47987339850636F88629646662444217",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+          "symbol": "GHO"
+        },
+        {
+          "address": "0xaf204776c7245bF4147c2612BF6e5972Ee483701",
+          "symbol": "SDAI"
+        },
+        {
+          "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x2a22f9c3b484c3629090FeED35F17Ff8F88f76F0",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "XDAI"
+        },
+        {
+          "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+          "symbol": "XDAI"
+        }
+      ]
+    },
+    "eip155:1101": {
+      "btc": [
+        {
+          "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0xCf7eceE185f19e2E970a301eE37F93536ed66179",
+          "symbol": "FRXETH"
+        },
+        {
+          "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D",
+          "symbol": "FRAX"
+        },
+        {
+          "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "eip155:11155111": {
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+          "symbol": "WETH"
+        }
+      ]
+    },
+    "eip155:1135": {
+      "btc": [
+        {
+          "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x4200000000000000000000000000000000000006",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x76D8de471F54aAA87784119c60Df1bbFc852C415",
+          "symbol": "WSTETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x1217BfE6c773EEC6cc4A38b5Dc45B92292B6E189",
+          "symbol": "OUSDT"
+        },
+        {
+          "address": "0xF242275d3a6527d877f2c927a82D9b057609cc71",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0x05D032ac25d322df992303dCa074EE7392C117b9",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0x43F2376D5D03553aE72F4A8093bbe9de4336EB08",
+          "symbol": "USDT0"
+        }
+      ]
+    },
+    "eip155:1284": {
+      "eth": [
+        {
+          "address": "0x82bbd1b6f6De2B7bb63D3e1546e6b1553508BE99",
+          "symbol": "FRXETH"
+        },
+        {
+          "address": "0xecf91116348aF1cfFe335e9807f0051332BE128D",
+          "symbol": "SFRXETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xCa01a1D0993565291051daFF390892518ACfAD3A",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
+          "symbol": "FRAX"
+        }
+      ]
+    },
+    "eip155:130": {
+      "btc": [
+        {
+          "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+          "symbol": "WBTC"
+        },
+        {
+          "address": "0x927B51f251480a681271180DA4de28D44EC4AfB8",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+          "symbol": "EZETH"
+        },
+        {
+          "address": "0x94Cac393f3444cEf63a651FfC18497E7e8bd036a",
+          "symbol": "RETH"
+        },
+        {
+          "address": "0xc3eACf0612346366Db554C991D7858716db09f58",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0x4200000000000000000000000000000000000006",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0xc02fE7317D4eb8753a02c35fe019786854A92001",
+          "symbol": "WSTETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0x1217BfE6c773EEC6cc4A38b5Dc45B92292B6E189",
+          "symbol": "OUSDT"
+        },
+        {
+          "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x588CE4F028D8e7B53B687865d6A67b3A54C75518",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0x9151434b16b9763660705744891fA906F660EcC5",
+          "symbol": "USDT0"
+        }
+      ]
+    },
+    "eip155:1329": {
+      "btc": [
+        {
+          "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+          "symbol": "WETH"
+        }
+      ],
+      "native": [
+        {
+          "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
+          "symbol": "ISEI"
+        },
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "SEI"
+        },
+        {
+          "address": "0xC257361320F4514D91c05F461006CE6a0300E2d2",
+          "symbol": "SPSEI"
+        },
+        {
+          "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+          "symbol": "WSEI"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
+          "symbol": "KAVAUSDT"
+        },
+        {
+          "address": "0x059A6b0bA116c63191182a0956cF697d0d2213eC",
+          "symbol": "SYUSD"
+        },
+        {
+          "address": "0xe15fC38F6D8c56aF07bbCBe3BAf5708A2Bf42392",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
+          "symbol": "USDC.N"
+        },
+        {
+          "address": "0x9151434b16b9763660705744891fA906F660EcC5",
+          "symbol": "USDT0"
+        },
+        {
+          "address": "0x54cD901491AeF397084453F4372B93c33260e2A6",
+          "symbol": "USDY"
+        }
+      ]
+    },
+    "eip155:137": {
+      "btc": [
+        {
+          "address": "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "symbol": "TBTC"
+        },
+        {
+          "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+          "symbol": "WBTC"
+        },
+        {
+          "address": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x1280830F690D0E65195B3c61b028244C3A49f26D",
+          "symbol": "AXLETH"
+        },
+        {
+          "address": "0x4b4327dB1600B8B1440163F667e199CEf35385f5",
+          "symbol": "CBETH"
+        },
+        {
+          "address": "0xEe327F889d5947c1dc1934Bb208a1E792F953E96",
+          "symbol": "FRXETH"
+        },
+        {
+          "address": "0x0266F4F08D82372CF0FcbCCc0Ff74309089c74d1",
+          "symbol": "RETH"
+        },
+        {
+          "address": "0x6d1FdBB266fCc09A16a22016369210A15bb95761",
+          "symbol": "SFRXETH"
+        },
+        {
+          "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
+          "symbol": "WSTETH"
+        }
+      ],
+      "eur": [
+        {
+          "address": "0x18ec0A6E18E5bc3784fDd3a3634b31245ab704F6",
+          "symbol": "EURE"
+        },
+        {
+          "address": "0xE0aEa583266584DafBB3f9C3211d5588c73fEa8d",
+          "symbol": "EURE"
+        }
+      ],
+      "quick": [
+        {
+          "address": "0xf28164A485B0B2C90639E47b0f377b4a438a16B1",
+          "symbol": "DQUICK"
+        },
+        {
+          "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+          "symbol": "QUICK"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+          "symbol": "AUSD"
+        },
+        {
+          "address": "0xEB3669C7324B3cb1622a0A37391F5d3B8efffBc3",
+          "symbol": "AUUSD"
+        },
+        {
+          "address": "0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0xc4Ce1D6F5D98D65eE25Cf85e9F2E9DcFEe6Cb5d6",
+          "symbol": "CRVUSD"
+        },
+        {
+          "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+          "symbol": "FRAX"
+        },
+        {
+          "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0xcfd6AaA9373CEebcC03D3cd9d87d4033da67B8e9",
+          "symbol": "FUSD"
+        },
+        {
+          "address": "0x23001f892c0C82b79303EDC9B9033cD190BB21c7",
+          "symbol": "LUSD"
+        },
+        {
+          "address": "0x99aF3EeA856556646C98c8B9b2548Fe815240750",
+          "symbol": "PYUSD"
+        },
+        {
+          "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0x4318CB63A2b8edf2De971E2F17F77097e499459D",
+          "symbol": "USDCET"
+        },
+        {
+          "address": "0x9417669fBF23357D2774e9D421307bd5eA1006d2",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+          "symbol": "USDT0"
+        }
+      ]
+    },
+    "eip155:143": {
+      "aznd": [
+        {
+          "address": "0x4917a5ec9fCb5e10f47CBB197aBe6aB63be81fE8",
+          "symbol": "AZND"
+        },
+        {
+          "address": "0x9c82eB49B51F7Dc61e22Ff347931CA32aDc6cd90",
+          "symbol": "LOAZND"
+        }
+      ],
+      "btc": [
+        {
+          "address": "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
+          "symbol": "BTC.B"
+        },
+        {
+          "address": "0xd18B7EC58Cdf4876f6AFebd3Ed1730e4Ce10414b",
+          "symbol": "CBBTC"
+        },
+        {
+          "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+          "symbol": "LBTC"
+        },
+        {
+          "address": "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0xEE8c0E9f1BFFb4Eb878d8f15f368A02a35481242",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x10Aeaf63194db8d453d4D85a06E5eFE1dd0b5417",
+          "symbol": "WSTETH"
+        }
+      ],
+      "native": [
+        {
+          "address": "0x0c65A0BC65a5D819235B71F554D210D3F80E0852",
+          "symbol": "APRMON"
+        },
+        {
+          "address": "0xE01d426B589c7834a5F6B20D7e992A705d3c22ED",
+          "symbol": "CWMON"
+        },
+        {
+          "address": "0x8498312A6B3CbD158bf0c93AbdCF29E6e4F55081",
+          "symbol": "GMON"
+        },
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "MON"
+        },
+        {
+          "address": "0x1B68626dCa36c7fE922fD2d55E4f631d962dE19c",
+          "symbol": "SHMON"
+        },
+        {
+          "address": "0xA3227C5969757783154C60bF0bC1944180ed81B9",
+          "symbol": "SMON"
+        },
+        {
+          "address": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+          "symbol": "WMON"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+          "symbol": "AUSD"
+        },
+        {
+          "address": "0xAd4AA2a713fB86FBb6b60dE2aF9E32a11DB6Abf2",
+          "symbol": "CAUSD"
+        },
+        {
+          "address": "0x103222f020e98Bba0AD9809A011FDF8e6F067496",
+          "symbol": "EARNAUSD"
+        },
+        {
+          "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+          "symbol": "GHO"
+        },
+        {
+          "address": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+          "symbol": "MUSD"
+        },
+        {
+          "address": "0x484be0540aD49f351eaa04eeB35dF0f937D4E73f",
+          "symbol": "SYZUSD"
+        },
+        {
+          "address": "0x111111d2bf19e43C34263401e0CAd979eD1cdb61",
+          "symbol": "USD1"
+        },
+        {
+          "address": "0x0Bb150DFa86EA5d7742F07FEfCD8E8edA81D64eF",
+          "symbol": "USDAT"
+        },
+        {
+          "address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+          "symbol": "USDT0"
+        }
+      ]
+    },
+    "eip155:146": {
+      "btc": [
+        {
+          "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+          "symbol": "LBTC"
+        },
+        {
+          "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0xd75787bA9ABa324420d522BdA84c08c87e5099b1",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "eip155:151": {
+      "eth": [
+        {
+          "address": "0x5a7e19089909c92ae07a1bd33d3FeF428312DebA",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x8201c02d4AB2214471E8C3AD6475C8b0CD9F2D06",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0xE08DED898D7782B085cD240d7B234063696765aD",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0x420e07cec544b8A52B7d0c62b1C9BF990cc58083",
+          "symbol": "USDT0"
+        }
+      ]
+    },
+    "eip155:16661": {
+      "btc": [
+        {
+          "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x564770837Ef8bbF077cFe54E5f6106538c815B22",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x1f3AA82227281cA364bFb3d253B0f1af1Da6473E",
+          "symbol": "USDC.E"
+        }
+      ]
+    },
+    "eip155:167000": {
+      "btc": [
+        {
+          "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+          "symbol": "SOLVBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xc8F4518ed4bAB9a972808a493107926cE8237068",
+          "symbol": "CRVUSD"
+        },
+        {
+          "address": "0x07d83526730c7438048D55A4fc0b850e2aaB6f0b",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0x9c2dc7377717603eB92b2655c5f2E7997a4945BD",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "eip155:1672": {
+      "eth": [
+        {
+          "address": "0x1f4b7011Ee3d53969bb67F59428a9ec0477856E9",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xC879C018dB60520F4355C26eD1a6D572cdAC1815",
+          "symbol": "USDC"
+        }
+      ]
+    },
+    "eip155:169": {
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x2FE3AD97a60EB7c79A976FC18Bb5fFD07Dd94BA5",
+          "symbol": "WSTETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xb73603C5d87fA094B7314C74ACE2e64D165016fb",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "eip155:1750": {
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x4200000000000000000000000000000000000006",
+          "symbol": "WETH"
+        }
+      ]
+    },
+    "eip155:1890": {
+      "btc": [
+        {
+          "address": "0x46A5e3Fa4a02B9Ae43D9dF9408C86eD643144A67",
+          "symbol": "WBTC.E"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x7EbeF2A4b1B09381Ec5B9dF8C5c6f2dBECA59c73",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x18fB38404DADeE1727Be4b805c5b242B5413Fa40",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0xbCF8C1B03bBDDA88D579330BDF236B58F8bb2cFd",
+          "symbol": "USDC.E"
+        }
+      ]
+    },
+    "eip155:2020": {
+      "eth": [
+        {
+          "address": "0x29c46e6F2A67872Ad6b1Dc04e1591934a96Af62E",
+          "symbol": "RETH"
+        },
+        {
+          "address": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x0B7007c13325C48911F73A2daD5FA5dCBf808aDc",
+          "symbol": "USDC"
+        }
+      ]
+    },
+    "eip155:21000000": {
+      "btc": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "BTCN"
+        },
+        {
+          "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+          "symbol": "LBTC"
+        },
+        {
+          "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0xda5dDd7270381A7C2717aD10D1c0ecB19e3CDFb2",
+          "symbol": "WBTCN"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xDF0B24095e15044538866576754F3C964e902Ee6",
+          "symbol": "USDC.E"
+        }
+      ]
+    },
+    "eip155:232": {
+      "usd": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "GHO"
+        },
+        {
+          "address": "0x88F08E304EC4f90D644Cec3Fb69b8aD414acf884",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x6bDc36E20D267Ff0dd6097799f82e78907105e2F",
+          "symbol": "WGHO"
+        }
+      ]
+    },
+    "eip155:2345": {
+      "btc": [
+        {
+          "address": "0x02F294cC9Ceb2c80FbA3fD779e17FE191Cc360C4",
+          "symbol": "ARTBTC"
+        },
+        {
+          "address": "0x941508f0B823f1BC40a9beEFCE5e544E525a94c3",
+          "symbol": "ARTBTCB"
+        },
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "BTC"
+        },
+        {
+          "address": "0xfe41e7e5cB3460c483AB2A38eb605Cda9e2d248E",
+          "symbol": "BTCB"
+        },
+        {
+          "address": "0xbC10000000000000000000000000000000000000",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x3a1293Bdb83bBbDd5Ebf4fAc96605aD2021BbC0f",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x3022b87ac063DE95b1570F46f5e470F8B53112D8",
+          "symbol": "USDC.E"
+        }
+      ]
+    },
+    "eip155:288": {
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x7562F525106F5d54E891e005867Bf489B5988CD9",
+          "symbol": "FRAX"
+        },
+        {
+          "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x71879254030C385C0047b83968DA5436f82cd690",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0x7D5a56742C082FcDfc240cd7D1775f00e059771F",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "eip155:30": {
+      "btc": [
+        {
+          "address": "0xF1376bceF0f78459C0Ed0ba5ddce976F1ddF51F4",
+          "symbol": "BRBTC"
+        },
+        {
+          "address": "0xEF85254Aa4a8490bcC9C02Ae38513Cae8303FB53",
+          "symbol": "MBTC"
+        },
+        {
+          "address": "0x7F71f02aE0945364F658860d67dbc10c86Ca3a3C",
+          "symbol": "MHYPERBTC"
+        },
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "RBTC"
+        },
+        {
+          "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0xd3c8dA379d71a33BfEE8875F87Ac2748bEB1d58d",
+          "symbol": "UNIBTC"
+        },
+        {
+          "address": "0x542fDA317318eBF1d3DEAf76E0b632741A7e677d",
+          "symbol": "WRBTC"
+        },
+        {
+          "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+          "symbol": "XSOLVBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96",
+          "symbol": "RUSDT"
+        },
+        {
+          "address": "0x74c9f2b00581F1B11AA7ff05aa9F608B7389De67",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37",
+          "symbol": "USDRIF"
+        },
+        {
+          "address": "0xAf368c91793CB22739386DFCbBb2F1A9e4bCBeBf",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+          "symbol": "USDT0"
+        }
+      ]
+    },
+    "eip155:314": {
+      "btc": [
+        {
+          "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+          "symbol": "AXLWBTC"
+        },
+        {
+          "address": "0x592786E04c47844Aa3B343b19eF2f50A255a477F",
+          "symbol": "CEWBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+          "symbol": "AXLETH"
+        },
+        {
+          "address": "0x522B61755b5FF8176B2931DA7bF1a5F9414Eb710",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+          "symbol": "AXLUSDT"
+        },
+        {
+          "address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
+          "symbol": "CEUSDT"
+        },
+        {
+          "address": "0x2421db204968A367CC2C866CD057fA754Cb84EdF",
+          "symbol": "USDC"
+        }
+      ]
+    },
+    "eip155:324": {
+      "btc": [
+        {
+          "address": "0x74eD17608cc2B5f30a59d6aF07C9aD1B1aB3A5b1",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0xc1Fa6E2E8667d9bE0Ca938a54c7E0285E9Df924a",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x703b52F2b28fEbcB60E1372858AF5b18849FE867",
+          "symbol": "WSTETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0xEa77c590Bb36c43ef7139cE649cFBCFD6163170d",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0x503234F203fC7Eb888EEC8513210612a43Cf6115",
+          "symbol": "LUSD"
+        },
+        {
+          "address": "0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x39Fe7a0DACcE31Bd90418e3e659fb0b5f0B3Db0d",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "eip155:40": {
+      "btc": [
+        {
+          "address": "0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0xBAb93B7ad7fE8692A878B95a8e689423437cc500",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+          "symbol": "USDC.E"
+        }
+      ]
+    },
+    "eip155:42161": {
+      "btc": [
+        {
+          "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+          "symbol": "BTC.B"
+        },
+        {
+          "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+          "symbol": "CBBTC"
+        },
+        {
+          "address": "0x441Fcb23dFe8289cf572126FEDCf450974ADc891",
+          "symbol": "RBTC"
+        },
+        {
+          "address": "0x3647c54c4c2C65bC7a2D63c0Da2809B399DBBDC0",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "symbol": "TBTC"
+        },
+        {
+          "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+          "symbol": "AWETH"
+        },
+        {
+          "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+          "symbol": "AXLETH"
+        },
+        {
+          "address": "0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f",
+          "symbol": "CBETH"
+        },
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+          "symbol": "EZETH"
+        },
+        {
+          "address": "0x178412e79c25968a32e89b11f63B33F733770c2A",
+          "symbol": "FRXETH"
+        },
+        {
+          "address": "0xf7d4e7273E5015C96728A6b02f31C505eE184603",
+          "symbol": "OSETH"
+        },
+        {
+          "address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
+          "symbol": "RETH"
+        },
+        {
+          "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0x95aB45875cFFdba1E5f451B950bC2E42c0053f39",
+          "symbol": "SFRXETH"
+        },
+        {
+          "address": "0xbc011A12Da28e8F0f528d9eE5E7039E22F91cf18",
+          "symbol": "SWETH"
+        },
+        {
+          "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+          "symbol": "WSTETH"
+        }
+      ],
+      "eur": [
+        {
+          "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
+          "symbol": "AGEUR"
+        },
+        {
+          "address": "0x0c06cCF38114ddfc35e07427B9424adcca9F44F8",
+          "symbol": "EURE"
+        }
+      ],
+      "pendle": [
+        {
+          "address": "0xB688BA096b7Bb75d7841e47163Cd12D18B36A5bF",
+          "symbol": "MPENDLE"
+        },
+        {
+          "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+          "symbol": "PENDLE"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
+          "symbol": "ALUSD"
+        },
+        {
+          "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+          "symbol": "AUSD"
+        },
+        {
+          "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0x498Bf2B1e120FeD3ad3D42EA2165E9b73f99C1e5",
+          "symbol": "CRVUSD"
+        },
+        {
+          "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0x93C9932E4afa59201F0B5E63f7d816516F1669fE",
+          "symbol": "FDUSD"
+        },
+        {
+          "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+          "symbol": "FRAX"
+        },
+        {
+          "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33",
+          "symbol": "GHO"
+        },
+        {
+          "address": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+          "symbol": "LUSD"
+        },
+        {
+          "address": "0x46850aD61C2B7d64d08c9C754F45254596696984",
+          "symbol": "PYUSD"
+        },
+        {
+          "address": "0x76cE01F0Ef25AA66cC5F1E546a005e4A63B25609",
+          "symbol": "REUSD"
+        },
+        {
+          "address": "0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+          "symbol": "SUSDAI"
+        },
+        {
+          "address": "0x41CA7586cC1311807B4605fBB748a3B8862b42b5",
+          "symbol": "SYRUPUSDC"
+        },
+        {
+          "address": "0xbE00f3db78688d9704BCb4e0a827aea3a9Cc0D62",
+          "symbol": "USD24"
+        },
+        {
+          "address": "0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+          "symbol": "USDAI"
+        },
+        {
+          "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0x004B506865409877C9fA29bfb1ebA929984B9bbC",
+          "symbol": "USDG"
+        },
+        {
+          "address": "0x8EEF5eD361c6823156D936209E23A8e0349e5C61",
+          "symbol": "USDRIF"
+        },
+        {
+          "address": "0x6491c05A82219b8D1479057361ff1654749b876b",
+          "symbol": "USDS"
+        },
+        {
+          "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+          "symbol": "USDT0"
+        }
+      ]
+    },
+    "eip155:42220": {
+      "btc": [
+        {
+          "address": "0x8aC2901Dd8A1F17a1A4768A6bA4C3751e3995B2D",
+          "symbol": "WBTC"
+        },
+        {
+          "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0xD221812de1BD094f35587EE8E174B07B6167D9Af",
+          "symbol": "WETH"
+        }
+      ],
+      "eur": [
+        {
+          "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+          "symbol": "EURM"
+        }
+      ],
+      "native": [
+        {
+          "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+          "symbol": "CELO"
+        },
+        {
+          "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
+          "symbol": "STCELO"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+          "symbol": "USDCET"
+        },
+        {
+          "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
+          "symbol": "USDGLO"
+        },
+        {
+          "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+          "symbol": "USDM"
+        },
+        {
+          "address": "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "eip155:42793": {
+      "btc": [
+        {
+          "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+          "symbol": "LBTC"
+        },
+        {
+          "address": "0xbFc94CD2B1E55999Cfc7347a9313e88702B83d0F",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0xfc24f770F94edBca6D6f885E12d4317320BcB401",
+          "symbol": "WETH"
+        }
+      ],
+      "native": [
+        {
+          "address": "0x01F07f4d78d47A64F4C3B2b65f513f15Be6E1854",
+          "symbol": "STXTZ"
+        },
+        {
+          "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+          "symbol": "WXTZ"
+        },
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "XTZ"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "eip155:43111": {
+      "btc": [
+        {
+          "address": "0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28",
+          "symbol": "HEMIBTC"
+        },
+        {
+          "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0xc3eACf0612346366Db554C991D7858716db09f58",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0x4200000000000000000000000000000000000006",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x6c851F501a3F24E29A8E39a29591cddf09369080",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0xad11a8BEb98bbf61dbb1aa0F6d6F2ECD87b35afA",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0xbB0D083fb1be0A9f6157ec484b6C79E0A4e31C2e",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0x7A06C4AeF988e7925575C50261297a946aD204A8",
+          "symbol": "VUSD"
+        }
+      ]
+    },
+    "eip155:43114": {
+      "btc": [
+        {
+          "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+          "symbol": "BTC.B"
+        },
+        {
+          "address": "0xbc78D84Ba0c46dFe32cf2895a19939c86b81a777",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+          "symbol": "WBTC"
+        },
+        {
+          "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0xc430c78Da6E4AF49bD115F0329D154Bb135f1363",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x7bFd4CA2a6Cf3A3fDDd645D10B323031afe47FF0",
+          "symbol": "WRSETH"
+        }
+      ],
+      "eur": [
+        {
+          "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+          "symbol": "EURC"
+        }
+      ],
+      "native": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "AVAX"
+        },
+        {
+          "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+          "symbol": "AWAVAX"
+        },
+        {
+          "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+          "symbol": "SAVAX"
+        },
+        {
+          "address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
+          "symbol": "STAVAX"
+        },
+        {
+          "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+          "symbol": "WAVAX"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+          "symbol": "AUSD"
+        },
+        {
+          "address": "0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346",
+          "symbol": "AVUSD"
+        },
+        {
+          "address": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+          "symbol": "FRAX"
+        },
+        {
+          "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+          "symbol": "GHO"
+        },
+        {
+          "address": "0x06d47F3fb376649c3A9Dafe069B3D6E35572219E",
+          "symbol": "SAVUSD"
+        },
+        {
+          "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
+          "symbol": "USDCET"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+          "symbol": "USDTE"
+        },
+        {
+          "address": "0x94f9bB5c972285728DCee7EAece48BeC2fF341ce",
+          "symbol": "XUSD"
+        }
+      ]
+    },
+    "eip155:4663": {
+      "btc": [
+        {
+          "address": "0xCEC185eB182c47d1bA1EFc84e6959e18cd620Be4",
+          "symbol": "CBBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "symbol": "USDG"
+        }
+      ]
+    },
+    "eip155:480": {
+      "btc": [
+        {
+          "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x4200000000000000000000000000000000000006",
+          "symbol": "WETH"
+        }
+      ],
+      "eur": [
+        {
+          "address": "0x1C60ba0A0eD1019e8Eb035E6daF4155A5cE2380B",
+          "symbol": "EURC"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x79A02482A880bCE3F13e09Da970dC34db4CD24d1",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x102d758f688a4C1C5a80b116bD945d4455460282",
+          "symbol": "USDT0"
+        }
+      ]
+    },
+    "eip155:50": {
+      "eth": [
+        {
+          "address": "0xa7348290de5cf01772479c48D50dec791c3fC212",
+          "symbol": "WETH"
+        }
+      ],
+      "native": [
+        {
+          "address": "0x9B8e12b0BAC165B86967E771d98B520Ec3F665A6",
+          "symbol": "PSXDC"
+        },
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "XDC"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0xCc0587aeBDa397146cc828b445dB130a94486e74",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
+          "symbol": "XUSDT"
+        }
+      ]
+    },
+    "eip155:5000": {
+      "btc": [
+        {
+          "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+          "symbol": "FBTC"
+        },
+        {
+          "address": "0xa68d25fC2AF7278db4BcdcAabce31814252642a9",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+          "symbol": "CMETH"
+        },
+        {
+          "address": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0",
+          "symbol": "METH"
+        },
+        {
+          "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+          "symbol": "AUSD"
+        },
+        {
+          "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+          "symbol": "SUSDE"
+        },
+        {
+          "address": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0x063C1d1ef6e9099Ce3E8e9AD5C6173d12C49C086",
+          "symbol": "USDG"
+        },
+        {
+          "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+          "symbol": "USDT0"
+        }
+      ]
+    },
+    "eip155:534352": {
+      "btc": [
+        {
+          "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x65421ba909200b81640d98B979d07487C9781B66",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0x01f0a31698C4d065659b9bdC21B3610292a1c506",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0x5300000000000000000000000000000000000004",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32",
+          "symbol": "WSTETH"
+        }
+      ],
+      "eur": [
+        {
+          "address": "0xd7BB130A48595fCDf9480E36C1aE97ff2938aC21",
+          "symbol": "EURE"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0x397F939C3b91A74C321ea7129396492bA9Cdce82",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "eip155:56": {
+      "btc": [
+        {
+          "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+          "symbol": "BTCB"
+        },
+        {
+          "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+          "symbol": "LBTC"
+        },
+        {
+          "address": "0x7CB8A5ABf019983eD053484D5ad17F96FEc56F28",
+          "symbol": "LEADBTC"
+        },
+        {
+          "address": "0x4aae823a6a0b376De6A78e74eCC5b079d38cBCf7",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+          "symbol": "EZETH"
+        },
+        {
+          "address": "0x64048A7eEcF3a2F1BA9e144aAc3D7dB6e58F555e",
+          "symbol": "FRXETH"
+        },
+        {
+          "address": "0x3Cd55356433C89E50DC51aB07EE0fa0A95623D53",
+          "symbol": "SFRXETH"
+        },
+        {
+          "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x26c5e01524d2E6280A48F2c50fF6De7e52E9611C",
+          "symbol": "WSTETH"
+        }
+      ],
+      "native": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "BNB"
+        },
+        {
+          "address": "0xB0b84D294e0C75A6abe60171b70edEb2EFd14A1B",
+          "symbol": "SLISBNB"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+          "symbol": "AUSD"
+        },
+        {
+          "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0x55d398326f99059fF775485246999027B3197955",
+          "symbol": "BSC-USD"
+        },
+        {
+          "address": "0xe2fb3F127f5450DeE44afe054385d74C392BdeF4",
+          "symbol": "CRVUSD"
+        },
+        {
+          "address": "0x64748ea3E31d0B7916F0fF91b017B9f404DED8eF",
+          "symbol": "CUSDO"
+        },
+        {
+          "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+          "symbol": "FDUSD"
+        },
+        {
+          "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
+          "symbol": "FRAX"
+        },
+        {
+          "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+          "symbol": "LISUSD"
+        },
+        {
+          "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
+          "symbol": "USD1"
+        },
+        {
+          "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0xB04906e95AB5D797aDA81508115611fee694c2b3",
+          "symbol": "USDCET"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0x5A110fC00474038f6c02E89C707D638602EA44B5",
+          "symbol": "USDF"
+        },
+        {
+          "address": "0xb3b02E4A9Fb2bD28CC2ff97B0aB3F6B3Ec1eE9D2",
+          "symbol": "USDF"
+        },
+        {
+          "address": "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0xeA953eA6634d55dAC6697C436B1e81A679Db5882",
+          "symbol": "USDU"
+        }
+      ]
+    },
+    "eip155:59144": {
+      "btc": [
+        {
+          "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+          "symbol": "EZETH"
+        },
+        {
+          "address": "0xB1aFD04774c02AE84692619448B08BA79F19b1ff",
+          "symbol": "FRXETH"
+        },
+        {
+          "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0xD2671165570f41BBB3B0097893300b6EB6101E6C",
+          "symbol": "WRSETH"
+        },
+        {
+          "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+          "symbol": "WSTETH"
+        }
+      ],
+      "eur": [
+        {
+          "address": "0x3ff47c5Bf409C86533FE1f4907524d304062428D",
+          "symbol": "EURE"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0xC7346783f5e645aa998B106Ef9E7f499528673D8",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+          "symbol": "MUSD"
+        },
+        {
+          "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "eip155:60808": {
+      "btc": [
+        {
+          "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+          "symbol": "FBTC"
+        },
+        {
+          "address": "0x9998e05030Aee3Af9AD3df35A34F5C51e1628779",
+          "symbol": "HYBRIDBTC.PENDLE"
+        },
+        {
+          "address": "0xA45d4121b3D47719FF57a947A9d961539Ba33204",
+          "symbol": "LBTC"
+        },
+        {
+          "address": "0x4CBE838E2BD3B46247f80519B6aC79363298aa09",
+          "symbol": "SATUNIBTC"
+        },
+        {
+          "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2",
+          "symbol": "TBTC"
+        },
+        {
+          "address": "0x236f8c0a61dA474dB21B693fB2ea7AAB0c803894",
+          "symbol": "UNIBTC"
+        },
+        {
+          "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+          "symbol": "WBTC"
+        },
+        {
+          "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+          "symbol": "WBTC"
+        },
+        {
+          "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+          "symbol": "XSOLVBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0xB5686c4f60904Ec2BDA6277d6FE1F7cAa8D1b41a",
+          "symbol": "RETH"
+        },
+        {
+          "address": "0x249d2952D1C678843e7cD7bF654EfCeC52f2F9E8",
+          "symbol": "SFRXETH"
+        },
+        {
+          "address": "0x4200000000000000000000000000000000000006",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x85008aE6198BC91aC0735CB5497CF125ddAAc528",
+          "symbol": "WSTETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x6c851F501a3F24E29A8E39a29591cddf09369080",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0xc4a20a608616F18aA631316eEDa9Fb62d089361e",
+          "symbol": "FRAX"
+        },
+        {
+          "address": "0x1217BfE6c773EEC6cc4A38b5Dc45B92292B6E189",
+          "symbol": "OUSDT"
+        },
+        {
+          "address": "0xecf21b335B41f9d5A89f6186A99c19a3c467871f",
+          "symbol": "SATUSD"
+        },
+        {
+          "address": "0xe75D0fB2C24A55cA1e3F96781a2bCC7bdba058F0",
+          "symbol": "USDC.E"
+        },
+        {
+          "address": "0x05D032ac25d322df992303dCa074EE7392C117b9",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "eip155:685689": {
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x4200000000000000000000000000000000000006",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x5b32c997211621d55a89Cc5abAF1cC21F3A6ddF5",
+          "symbol": "USDC.E"
+        }
+      ]
+    },
+    "eip155:6900": {
+      "eth": [
+        {
+          "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0x1d1715ecE22A6Ab6349196e7054E61de3Ac2Ea3D",
+          "symbol": "YNETHX"
+        }
+      ],
+      "native": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "NIBI"
+        },
+        {
+          "address": "0xcA0a9Fb5FBF692fa12fD13c0A900EC56Bb3f0a7b",
+          "symbol": "STNIBI"
+        },
+        {
+          "address": "0x0CaCF669f8446BeCA826913a3c6B96aCD4b02a97",
+          "symbol": "WNIBI"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x84f682626302EA7BCA2A7c338b84863292131319",
+          "symbol": "SUSDA"
+        },
+        {
+          "address": "0xf4e097E36d2064E2bDCA96e60439f3A369522003",
+          "symbol": "USDA"
+        },
+        {
+          "address": "0x0829F361A05D993d5CEb035cA6DF3446b060970b",
+          "symbol": "USDC.E"
+        }
+      ]
+    },
+    "eip155:698": {
+      "usd": [
+        {
+          "address": "0x679Dc08cC3A4acFeea2f7CAFAa37561aE0b41Ce7",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0xa0e73E30945B80010503E68e53AbFd0B6B6a6ed9",
+          "symbol": "USDT"
+        }
+      ]
+    },
+    "eip155:81457": {
+      "eth": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+          "symbol": "EZETH"
+        },
+        {
+          "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0x4300000000000000000000000000000000000004",
+          "symbol": "WETH"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0x4300000000000000000000000000000000000003",
+          "symbol": "USDB"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        }
+      ]
+    },
+    "eip155:8453": {
+      "btc": [
+        {
+          "address": "0xBdb9300b7CDE636d9cD4AFF00f6F009fFBBc8EE6",
+          "symbol": "ABASCBBTC"
+        },
+        {
+          "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+          "symbol": "CBBTC"
+        },
+        {
+          "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+          "symbol": "LBTC"
+        },
+        {
+          "address": "0x3B86Ad95859b6AB773f55f8d94B4b9d443EE931f",
+          "symbol": "SOLVBTC"
+        },
+        {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "symbol": "TBTC"
+        },
+        {
+          "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+          "symbol": "WBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0xD4a0e0b9149BCee3C920d2E00b5dE09138fd8bb7",
+          "symbol": "AWETH"
+        },
+        {
+          "address": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+          "symbol": "BSDETH"
+        },
+        {
+          "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+          "symbol": "CBETH"
+        },
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "ETH"
+        },
+        {
+          "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+          "symbol": "EZETH"
+        },
+        {
+          "address": "0x7Ba6F01772924a82D9626c126347A28299E98c98",
+          "symbol": "MSETH"
+        },
+        {
+          "address": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
+          "symbol": "RETH"
+        },
+        {
+          "address": "0x1Bc71130A0e39942a7658878169764Bbd8A45993",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0xDBFeFD2e8460a6Ee4955A68582F85708BAEA60A3",
+          "symbol": "SUPEROETHB"
+        },
+        {
+          "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0x4200000000000000000000000000000000000006",
+          "symbol": "WETH"
+        },
+        {
+          "address": "0xEDfa23602D0EC14714057867A78d01e94176BEA0",
+          "symbol": "WRSETH"
+        },
+        {
+          "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+          "symbol": "WSTETH"
+        },
+        {
+          "address": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+          "symbol": "WSUPEROETHB"
+        }
+      ],
+      "eur": [
+        {
+          "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+          "symbol": "EURC"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x0a1d576f3eFeF75b330424287a95A366e8281D54",
+          "symbol": "ABASUSDBC"
+        },
+        {
+          "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+          "symbol": "AUSD"
+        },
+        {
+          "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+          "symbol": "AXLUSDC"
+        },
+        {
+          "address": "0x3595ca37596D5895B70EFAB592ac315D5B9809B2",
+          "symbol": "AZUSD"
+        },
+        {
+          "address": "0x03569CC076654F82679C4BA2124D64774781B01D",
+          "symbol": "BOLD"
+        },
+        {
+          "address": "0x417Ac0e078398C154EdFadD9Ef675d30Be60Af93",
+          "symbol": "CRVUSD"
+        },
+        {
+          "address": "0x83dB73EF5192de4B6a4c92bD0141Ba1a0Dc87c65",
+          "symbol": "CUSDO"
+        },
+        {
+          "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+          "symbol": "DAI"
+        },
+        {
+          "address": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+          "symbol": "EUSD"
+        },
+        {
+          "address": "0xe5020A6d073a794B6E7f05678707dE47986Fb0b6",
+          "symbol": "FRXUSD"
+        },
+        {
+          "address": "0x6Bb7a212910682DCFdbd5BCBb3e28FB4E8da10Ee",
+          "symbol": "GHO"
+        },
+        {
+          "address": "0x368181499736d0c0CC614DBB145E2EC1AC86b8c6",
+          "symbol": "LUSD"
+        },
+        {
+          "address": "0x526728DBc96689597F85ae4cd716d4f7fCcBAE9d",
+          "symbol": "MSUSD"
+        },
+        {
+          "address": "0xdD468A1DDc392dcdbEf6db6e34E89AA338F9F186",
+          "symbol": "MUSD"
+        },
+        {
+          "address": "0x1217BfE6c773EEC6cc4A38b5Dc45B92292B6E189",
+          "symbol": "OUSDT"
+        },
+        {
+          "address": "0x70654AaD8B7734dc319d0C3608ec7B32e03FA162",
+          "symbol": "SATUSD"
+        },
+        {
+          "address": "0x660975730059246A68521a3e2FBD4740173100f5",
+          "symbol": "SYRUPUSDC"
+        },
+        {
+          "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+          "symbol": "USD+"
+        },
+        {
+          "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+          "symbol": "USDBC"
+        },
+        {
+          "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
+          "symbol": "USDS"
+        },
+        {
+          "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+          "symbol": "USDT"
+        },
+        {
+          "address": "0x102d758f688a4C1C5a80b116bD945d4455460282",
+          "symbol": "USDT0"
+        },
+        {
+          "address": "0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938",
+          "symbol": "USDZ"
+        },
+        {
+          "address": "0x0000000f2eB9f69274678c76222B35eEc7588a65",
+          "symbol": "YOUSD"
+        }
+      ]
+    },
+    "eip155:9745": {
+      "eth": [
+        {
+          "address": "0x7230a9D42D622E18FDf7207041EcA18465F9F1bE",
+          "symbol": "MSETH"
+        },
+        {
+          "address": "0x9eCaf80c1303CCA8791aFBc0AD405c8a35e8d9f1",
+          "symbol": "RSETH"
+        },
+        {
+          "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+          "symbol": "WEETH"
+        },
+        {
+          "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB",
+          "symbol": "WETH"
+        }
+      ],
+      "eur": [
+        {
+          "address": "0x3EE196E78d4d4248b849B8E1C7F44C5457FAFD2C",
+          "symbol": "EURC"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0xb77E872A68C62CfC0dFb02C067Ecc3DA23B4bbf3",
+          "symbol": "GHO"
+        },
+        {
+          "address": "0x29AD7fE4516909b9e498B5a65339e54791293234",
+          "symbol": "MSUSD"
+        },
+        {
+          "address": "0xf91c31299E998C5127Bc5F11e4a657FC0cF358CD",
+          "symbol": "PLUSD"
+        },
+        {
+          "address": "0x616185600989Bf8339b58aC9e539d49536598343",
+          "symbol": "SPLUSD"
+        },
+        {
+          "address": "0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+          "symbol": "SUSDAI"
+        },
+        {
+          "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+          "symbol": "SUSDE"
+        },
+        {
+          "address": "0xC4374775489CB9C56003BF2C9b12495fC64F0771",
+          "symbol": "SYRUPUSDT"
+        },
+        {
+          "address": "0xa9C251F8304b1B3Fc2b9e8fcae78D94Eff82Ac66",
+          "symbol": "TCUSDT0"
+        },
+        {
+          "address": "0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+          "symbol": "USDAI"
+        },
+        {
+          "address": "0x2d661C89D812261039AF9764eceaAee884f5F67F",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+          "symbol": "USDT0"
+        },
+        {
+          "address": "0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C",
+          "symbol": "XUSD"
+        },
+        {
+          "address": "0x6695c0f8706C5ACe3Bdf8995073179cCA47926dc",
+          "symbol": "YZUSD"
+        }
+      ]
+    },
+    "eip155:999": {
+      "btc": [
+        {
+          "address": "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
+          "symbol": "SOLVBTC"
+        }
+      ],
+      "eth": [
+        {
+          "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+          "symbol": "WEETH"
+        }
+      ],
+      "kntq": [
+        {
+          "address": "0x000000000000780555bD0BCA3791f89f9542c2d6",
+          "symbol": "KNTQ"
+        },
+        {
+          "address": "0x696238e0Ca31c94e24ca4CBe7921754E172E4d0F",
+          "symbol": "SKNTQ"
+        }
+      ],
+      "native": [
+        {
+          "address": "0x0000000000000000000000000000000000000000",
+          "symbol": "HYPE"
+        },
+        {
+          "address": "0xfD739d4e423301CE9385c1fb8850539D657C296D",
+          "symbol": "KHYPE"
+        },
+        {
+          "address": "0x360C140E5344A1A0593D44B4ea6Fc7C3DAf0C473",
+          "symbol": "KMHYPE"
+        },
+        {
+          "address": "0x5748ae796AE46A4F1348a1693de4b50560485562",
+          "symbol": "LHYPE"
+        },
+        {
+          "address": "0xdAbB040c428436d41CECd0Fb06bCFDBAaD3a9AA8",
+          "symbol": "MHYPE"
+        },
+        {
+          "address": "0x5555555555555555555555555555555555555555",
+          "symbol": "WHYPE"
+        },
+        {
+          "address": "0x94e8396e0869c9F2200760aF0621aFd240E1CF38",
+          "symbol": "WSTHYPE"
+        }
+      ],
+      "usd": [
+        {
+          "address": "0x5f1ab62C3159eBE04aFF14Beef84b0b60de63DDF",
+          "symbol": "SUSDM"
+        },
+        {
+          "address": "0xb88339CB7199b77E23DB6E890353E22632Ba630f",
+          "symbol": "USDC"
+        },
+        {
+          "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+          "symbol": "USDE"
+        },
+        {
+          "address": "0x111111a1a0667d36bD57c0A9f569b98057111111",
+          "symbol": "USDH"
+        },
+        {
+          "address": "0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5",
+          "symbol": "USDHL"
+        },
+        {
+          "address": "0xE2d2959f89B6389DeB624bF076Fe7D9E5401f377",
+          "symbol": "USDM"
+        },
+        {
+          "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+          "symbol": "USDT0"
+        },
+        {
+          "address": "0x8c6EB3C8d1FdDC752684274Fb4A3EB98DBE9cd26",
+          "symbol": "USDV"
+        }
+      ]
+    },
+    "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp": {
+      "usd": [
+        {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC"
+        },
+        {
+          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "symbol": "USDT"
+        }
+      ]
+    }
+  }
+}

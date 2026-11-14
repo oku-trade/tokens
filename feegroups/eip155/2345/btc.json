@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x02F294cC9Ceb2c80FbA3fD779e17FE191Cc360C4",
+    "symbol": "ARTBTC"
+  },
+  {
+    "address": "0x941508f0B823f1BC40a9beEFCE5e544E525a94c3",
+    "symbol": "ARTBTCB"
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "BTC"
+  },
+  {
+    "address": "0xfe41e7e5cB3460c483AB2A38eb605Cda9e2d248E",
+    "symbol": "BTCB"
+  },
+  {
+    "address": "0xbC10000000000000000000000000000000000000",
+    "symbol": "WBTC"
+  }
+]

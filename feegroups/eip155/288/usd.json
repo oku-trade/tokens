@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x7562F525106F5d54E891e005867Bf489B5988CD9",
+    "symbol": "FRAX"
+  },
+  {
+    "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x71879254030C385C0047b83968DA5436f82cd690",
+    "symbol": "USDC.E"
+  },
+  {
+    "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0x7D5a56742C082FcDfc240cd7D1775f00e059771F",
+    "symbol": "USDT"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+    "symbol": "CMETH"
+  },
+  {
+    "address": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0",
+    "symbol": "METH"
+  },
+  {
+    "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+    "symbol": "RSETH"
+  },
+  {
+    "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+    "symbol": "WETH"
+  }
+]

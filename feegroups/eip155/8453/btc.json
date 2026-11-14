@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0xBdb9300b7CDE636d9cD4AFF00f6F009fFBBc8EE6",
+    "symbol": "ABASCBBTC"
+  },
+  {
+    "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "symbol": "CBBTC"
+  },
+  {
+    "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+    "symbol": "LBTC"
+  },
+  {
+    "address": "0x3B86Ad95859b6AB773f55f8d94B4b9d443EE931f",
+    "symbol": "SOLVBTC"
+  },
+  {
+    "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+    "symbol": "TBTC"
+  },
+  {
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "symbol": "WBTC"
+  }
+]

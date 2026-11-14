@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+    "symbol": "BTC.B"
+  },
+  {
+    "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "symbol": "CBBTC"
+  },
+  {
+    "address": "0x441Fcb23dFe8289cf572126FEDCf450974ADc891",
+    "symbol": "RBTC"
+  },
+  {
+    "address": "0x3647c54c4c2C65bC7a2D63c0Da2809B399DBBDC0",
+    "symbol": "SOLVBTC"
+  },
+  {
+    "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+    "symbol": "TBTC"
+  },
+  {
+    "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "symbol": "WBTC"
+  }
+]
