@@ -1,12 +1,10 @@
 [
   {
     "address": "0x000000000000780555bD0BCA3791f89f9542c2d6",
-    "symbol": "KNTQ",
-    "source": "oku-trade-history:router_swap:35"
+    "symbol": "KNTQ"
   },
   {
     "address": "0x696238e0Ca31c94e24ca4CBe7921754E172E4d0F",
-    "symbol": "SKNTQ",
-    "source": "oku-trade-history:router_swap:35"
+    "symbol": "SKNTQ"
   }
 ]

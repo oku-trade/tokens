@@ -44,7 +44,6 @@ export const FeeGroupAsset = z
   .object({
     address: z.string(),
     symbol: z.string().min(1),
-    source: z.string().min(1),
   })
   .strict();
 

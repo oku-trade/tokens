@@ -1,7 +1,6 @@
 [
   {
     "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
-    "symbol": "WBTC",
-    "source": "coingecko:0g-wrapped-wbtc-0g"
+    "symbol": "WBTC"
   }
 ]

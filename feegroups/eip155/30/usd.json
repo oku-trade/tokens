@@ -1,27 +1,22 @@
 [
   {
     "address": "0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96",
-    "symbol": "RUSDT",
-    "source": "coingecko:rootstock-bridged-usdt-rootstock"
+    "symbol": "RUSDT"
   },
   {
     "address": "0x74c9f2b00581F1B11AA7ff05aa9F608B7389De67",
-    "symbol": "USDC.E",
-    "source": "coingecko:stargate-bridged-usdc"
+    "symbol": "USDC.E"
   },
   {
     "address": "0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37",
-    "symbol": "USDRIF",
-    "source": "coingecko:rif-us-dollar"
+    "symbol": "USDRIF"
   },
   {
     "address": "0xAf368c91793CB22739386DFCbBb2F1A9e4bCBeBf",
-    "symbol": "USDT",
-    "source": "coingecko:stargate-bridged-usdt"
+    "symbol": "USDT"
   },
   {
     "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
-    "symbol": "USDT0",
-    "source": "coingecko:usdt0"
+    "symbol": "USDT0"
   }
 ]

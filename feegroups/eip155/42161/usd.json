@@ -1,117 +1,94 @@
 [
   {
     "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
-    "symbol": "ALUSD",
-    "source": "oku-trade-history:router_swap:72"
+    "symbol": "ALUSD"
   },
   {
     "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
-    "symbol": "AUSD",
-    "source": "coingecko:agora-dollar"
+    "symbol": "AUSD"
   },
   {
     "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-    "symbol": "AXLUSDC",
-    "source": "coingecko:axlusdc"
+    "symbol": "AXLUSDC"
   },
   {
     "address": "0x498Bf2B1e120FeD3ad3D42EA2165E9b73f99C1e5",
-    "symbol": "CRVUSD",
-    "source": "coingecko:crvusd"
+    "symbol": "CRVUSD"
   },
   {
     "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-    "symbol": "DAI",
-    "source": "coingecko:makerdao-arbitrum-bridged-dai-arbitrum-one"
+    "symbol": "DAI"
   },
   {
     "address": "0x93C9932E4afa59201F0B5E63f7d816516F1669fE",
-    "symbol": "FDUSD",
-    "source": "coingecko:first-digital-usd"
+    "symbol": "FDUSD"
   },
   {
     "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "symbol": "FRAX",
-    "source": "coingecko:frax"
+    "symbol": "FRAX"
   },
   {
     "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
-    "symbol": "FRXUSD",
-    "source": "coingecko:frax-usd"
+    "symbol": "FRXUSD"
   },
   {
     "address": "0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33",
-    "symbol": "GHO",
-    "source": "coingecko:gho"
+    "symbol": "GHO"
   },
   {
     "address": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
-    "symbol": "LUSD",
-    "source": "coingecko:liquity-usd"
+    "symbol": "LUSD"
   },
   {
     "address": "0x46850aD61C2B7d64d08c9C754F45254596696984",
-    "symbol": "PYUSD",
-    "source": "coingecko:paypal-usd"
+    "symbol": "PYUSD"
   },
   {
     "address": "0x76cE01F0Ef25AA66cC5F1E546a005e4A63B25609",
-    "symbol": "REUSD",
-    "source": "manual"
+    "symbol": "REUSD"
   },
   {
     "address": "0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
-    "symbol": "SUSDAI",
-    "source": "oku-trade-history:router_swap:385"
+    "symbol": "SUSDAI"
   },
   {
     "address": "0x41CA7586cC1311807B4605fBB748a3B8862b42b5",
-    "symbol": "SYRUPUSDC",
-    "source": "oku-trade-history:router_swap:13"
+    "symbol": "SYRUPUSDC"
   },
   {
     "address": "0xbE00f3db78688d9704BCb4e0a827aea3a9Cc0D62",
-    "symbol": "USD24",
-    "source": "oku-trade-history:router_swap:17"
+    "symbol": "USD24"
   },
   {
     "address": "0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
-    "symbol": "USDAI",
-    "source": "oku-trade-history:router_swap:275"
+    "symbol": "USDAI"
   },
   {
     "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "symbol": "USDC",
-    "source": "coingecko:usd-coin"
+    "symbol": "USDC"
   },
   {
     "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-    "symbol": "USDC.E",
-    "source": "coingecko:usd-coin-ethereum-bridged"
+    "symbol": "USDC.E"
   },
   {
     "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
-    "symbol": "USDE",
-    "source": "coingecko:ethena-usde"
+    "symbol": "USDE"
   },
   {
     "address": "0x004B506865409877C9fA29bfb1ebA929984B9bbC",
-    "symbol": "USDG",
-    "source": "coingecko:global-dollar"
+    "symbol": "USDG"
   },
   {
     "address": "0x8EEF5eD361c6823156D936209E23A8e0349e5C61",
-    "symbol": "USDRIF",
-    "source": "coingecko:rif-us-dollar"
+    "symbol": "USDRIF"
   },
   {
     "address": "0x6491c05A82219b8D1479057361ff1654749b876b",
-    "symbol": "USDS",
-    "source": "coingecko:usds"
+    "symbol": "USDS"
   },
   {
     "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-    "symbol": "USDT0",
-    "source": "coingecko:usdt0"
+    "symbol": "USDT0"
   }
 ]

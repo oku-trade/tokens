@@ -1,12 +1,10 @@
 [
   {
     "address": "0x0000000000000000000000000000000000000000",
-    "symbol": "ETH",
-    "source": "chain-config@v1.12.36/robinhood.go"
+    "symbol": "ETH"
   },
   {
     "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
-    "symbol": "WETH",
-    "source": "coingecko:robinhood-wrapped-eth-robinhood-chain"
+    "symbol": "WETH"
   }
 ]

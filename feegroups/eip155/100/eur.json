@@ -1,12 +1,10 @@
 [
   {
     "address": "0x420CA0f9B9b604cE0fd9C18EF134C705e5Fa3430",
-    "symbol": "EURE",
-    "source": "coingecko:monerium-eur-money-2"
+    "symbol": "EURE"
   },
   {
     "address": "0xcB444e90D8198415266c6a2724b7900fb12FC56E",
-    "symbol": "EURE",
-    "source": "coingecko:monerium-eur-money"
+    "symbol": "EURE"
   }
 ]

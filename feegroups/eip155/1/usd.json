@@ -1,247 +1,198 @@
 [
   {
     "address": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
-    "symbol": "ALUSD",
-    "source": "oku-trade-history:router_swap:182"
+    "symbol": "ALUSD"
   },
   {
     "address": "0x98A878b1Cd98131B271883B390f68D2c90674665",
-    "symbol": "APXUSD",
-    "source": "oku-trade-history:router_swap:159"
+    "symbol": "APXUSD"
   },
   {
     "address": "0x38EEb52F0771140d10c4E9A9a72349A329Fe8a6A",
-    "symbol": "APYUSD",
-    "source": "oku-trade-history:router_swap:123"
+    "symbol": "APYUSD"
   },
   {
     "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
-    "symbol": "AUSD",
-    "source": "coingecko:agora-dollar"
+    "symbol": "AUSD"
   },
   {
     "address": "0x6440f144b7e50D6a8439336510312d2F54beB01D",
-    "symbol": "BOLD",
-    "source": "coingecko:liquity-bold-2"
+    "symbol": "BOLD"
   },
   {
     "address": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
-    "symbol": "CRVUSD",
-    "source": "coingecko:crvusd"
+    "symbol": "CRVUSD"
   },
   {
     "address": "0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC",
-    "symbol": "CUSD",
-    "source": "oku-trade-history:router_swap:34"
+    "symbol": "CUSD"
   },
   {
     "address": "0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0",
-    "symbol": "CUSDO",
-    "source": "oku-trade-history:router_swap:36"
+    "symbol": "CUSDO"
   },
   {
     "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-    "symbol": "DAI",
-    "source": "coingecko:dai"
+    "symbol": "DAI"
   },
   {
     "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
-    "symbol": "FDUSD",
-    "source": "coingecko:first-digital-usd"
+    "symbol": "FDUSD"
   },
   {
     "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
-    "symbol": "FRAX",
-    "source": "coingecko:frax"
+    "symbol": "FRAX"
   },
   {
     "address": "0xCAcd6fd266aF91b8AeD52aCCc382b4e165586E29",
-    "symbol": "FRXUSD",
-    "source": "coingecko:frax-usd"
+    "symbol": "FRXUSD"
   },
   {
     "address": "0x085780639CC2cACd35E474e71f4d000e2405d8f6",
-    "symbol": "FXUSD",
-    "source": "oku-trade-history:router_swap:18"
+    "symbol": "FXUSD"
   },
   {
     "address": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
-    "symbol": "GHO",
-    "source": "coingecko:gho"
+    "symbol": "GHO"
   },
   {
     "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-    "symbol": "LUSD",
-    "source": "coingecko:liquity-usd"
+    "symbol": "LUSD"
   },
   {
     "address": "0x4ba01f22827018b4772CD326C7627FB4956A7C00",
-    "symbol": "MSUSD",
-    "source": "oku-trade-history:router_swap:82"
+    "symbol": "MSUSD"
   },
   {
     "address": "0xab5eB14c09D416F0aC63661E57EDB7AEcDb9BEfA",
-    "symbol": "MSUSD",
-    "source": "oku-trade-history:router_swap:253"
+    "symbol": "MSUSD"
   },
   {
     "address": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
-    "symbol": "MUSD",
-    "source": "oku-trade-history:router_swap:122"
+    "symbol": "MUSD"
   },
   {
     "address": "0xdD468A1DDc392dcdbEf6db6e34E89AA338F9F186",
-    "symbol": "MUSD",
-    "source": "oku-trade-history:router_swap:200"
+    "symbol": "MUSD"
   },
   {
     "address": "0xE556ABa6fe6036275Ec1f87eda296BE72C811BCE",
-    "symbol": "NUSD",
-    "source": "oku-trade-history:router_swap:44"
+    "symbol": "NUSD"
   },
   {
     "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
-    "symbol": "OUSD",
-    "source": "oku-trade-history:router_swap:11"
+    "symbol": "OUSD"
   },
   {
     "address": "0xC0c17dD08263C16f6b64E772fB9B723Bf1344DdF",
-    "symbol": "PMUSD",
-    "source": "oku-trade-history:router_swap:44"
+    "symbol": "PMUSD"
   },
   {
     "address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
-    "symbol": "PYUSD",
-    "source": "coingecko:paypal-usd"
+    "symbol": "PYUSD"
   },
   {
     "address": "0x5086bf358635B81D8C47C66d1C8b9E567Db70c72",
-    "symbol": "REUSD",
-    "source": "oku-trade-history:router_swap:107"
+    "symbol": "REUSD"
   },
   {
     "address": "0xdDC0f880ff6e4e22E4B74632fBb43Ce4DF6cCC5a",
-    "symbol": "REUSDE",
-    "source": "oku-trade-history:router_swap:35"
+    "symbol": "REUSDE"
   },
   {
     "address": "0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
-    "symbol": "RLUSD",
-    "source": "oku-trade-history:router_swap:112"
+    "symbol": "RLUSD"
   },
   {
     "address": "0x0655977FEb2f289A4aB78af67BAB0d17aAb84367",
-    "symbol": "SCRVUSD",
-    "source": "oku-trade-history:router_swap:24"
+    "symbol": "SCRVUSD"
   },
   {
     "address": "0xcf62F905562626CfcDD2261162a51fd02Fc9c5b6",
-    "symbol": "SFRXUSD",
-    "source": "oku-trade-history:router_swap:28"
+    "symbol": "SFRXUSD"
   },
   {
     "address": "0x88887bE419578051FF9F4eb6C858A951921D8888",
-    "symbol": "STCUSD",
-    "source": "oku-trade-history:router_swap:17"
+    "symbol": "STCUSD"
   },
   {
     "address": "0xD166337499E176bbC38a1FBd113Ab144e5bd2Df7",
-    "symbol": "SUSDAT",
-    "source": "oku-trade-history:router_swap:14"
+    "symbol": "SUSDAT"
   },
   {
     "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
-    "symbol": "SUSDE",
-    "source": "oku-trade-history:router_swap:511"
+    "symbol": "SUSDE"
   },
   {
     "address": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
-    "symbol": "SUSDS",
-    "source": "oku-trade-history:router_swap:30"
+    "symbol": "SUSDS"
   },
   {
     "address": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
-    "symbol": "SYRUPUSDC",
-    "source": "oku-trade-history:router_swap:64"
+    "symbol": "SYRUPUSDC"
   },
   {
     "address": "0xd0580192E98eA6CEB9c7b6191Ed2E27560911697",
-    "symbol": "TRUSD",
-    "source": "oku-trade-history:router_swap:17"
+    "symbol": "TRUSD"
   },
   {
     "address": "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
-    "symbol": "USD0",
-    "source": "oku-trade-history:router_swap:46"
+    "symbol": "USD0"
   },
   {
     "address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
-    "symbol": "USD0++",
-    "source": "oku-trade-history:router_swap:11"
+    "symbol": "USD0++"
   },
   {
     "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
-    "symbol": "USD1",
-    "source": "oku-trade-history:router_swap:70"
+    "symbol": "USD1"
   },
   {
     "address": "0x056B269Eb1f75477a8666ae8C7fE01b64dD55eCc",
-    "symbol": "USD3",
-    "source": "oku-trade-history:router_swap:20"
+    "symbol": "USD3"
   },
   {
     "address": "0x23238f20b894f29041f48D88eE91131C395Aaa71",
-    "symbol": "USDAT",
-    "source": "oku-trade-history:router_swap:93"
+    "symbol": "USDAT"
   },
   {
     "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "symbol": "USDC",
-    "source": "coingecko:usd-coin"
+    "symbol": "USDC"
   },
   {
     "address": "0x5422374B27757da72d5265cC745ea906E0446634",
-    "symbol": "USDCV",
-    "source": "oku-trade-history:router_swap:10"
+    "symbol": "USDCV"
   },
   {
     "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
-    "symbol": "USDE",
-    "source": "coingecko:ethena-usde"
+    "symbol": "USDE"
   },
   {
     "address": "0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2",
-    "symbol": "USDF",
-    "source": "oku-trade-history:router_swap:155"
+    "symbol": "USDF"
   },
   {
     "address": "0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
-    "symbol": "USDG",
-    "source": "coingecko:global-dollar"
+    "symbol": "USDG"
   },
   {
     "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
-    "symbol": "USDP",
-    "source": "coingecko:paxos-standard"
+    "symbol": "USDP"
   },
   {
     "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
-    "symbol": "USDS",
-    "source": "coingecko:usds"
+    "symbol": "USDS"
   },
   {
     "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "symbol": "USDT",
-    "source": "coingecko:tether"
+    "symbol": "USDT"
   },
   {
     "address": "0xC139190F447e929f090Edeb554D95AbB8b18aC1C",
-    "symbol": "USDTB",
-    "source": "oku-trade-history:router_swap:190"
+    "symbol": "USDTB"
   },
   {
     "address": "0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
-    "symbol": "USDY",
-    "source": "oku-trade-history:router_swap:22"
+    "symbol": "USDY"
   }
 ]

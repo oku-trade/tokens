@@ -1,42 +1,34 @@
 [
   {
     "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
-    "symbol": "AUSD",
-    "source": "coingecko:agora-dollar"
+    "symbol": "AUSD"
   },
   {
     "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-    "symbol": "AXLUSDC",
-    "source": "coingecko:axlusdc"
+    "symbol": "AXLUSDC"
   },
   {
     "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
-    "symbol": "SUSDE",
-    "source": "oku-trade-history:router_swap:23"
+    "symbol": "SUSDE"
   },
   {
     "address": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
-    "symbol": "USDC",
-    "source": "coingecko:mantle-bridged-usdc-mantle"
+    "symbol": "USDC"
   },
   {
     "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
-    "symbol": "USDE",
-    "source": "coingecko:ethena-usde"
+    "symbol": "USDE"
   },
   {
     "address": "0x063C1d1ef6e9099Ce3E8e9AD5C6173d12C49C086",
-    "symbol": "USDG",
-    "source": "coingecko:global-dollar"
+    "symbol": "USDG"
   },
   {
     "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
-    "symbol": "USDT",
-    "source": "coingecko:stargate-bridged-usdt"
+    "symbol": "USDT"
   },
   {
     "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
-    "symbol": "USDT0",
-    "source": "coingecko:usdt0"
+    "symbol": "USDT0"
   }
 ]

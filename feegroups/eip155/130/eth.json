@@ -1,37 +1,30 @@
 [
   {
     "address": "0x0000000000000000000000000000000000000000",
-    "symbol": "ETH",
-    "source": "chain-config@v1.12.36/unichain.go"
+    "symbol": "ETH"
   },
   {
     "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
-    "symbol": "EZETH",
-    "source": "coingecko:renzo-restaked-eth"
+    "symbol": "EZETH"
   },
   {
     "address": "0x94Cac393f3444cEf63a651FfC18497E7e8bd036a",
-    "symbol": "RETH",
-    "source": "coingecko:rocket-pool-eth"
+    "symbol": "RETH"
   },
   {
     "address": "0xc3eACf0612346366Db554C991D7858716db09f58",
-    "symbol": "RSETH",
-    "source": "coingecko:kelp-dao-restaked-eth"
+    "symbol": "RSETH"
   },
   {
     "address": "0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
-    "symbol": "WEETH",
-    "source": "coingecko:wrapped-eeth"
+    "symbol": "WEETH"
   },
   {
     "address": "0x4200000000000000000000000000000000000006",
-    "symbol": "WETH",
-    "source": "coingecko:unichain-bridged-weth-unichain"
+    "symbol": "WETH"
   },
   {
     "address": "0xc02fE7317D4eb8753a02c35fe019786854A92001",
-    "symbol": "WSTETH",
-    "source": "coingecko:wrapped-steth"
+    "symbol": "WSTETH"
   }
 ]

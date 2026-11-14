@@ -1,22 +1,18 @@
 [
   {
     "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
-    "symbol": "ISEI",
-    "source": "oku-trade-history:router_swap:58"
+    "symbol": "ISEI"
   },
   {
     "address": "0x0000000000000000000000000000000000000000",
-    "symbol": "SEI",
-    "source": "oku-trade-history:router_swap:308"
+    "symbol": "SEI"
   },
   {
     "address": "0xC257361320F4514D91c05F461006CE6a0300E2d2",
-    "symbol": "SPSEI",
-    "source": "oku-trade-history:router_swap:276"
+    "symbol": "SPSEI"
   },
   {
     "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
-    "symbol": "WSEI",
-    "source": "oku-trade-history:router_swap:26"
+    "symbol": "WSEI"
   }
 ]

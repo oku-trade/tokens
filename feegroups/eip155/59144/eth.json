@@ -1,42 +1,34 @@
 [
   {
     "address": "0x0000000000000000000000000000000000000000",
-    "symbol": "ETH",
-    "source": "chain-config@v1.12.36/linea.go"
+    "symbol": "ETH"
   },
   {
     "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
-    "symbol": "EZETH",
-    "source": "coingecko:renzo-restaked-eth"
+    "symbol": "EZETH"
   },
   {
     "address": "0xB1aFD04774c02AE84692619448B08BA79F19b1ff",
-    "symbol": "FRXETH",
-    "source": "coingecko:frax-ether"
+    "symbol": "FRXETH"
   },
   {
     "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
-    "symbol": "RSETH",
-    "source": "coingecko:kelp-dao-restaked-eth"
+    "symbol": "RSETH"
   },
   {
     "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
-    "symbol": "WEETH",
-    "source": "coingecko:wrapped-eeth"
+    "symbol": "WEETH"
   },
   {
     "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-    "symbol": "WETH",
-    "source": "coingecko:wrapped-ether-linea"
+    "symbol": "WETH"
   },
   {
     "address": "0xD2671165570f41BBB3B0097893300b6EB6101E6C",
-    "symbol": "WRSETH",
-    "source": "oku-trade-history:router_swap:15"
+    "symbol": "WRSETH"
   },
   {
     "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
-    "symbol": "WSTETH",
-    "source": "coingecko:linea-bridged-wsteth-linea"
+    "symbol": "WSTETH"
   }
 ]

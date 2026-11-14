@@ -1,22 +1,18 @@
 [
   {
     "address": "0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1",
-    "symbol": "USDC",
-    "source": "coingecko:usd-coin"
+    "symbol": "USDC"
   },
   {
     "address": "0xCc0587aeBDa397146cc828b445dB130a94486e74",
-    "symbol": "USDC.E",
-    "source": "coingecko:stargate-bridged-usdc"
+    "symbol": "USDC.E"
   },
   {
     "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555",
-    "symbol": "USDT",
-    "source": "coingecko:stargate-bridged-usdt"
+    "symbol": "USDT"
   },
   {
     "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
-    "symbol": "XUSDT",
-    "source": "coingecko:wanchain-bridged-usdt-xdc-network"
+    "symbol": "XUSDT"
   }
 ]

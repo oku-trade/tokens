@@ -1,32 +1,26 @@
 [
   {
     "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
-    "symbol": "EZETH",
-    "source": "coingecko:renzo-restaked-eth"
+    "symbol": "EZETH"
   },
   {
     "address": "0x64048A7eEcF3a2F1BA9e144aAc3D7dB6e58F555e",
-    "symbol": "FRXETH",
-    "source": "coingecko:frax-ether"
+    "symbol": "FRXETH"
   },
   {
     "address": "0x3Cd55356433C89E50DC51aB07EE0fa0A95623D53",
-    "symbol": "SFRXETH",
-    "source": "coingecko:staked-frax-ether"
+    "symbol": "SFRXETH"
   },
   {
     "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
-    "symbol": "WEETH",
-    "source": "coingecko:wrapped-eeth"
+    "symbol": "WEETH"
   },
   {
     "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-    "symbol": "WETH",
-    "source": "coingecko:binance-peg-weth"
+    "symbol": "WETH"
   },
   {
     "address": "0x26c5e01524d2E6280A48F2c50fF6De7e52E9611C",
-    "symbol": "WSTETH",
-    "source": "coingecko:wormhole-bridged-wsteth-bsc"
+    "symbol": "WSTETH"
   }
 ]
