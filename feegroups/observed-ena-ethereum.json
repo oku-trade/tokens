@@ -1,0 +1,14 @@
+[
+  {
+    "chain": "eip155:1",
+    "address": "0x57e114B691Db790C35207b2e685D4A43181e6061",
+    "symbol": "ENA",
+    "source": "oku-trade-history:router_swap:23"
+  },
+  {
+    "chain": "eip155:1",
+    "address": "0x8bE3460A480c80728a8C4D7a5D5303c85ba7B3b9",
+    "symbol": "SENA",
+    "source": "oku-trade-history:router_swap:23"
+  }
+]

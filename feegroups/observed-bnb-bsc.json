@@ -1,0 +1,14 @@
+[
+  {
+    "chain": "eip155:56",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "BNB",
+    "source": "oku-trade-history:router_swap:86"
+  },
+  {
+    "chain": "eip155:56",
+    "address": "0xB0b84D294e0C75A6abe60171b70edEb2EFd14A1B",
+    "symbol": "SLISBNB",
+    "source": "oku-trade-history:router_swap:86"
+  }
+]

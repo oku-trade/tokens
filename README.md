@@ -60,6 +60,30 @@ The image should be square and no larger than 256x256 pixels or smaller than 64x
 
 Perp logos may be named `logo.svg`, `logo.png`, or `logo.jpg`. Each asset directory must contain exactly one of these files. HIP-3 perp logos use paths such as `perps/xyz/COPPER/logo.svg`. Default perp logos without a dex prefix use paths such as `perps/default/BTC/logo.png`; the `default` directory is emitted under the empty provider key in `perpslist.json`. Running `make list` uploads the logos to R2 with the correct content type and generates `perpslist.json`.
 
+## Fee Groups
+
+`feegroups/<group>.json` lists assets that are economically interchangeable, such as USD stablecoins (`fiat-usd`) or ETH and its wrappers (`ethereum-eth`). A swap between two assets in the same group is charged the like-kind fee instead of the normal tier, so only add an asset when it is redeemable or pegged 1:1 with the rest of its group. Yield-bearing tokens whose price drifts from the peg do not belong in a group.
+
+Each file is a JSON array of entries:
+
+```json
+{
+  "chain": "eip155:42161",
+  "address": "0x004B506865409877C9fA29bfb1ebA929984B9bbC",
+  "symbol": "USDG",
+  "source": "coingecko:global-dollar"
+}
+```
+
+- **chain** (string): CAIP-2 chain id, `eip155:<chainId>` or `solana:<genesis>`.
+- **address** (string): checksummed EVM address, or base58 for Solana. Use `0x0000000000000000000000000000000000000000` for a chain's native asset.
+- **symbol** (string): the token symbol.
+- **source** (string): evidence for the classification, such as `coingecko:<coin-id>` or an issuer docs URL.
+
+An asset may appear in only one group. Fee group assets do not need an entry under `chains/` or a logo. `yarn validate` checks the files, and `make list` publishes `feegroups.json` to `https://cdn.oku.trade/feegroups.json`, which the account service syncs into its fee policy.
+
+To add an asset, append it to the right group file, run `yarn validate`, and open a PR that links the evidence for the peg.
+
 ## How to Submit a PR
 
 1. **Fork the Repository:**  

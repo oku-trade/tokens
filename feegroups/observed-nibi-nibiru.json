@@ -1,0 +1,20 @@
+[
+  {
+    "chain": "eip155:6900",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "NIBI",
+    "source": "oku-trade-history:router_swap:532"
+  },
+  {
+    "chain": "eip155:6900",
+    "address": "0xcA0a9Fb5FBF692fa12fD13c0A900EC56Bb3f0a7b",
+    "symbol": "STNIBI",
+    "source": "oku-trade-history:router_swap:572"
+  },
+  {
+    "chain": "eip155:6900",
+    "address": "0x0CaCF669f8446BeCA826913a3c6B96aCD4b02a97",
+    "symbol": "WNIBI",
+    "source": "oku-trade-history:router_swap:40"
+  }
+]

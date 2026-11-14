@@ -1,0 +1,44 @@
+[
+  {
+    "chain": "eip155:999",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "HYPE",
+    "source": "oku-trade-history:router_swap:222"
+  },
+  {
+    "chain": "eip155:999",
+    "address": "0xfD739d4e423301CE9385c1fb8850539D657C296D",
+    "symbol": "KHYPE",
+    "source": "oku-trade-history:router_swap:188"
+  },
+  {
+    "chain": "eip155:999",
+    "address": "0x360C140E5344A1A0593D44B4ea6Fc7C3DAf0C473",
+    "symbol": "KMHYPE",
+    "source": "oku-trade-history:router_swap:14"
+  },
+  {
+    "chain": "eip155:999",
+    "address": "0x5748ae796AE46A4F1348a1693de4b50560485562",
+    "symbol": "LHYPE",
+    "source": "oku-trade-history:router_swap:44"
+  },
+  {
+    "chain": "eip155:999",
+    "address": "0xdAbB040c428436d41CECd0Fb06bCFDBAaD3a9AA8",
+    "symbol": "MHYPE",
+    "source": "oku-trade-history:router_swap:52"
+  },
+  {
+    "chain": "eip155:999",
+    "address": "0x5555555555555555555555555555555555555555",
+    "symbol": "WHYPE",
+    "source": "oku-trade-history:router_swap:64"
+  },
+  {
+    "chain": "eip155:999",
+    "address": "0x94e8396e0869c9F2200760aF0621aFd240E1CF38",
+    "symbol": "WSTHYPE",
+    "source": "oku-trade-history:router_swap:16"
+  }
+]

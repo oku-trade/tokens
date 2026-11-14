@@ -43,8 +43,8 @@ jobs:
         run: |
           git config --local user.email "github-actions@github.com"
           git config --local user.name "GitHub Actions"
-          if [ -n "$(git status --porcelain tokenlist.json perpslist.json .upload-manifest.json)" ]; then
-            git add tokenlist.json perpslist.json .upload-manifest.json
+          if [ -n "$(git status --porcelain tokenlist.json perpslist.json feegroups.json .upload-manifest.json)" ]; then
+            git add tokenlist.json perpslist.json feegroups.json .upload-manifest.json
             git commit -m "chore: update asset lists [skip ci]"
             git push origin main
           else
