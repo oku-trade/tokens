@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0xd75787bA9ABa324420d522BdA84c08c87e5099b1",
+    "symbol": "RSETH",
+    "source": "coingecko:kelp-dao-restaked-eth"
+  },
+  {
+    "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+    "symbol": "WEETH",
+    "source": "coingecko:wrapped-eeth"
+  },
+  {
+    "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
+    "symbol": "WETH",
+    "source": "coingecko:bridged-wrapped-ether-sonic"
+  }
+]

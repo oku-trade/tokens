@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0xCa01a1D0993565291051daFF390892518ACfAD3A",
+    "symbol": "AXLUSDC",
+    "source": "coingecko:axlusdc"
+  },
+  {
+    "address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
+    "symbol": "FRAX",
+    "source": "coingecko:frax"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "source": "chain-config@v1.12.36/lisk.go"
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "source": "coingecko:lisk-bridged-weth-lisk"
+  },
+  {
+    "address": "0x76D8de471F54aAA87784119c60Df1bbFc852C415",
+    "symbol": "WSTETH",
+    "source": "coingecko:lisk-bridged-wsteth-lisk"
+  }
+]

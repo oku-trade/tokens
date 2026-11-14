@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+    "symbol": "AXLWBTC",
+    "source": "https://docs.filecoin.io/build-on-filecoin/advanced/cross-chain-bridges.md"
+  },
+  {
+    "address": "0x592786E04c47844Aa3B343b19eF2f50A255a477F",
+    "symbol": "CEWBTC",
+    "source": "https://docs.filecoin.io/build-on-filecoin/advanced/cross-chain-bridges.md"
+  }
+]

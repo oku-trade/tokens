@@ -1,0 +1,7 @@
+[
+  {
+    "address": "0x0B7007c13325C48911F73A2daD5FA5dCBf808aDc",
+    "symbol": "USDC",
+    "source": "coingecko:ccip-bridged-usdc-ronin"
+  }
+]

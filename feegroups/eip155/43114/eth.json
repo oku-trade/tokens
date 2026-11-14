@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0xc430c78Da6E4AF49bD115F0329D154Bb135f1363",
+    "symbol": "RSETH",
+    "source": "coingecko:kelp-dao-restaked-eth"
+  },
+  {
+    "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+    "symbol": "WEETH",
+    "source": "coingecko:wrapped-eeth"
+  },
+  {
+    "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "symbol": "WETH",
+    "source": "coingecko:avalanche-bridged-weth-avalanche"
+  },
+  {
+    "address": "0x7bFd4CA2a6Cf3A3fDDd645D10B323031afe47FF0",
+    "symbol": "WRSETH",
+    "source": "oku-trade-history:router_swap:12"
+  }
+]

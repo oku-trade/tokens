@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+    "symbol": "CELO",
+    "source": "oku-trade-history:router_swap:122"
+  },
+  {
+    "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
+    "symbol": "STCELO",
+    "source": "oku-trade-history:router_swap:122"
+  }
+]

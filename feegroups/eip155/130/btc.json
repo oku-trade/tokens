@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "symbol": "WBTC",
+    "source": "coingecko:wrapped-bitcoin"
+  },
+  {
+    "address": "0x927B51f251480a681271180DA4de28D44EC4AfB8",
+    "symbol": "WBTC",
+    "source": "coingecko:unichain-bridged-wbtc-unichain-2"
+  }
+]

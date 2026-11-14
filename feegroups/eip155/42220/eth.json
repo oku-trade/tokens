@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+    "symbol": "WETH",
+    "source": "coingecko:wormhole-bridged-weth-celo"
+  },
+  {
+    "address": "0xD221812de1BD094f35587EE8E174B07B6167D9Af",
+    "symbol": "WETH",
+    "source": "coingecko:celo-bridged-weth-celo"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x29c46e6F2A67872Ad6b1Dc04e1591934a96Af62E",
+    "symbol": "RETH",
+    "source": "coingecko:rocket-pool-eth"
+  },
+  {
+    "address": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5",
+    "symbol": "WETH",
+    "source": "coingecko:ronin-bridged-weth-ronin"
+  }
+]

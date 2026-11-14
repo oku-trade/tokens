@@ -1,0 +1,52 @@
+[
+  {
+    "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+    "symbol": "FBTC",
+    "source": "oku-trade-history:router_swap:23"
+  },
+  {
+    "address": "0x9998e05030Aee3Af9AD3df35A34F5C51e1628779",
+    "symbol": "HYBRIDBTC.PENDLE",
+    "source": "oku-trade-history:router_swap:71"
+  },
+  {
+    "address": "0xA45d4121b3D47719FF57a947A9d961539Ba33204",
+    "symbol": "LBTC",
+    "source": "https://docs.gobob.xyz/docs/reference/token-registry"
+  },
+  {
+    "address": "0x4CBE838E2BD3B46247f80519B6aC79363298aa09",
+    "symbol": "SATUNIBTC",
+    "source": "oku-trade-history:router_swap:120"
+  },
+  {
+    "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+    "symbol": "SOLVBTC",
+    "source": "coingecko:solv-btc"
+  },
+  {
+    "address": "0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2",
+    "symbol": "TBTC",
+    "source": "coingecko:tbtc"
+  },
+  {
+    "address": "0x236f8c0a61dA474dB21B693fB2ea7AAB0c803894",
+    "symbol": "UNIBTC",
+    "source": "oku-trade-history:router_swap:1087"
+  },
+  {
+    "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+    "symbol": "WBTC",
+    "source": "coingecko:bridged-wrapped-bitcoin-bob-network"
+  },
+  {
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "symbol": "WBTC",
+    "source": "coingecko:wrapped-bitcoin"
+  },
+  {
+    "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+    "symbol": "XSOLVBTC",
+    "source": "oku-trade-history:router_swap:4518"
+  }
+]

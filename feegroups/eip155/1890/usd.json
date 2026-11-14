@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x18fB38404DADeE1727Be4b805c5b242B5413Fa40",
+    "symbol": "USDC.E",
+    "source": "coingecko:bridged-usdc-lightlink"
+  },
+  {
+    "address": "0xbCF8C1B03bBDDA88D579330BDF236B58F8bb2cFd",
+    "symbol": "USDC.E",
+    "source": "coingecko:stargate-bridged-usdc"
+  }
+]

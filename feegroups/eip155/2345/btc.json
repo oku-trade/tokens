@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0x02F294cC9Ceb2c80FbA3fD779e17FE191Cc360C4",
+    "symbol": "ARTBTC",
+    "source": "oku-trade-history:router_swap:15"
+  },
+  {
+    "address": "0x941508f0B823f1BC40a9beEFCE5e544E525a94c3",
+    "symbol": "ARTBTCB",
+    "source": "oku-trade-history:router_swap:14"
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "BTC",
+    "source": "chain-config@v1.12.36/goat.go"
+  },
+  {
+    "address": "0xfe41e7e5cB3460c483AB2A38eb605Cda9e2d248E",
+    "symbol": "BTCB",
+    "source": "coingecko:goat-bridged-binance-bitcoin-goat"
+  },
+  {
+    "address": "0xbC10000000000000000000000000000000000000",
+    "symbol": "WBTC",
+    "source": "chain-config@v1.12.36/goat.go"
+  }
+]

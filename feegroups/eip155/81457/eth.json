@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "source": "chain-config@v1.12.36/blast.go"
+  },
+  {
+    "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "symbol": "EZETH",
+    "source": "coingecko:renzo-restaked-eth"
+  },
+  {
+    "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+    "symbol": "RSETH",
+    "source": "coingecko:kelp-dao-restaked-eth"
+  },
+  {
+    "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+    "symbol": "WEETH",
+    "source": "coingecko:wrapped-eeth"
+  },
+  {
+    "address": "0x4300000000000000000000000000000000000004",
+    "symbol": "WETH",
+    "source": "coingecko:l2-standard-bridged-weth-blast"
+  }
+]

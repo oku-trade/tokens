@@ -1,0 +1,37 @@
+[
+  {
+    "address": "0x1280830F690D0E65195B3c61b028244C3A49f26D",
+    "symbol": "AXLETH",
+    "source": "coingecko:axlweth"
+  },
+  {
+    "address": "0x4b4327dB1600B8B1440163F667e199CEf35385f5",
+    "symbol": "CBETH",
+    "source": "coingecko:coinbase-wrapped-staked-eth"
+  },
+  {
+    "address": "0xEe327F889d5947c1dc1934Bb208a1E792F953E96",
+    "symbol": "FRXETH",
+    "source": "coingecko:frax-ether"
+  },
+  {
+    "address": "0x0266F4F08D82372CF0FcbCCc0Ff74309089c74d1",
+    "symbol": "RETH",
+    "source": "coingecko:rocket-pool-eth"
+  },
+  {
+    "address": "0x6d1FdBB266fCc09A16a22016369210A15bb95761",
+    "symbol": "SFRXETH",
+    "source": "coingecko:staked-frax-ether"
+  },
+  {
+    "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "symbol": "WETH",
+    "source": "coingecko:polygon-pos-bridged-weth-polygon-pos"
+  },
+  {
+    "address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
+    "symbol": "WSTETH",
+    "source": "coingecko:polygon-bridged-wsteth-polygon"
+  }
+]

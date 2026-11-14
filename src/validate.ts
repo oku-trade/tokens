@@ -72,9 +72,12 @@ async function validateJsonFiles(baseDirectory: string) {
 const chainsDirectory = "./chains/evm";
 validateJsonFiles(chainsDirectory)
   .then(async () => {
-    const groups = await loadFeeGroups("./feegroups");
-    const count = Object.values(groups).reduce((n, assets) => n + assets.length, 0);
-    console.log(`Fee groups are valid: ${Object.keys(groups).length} groups, ${count} assets.`);
+    const chains = await loadFeeGroups("./feegroups");
+    const groups = Object.values(chains).flatMap((byGroup) => Object.values(byGroup));
+    const count = groups.reduce((n, assets) => n + assets.length, 0);
+    console.log(
+      `Fee groups are valid: ${Object.keys(chains).length} chains, ${groups.length} groups, ${count} assets.`,
+    );
   })
   .catch((error) => {
     console.error(error);

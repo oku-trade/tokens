@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "GHO",
+    "source": "chain-config@v1.12.36/lens.go"
+  },
+  {
+    "address": "0x88F08E304EC4f90D644Cec3Fb69b8aD414acf884",
+    "symbol": "USDC",
+    "source": "coingecko:lens-bridged-usdc-lens"
+  },
+  {
+    "address": "0x6bDc36E20D267Ff0dd6097799f82e78907105e2F",
+    "symbol": "WGHO",
+    "source": "chain-config@v1.12.36/lens.go"
+  }
+]
