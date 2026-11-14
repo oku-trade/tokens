@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="4096" height="4096" viewBox="0 0 160 160"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Sandisk S mark in white on red</title>
+  <desc id="desc">A vector rendering of the Sandisk S letterform, centered in white on a solid Sandisk red square background.</desc>
+  <rect width="160" height="160" fill="#E10600"/>
+  <g fill="#FFFFFF" transform="translate(12.465 25.945)">
+    <path d="M32.69.03C14.72.03 0 14.48 0 32.45c0 11.61 2.57 24.71 20.67 31.74l114.4 43.9V86.47c0-9.26-8.86-11.79-8.86-11.79L37.14 43.25c-3.37-1.21-5.53-3.38-5.53-7.97a8.3 8.3 0 0 1 8.37-8.24h59.66c4.03 0 8.28 3.29 8.28 7.7v7.57h27.02V.03H32.69z"/>
+    <path d="M0 81.07v27.01h26.74V81.07H0z"/>
+  </g>
+</svg>
