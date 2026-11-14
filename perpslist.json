@@ -115,20 +115,64 @@
       "https://cdn.oku.trade/perps/para/10Y/logo.svg"
     ],
     [
+      "2Y",
+      "https://cdn.oku.trade/perps/para/2Y/logo.svg"
+    ],
+    [
+      "30Y",
+      "https://cdn.oku.trade/perps/para/30Y/logo.svg"
+    ],
+    [
+      "AAOI",
+      "https://cdn.oku.trade/perps/para/AAOI/logo.svg"
+    ],
+    [
       "ANSEM",
       "https://cdn.oku.trade/perps/para/ANSEM/logo.svg"
+    ],
+    [
+      "ANTH",
+      "https://cdn.oku.trade/perps/para/ANTH/logo.svg"
     ],
     [
       "AVGO",
       "https://cdn.oku.trade/perps/para/AVGO/logo.svg"
     ],
     [
+      "BTCD",
+      "https://cdn.oku.trade/perps/para/BTCD/logo.svg"
+    ],
+    [
+      "CIEN",
+      "https://cdn.oku.trade/perps/para/CIEN/logo.svg"
+    ],
+    [
       "CIFR",
       "https://cdn.oku.trade/perps/para/CIFR/logo.svg"
     ],
     [
+      "COHR",
+      "https://cdn.oku.trade/perps/para/COHR/logo.svg"
+    ],
+    [
+      "CRDO",
+      "https://cdn.oku.trade/perps/para/CRDO/logo.svg"
+    ],
+    [
       "CRWD",
       "https://cdn.oku.trade/perps/para/CRWD/logo.svg"
+    ],
+    [
+      "DRV",
+      "https://cdn.oku.trade/perps/para/DRV/logo.png"
+    ],
+    [
+      "GDX",
+      "https://cdn.oku.trade/perps/para/GDX/logo.svg"
+    ],
+    [
+      "GLW",
+      "https://cdn.oku.trade/perps/para/GLW/logo.svg"
     ],
     [
       "IGV",
@@ -139,6 +183,10 @@
       "https://cdn.oku.trade/perps/para/IREN/logo.svg"
     ],
     [
+      "LRCX",
+      "https://cdn.oku.trade/perps/para/LRCX/logo.svg"
+    ],
+    [
       "MELI",
       "https://cdn.oku.trade/perps/para/MELI/logo.svg"
     ],
@@ -147,8 +195,20 @@
       "https://cdn.oku.trade/perps/para/NET/logo.svg"
     ],
     [
+      "OTHERS",
+      "https://cdn.oku.trade/perps/para/OTHERS/logo.svg"
+    ],
+    [
+      "RDDT",
+      "https://cdn.oku.trade/perps/para/RDDT/logo.svg"
+    ],
+    [
       "SMCI",
       "https://cdn.oku.trade/perps/para/SMCI/logo.svg"
+    ],
+    [
+      "SMH",
+      "https://cdn.oku.trade/perps/para/SMH/logo.svg"
     ],
     [
       "SOFI",
@@ -159,12 +219,28 @@
       "https://cdn.oku.trade/perps/para/STX/logo.svg"
     ],
     [
+      "TER",
+      "https://cdn.oku.trade/perps/para/TER/logo.svg"
+    ],
+    [
+      "TOTAL2",
+      "https://cdn.oku.trade/perps/para/TOTAL2/logo.svg"
+    ],
+    [
       "TREAD",
       "https://cdn.oku.trade/perps/para/TREAD/logo.svg"
     ],
     [
       "TTWO",
       "https://cdn.oku.trade/perps/para/TTWO/logo.svg"
+    ],
+    [
+      "UNITREE",
+      "https://cdn.oku.trade/perps/para/UNITREE/logo.svg"
+    ],
+    [
+      "VST",
+      "https://cdn.oku.trade/perps/para/VST/logo.svg"
     ]
   ],
   "xyz": [
