@@ -1,17 +1,14 @@
 [
   {
     "address": "0x84f682626302EA7BCA2A7c338b84863292131319",
-    "symbol": "SUSDA",
-    "source": "oku-trade-history:router_swap:54"
+    "symbol": "SUSDA"
   },
   {
     "address": "0xf4e097E36d2064E2bDCA96e60439f3A369522003",
-    "symbol": "USDA",
-    "source": "oku-trade-history:router_swap:48"
+    "symbol": "USDA"
   },
   {
     "address": "0x0829F361A05D993d5CEb035cA6DF3446b060970b",
-    "symbol": "USDC.E",
-    "source": "coingecko:stargate-bridged-usdc"
+    "symbol": "USDC.E"
   }
 ]

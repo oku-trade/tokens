@@ -1,42 +1,34 @@
 [
   {
     "address": "0xF1376bceF0f78459C0Ed0ba5ddce976F1ddF51F4",
-    "symbol": "BRBTC",
-    "source": "oku-trade-history:router_swap:66"
+    "symbol": "BRBTC"
   },
   {
     "address": "0xEF85254Aa4a8490bcC9C02Ae38513Cae8303FB53",
-    "symbol": "MBTC",
-    "source": "oku-trade-history:router_swap:100"
+    "symbol": "MBTC"
   },
   {
     "address": "0x7F71f02aE0945364F658860d67dbc10c86Ca3a3C",
-    "symbol": "MHYPERBTC",
-    "source": "oku-trade-history:router_swap:14"
+    "symbol": "MHYPERBTC"
   },
   {
     "address": "0x0000000000000000000000000000000000000000",
-    "symbol": "RBTC",
-    "source": "chain-config@v1.12.36/rootstock.go"
+    "symbol": "RBTC"
   },
   {
     "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
-    "symbol": "SOLVBTC",
-    "source": "coingecko:solv-btc"
+    "symbol": "SOLVBTC"
   },
   {
     "address": "0xd3c8dA379d71a33BfEE8875F87Ac2748bEB1d58d",
-    "symbol": "UNIBTC",
-    "source": "oku-trade-history:router_swap:66"
+    "symbol": "UNIBTC"
   },
   {
     "address": "0x542fDA317318eBF1d3DEAf76E0b632741A7e677d",
-    "symbol": "WRBTC",
-    "source": "chain-config@v1.12.36/rootstock.go"
+    "symbol": "WRBTC"
   },
   {
     "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
-    "symbol": "XSOLVBTC",
-    "source": "oku-trade-history:router_swap:56"
+    "symbol": "XSOLVBTC"
   }
 ]

@@ -1,32 +1,26 @@
 [
   {
     "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
-    "symbol": "CBBTC",
-    "source": "coingecko:coinbase-wrapped-btc"
+    "symbol": "CBBTC"
   },
   {
     "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
-    "symbol": "LBTC",
-    "source": "coingecko:lombard-staked-btc"
+    "symbol": "LBTC"
   },
   {
     "address": "0x7A56E1C57C7475CCf742a1832B028F0456652F97",
-    "symbol": "SOLVBTC",
-    "source": "coingecko:solv-btc"
+    "symbol": "SOLVBTC"
   },
   {
     "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
-    "symbol": "TBTC",
-    "source": "coingecko:tbtc"
+    "symbol": "TBTC"
   },
   {
     "address": "0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568",
-    "symbol": "UNIBTC",
-    "source": "oku-trade-history:router_swap:203"
+    "symbol": "UNIBTC"
   },
   {
     "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-    "symbol": "WBTC",
-    "source": "coingecko:wrapped-bitcoin"
+    "symbol": "WBTC"
   }
 ]

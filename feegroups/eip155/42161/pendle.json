@@ -1,12 +1,10 @@
 [
   {
     "address": "0xB688BA096b7Bb75d7841e47163Cd12D18B36A5bF",
-    "symbol": "MPENDLE",
-    "source": "oku-trade-history:router_swap:11"
+    "symbol": "MPENDLE"
   },
   {
     "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
-    "symbol": "PENDLE",
-    "source": "oku-trade-history:router_swap:11"
+    "symbol": "PENDLE"
   }
 ]

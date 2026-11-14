@@ -1,12 +1,10 @@
 [
   {
     "address": "0x0000000000000000000000000000000000000000",
-    "symbol": "ETH",
-    "source": "chain-config@v1.12.36/worldchain.go"
+    "symbol": "ETH"
   },
   {
     "address": "0x4200000000000000000000000000000000000006",
-    "symbol": "WETH",
-    "source": "coingecko:wrapped-eth-world-chain"
+    "symbol": "WETH"
   }
 ]

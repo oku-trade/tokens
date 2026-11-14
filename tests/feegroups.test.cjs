@@ -5,11 +5,11 @@ const path = require('node:path');
 const { test } = require('node:test');
 const { loadFeeGroups } = require('../dist/feeGroups');
 
-const USDC = { address: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48', symbol: 'USDC', source: 'coingecko:usd-coin' };
-const USDT = { address: '0xdAC17F958D2ee523a2206206994597C13D831ec7', symbol: 'USDT', source: 'coingecko:tether' };
-const WETH = { address: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2', symbol: 'WETH', source: 'coingecko:weth' };
+const USDC = { address: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48', symbol: 'USDC' };
+const USDT = { address: '0xdAC17F958D2ee523a2206206994597C13D831ec7', symbol: 'USDT' };
+const WETH = { address: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2', symbol: 'WETH' };
 const SOLANA = 'solana/5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp';
-const SOL_USDC = { address: 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', symbol: 'USDC', source: 'https://developers.circle.com/stablecoins/usdc-contract-addresses' };
+const SOL_USDC = { address: 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', symbol: 'USDC' };
 
 // withGroups writes files keyed by path relative to a temporary feegroups directory.
 async function withGroups(files, fn) {
@@ -54,8 +54,8 @@ test('rejects invalid fee groups', async () => {
     'unsupported namespace': { 'tron/1/usd.json': [USDC] },
     'bad EVM chain reference': { 'eip155/01/usd.json': [USDC] },
     'file outside chain directory': { 'eip155/usd.json': [USDC] },
-    'missing source': { 'eip155/1/usd.json': [{ ...USDC, source: '' }] },
-    'unknown field': { 'eip155/1/usd.json': [{ ...USDC, chain: 'eip155:1' }] },
+    'missing symbol': { 'eip155/1/usd.json': [{ ...USDC, symbol: '' }] },
+    'unknown field': { 'eip155/1/usd.json': [{ ...USDC, source: 'coingecko:usd-coin' }] },
     'empty group': { 'eip155/1/usd.json': [] },
     'bad group name': { 'eip155/1/USD.json': [USDC] },
     'invalid JSON': { 'eip155/1/usd.json': '{' },

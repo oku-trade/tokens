@@ -1,22 +1,18 @@
 [
   {
     "address": "0xaE4EFbc7736f963982aACb17EFA37fCBAb924cB3",
-    "symbol": "SOLVBTC",
-    "source": "coingecko:solv-btc"
+    "symbol": "SOLVBTC"
   },
   {
     "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-    "symbol": "TBTC",
-    "source": "coingecko:tbtc"
+    "symbol": "TBTC"
   },
   {
     "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
-    "symbol": "WBTC",
-    "source": "coingecko:polygon-bridged-wbtc-polygon-pos"
+    "symbol": "WBTC"
   },
   {
     "address": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
-    "symbol": "WBTC",
-    "source": "coingecko:wrapped-btc-wormhole"
+    "symbol": "WBTC"
   }
 ]

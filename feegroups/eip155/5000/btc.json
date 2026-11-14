@@ -1,17 +1,14 @@
 [
   {
     "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
-    "symbol": "FBTC",
-    "source": "oku-trade-history:router_swap:13"
+    "symbol": "FBTC"
   },
   {
     "address": "0xa68d25fC2AF7278db4BcdcAabce31814252642a9",
-    "symbol": "SOLVBTC",
-    "source": "coingecko:solv-btc"
+    "symbol": "SOLVBTC"
   },
   {
     "address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
-    "symbol": "WBTC",
-    "source": "oku-trade-history:router_swap:13"
+    "symbol": "WBTC"
   }
 ]

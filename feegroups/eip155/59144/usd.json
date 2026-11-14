@@ -1,37 +1,30 @@
 [
   {
     "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-    "symbol": "AXLUSDC",
-    "source": "coingecko:axlusdc"
+    "symbol": "AXLUSDC"
   },
   {
     "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
-    "symbol": "DAI",
-    "source": "coingecko:bridged-dai-stablecoin-linea"
+    "symbol": "DAI"
   },
   {
     "address": "0xC7346783f5e645aa998B106Ef9E7f499528673D8",
-    "symbol": "FRXUSD",
-    "source": "coingecko:frax-usd"
+    "symbol": "FRXUSD"
   },
   {
     "address": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
-    "symbol": "MUSD",
-    "source": "oku-trade-history:router_swap:203"
+    "symbol": "MUSD"
   },
   {
     "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
-    "symbol": "USDC",
-    "source": "coingecko:bridged-usd-coin-linea"
+    "symbol": "USDC"
   },
   {
     "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
-    "symbol": "USDE",
-    "source": "coingecko:ethena-usde"
+    "symbol": "USDE"
   },
   {
     "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
-    "symbol": "USDT",
-    "source": "coingecko:bridged-tether-linea"
+    "symbol": "USDT"
   }
 ]

@@ -1,7 +1,6 @@
 [
   {
     "address": "0x1f4b7011Ee3d53969bb67F59428a9ec0477856E9",
-    "symbol": "WETH",
-    "source": "https://docs.pharos.xyz/getting-started/token-registry.md"
+    "symbol": "WETH"
   }
 ]

@@ -1,7 +1,6 @@
 [
   {
     "address": "0x3a1293Bdb83bBbDd5Ebf4fAc96605aD2021BbC0f",
-    "symbol": "WETH",
-    "source": "coingecko:stargate-bridged-weth"
+    "symbol": "WETH"
   }
 ]

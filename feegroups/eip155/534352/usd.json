@@ -1,27 +1,22 @@
 [
   {
     "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-    "symbol": "AXLUSDC",
-    "source": "coingecko:axlusdc"
+    "symbol": "AXLUSDC"
   },
   {
     "address": "0x397F939C3b91A74C321ea7129396492bA9Cdce82",
-    "symbol": "FRXUSD",
-    "source": "coingecko:frax-usd"
+    "symbol": "FRXUSD"
   },
   {
     "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
-    "symbol": "USDC",
-    "source": "coingecko:bridged-usd-coin-scroll"
+    "symbol": "USDC"
   },
   {
     "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
-    "symbol": "USDE",
-    "source": "coingecko:ethena-usde"
+    "symbol": "USDE"
   },
   {
     "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
-    "symbol": "USDT",
-    "source": "coingecko:bridged-tether-scroll"
+    "symbol": "USDT"
   }
 ]

@@ -1,12 +1,10 @@
 [
   {
     "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555",
-    "symbol": "WETH",
-    "source": "coingecko:stargate-bridged-weth"
+    "symbol": "WETH"
   },
   {
     "address": "0x1d1715ecE22A6Ab6349196e7054E61de3Ac2Ea3D",
-    "symbol": "YNETHX",
-    "source": "oku-trade-history:router_swap:51"
+    "symbol": "YNETHX"
   }
 ]

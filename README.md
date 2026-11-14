@@ -91,15 +91,13 @@ Each file is a JSON array of entries:
 [
   {
     "address": "0x004B506865409877C9fA29bfb1ebA929984B9bbC",
-    "symbol": "USDG",
-    "source": "coingecko:global-dollar"
+    "symbol": "USDG"
   }
 ]
 ```
 
 - **address** (string): checksummed EVM address, or base58 for Solana. Use `0x0000000000000000000000000000000000000000` for an EVM chain's native asset.
 - **symbol** (string): the token symbol.
-- **source** (string): evidence for the classification, such as `coingecko:<coin-id>` or an issuer docs URL.
 
 An asset may appear in only one group per chain. Fee group assets do not need an entry under `chains/` or a logo. `yarn validate` checks the files, and `make list` publishes `feegroups.json` (keyed by CAIP-2 chain id, then group) to `https://cdn.oku.trade/feegroups.json`, which the account service syncs into its fee policy.
 

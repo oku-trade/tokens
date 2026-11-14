@@ -1,7 +1,6 @@
 [
   {
     "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
-    "symbol": "EURC",
-    "source": "coingecko:euro-coin"
+    "symbol": "EURC"
   }
 ]
