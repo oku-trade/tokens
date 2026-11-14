@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "source": "chain-config@v1.12.36/hemi.go"
+  },
+  {
+    "address": "0xc3eACf0612346366Db554C991D7858716db09f58",
+    "symbol": "RSETH",
+    "source": "coingecko:kelp-dao-restaked-eth"
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "source": "coingecko:hemi-bridged-weth-hemi"
+  }
+]

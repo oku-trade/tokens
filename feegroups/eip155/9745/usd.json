@@ -1,0 +1,72 @@
+[
+  {
+    "address": "0xb77E872A68C62CfC0dFb02C067Ecc3DA23B4bbf3",
+    "symbol": "GHO",
+    "source": "coingecko:gho"
+  },
+  {
+    "address": "0x29AD7fE4516909b9e498B5a65339e54791293234",
+    "symbol": "MSUSD",
+    "source": "oku-trade-history:router_swap:429"
+  },
+  {
+    "address": "0xf91c31299E998C5127Bc5F11e4a657FC0cF358CD",
+    "symbol": "PLUSD",
+    "source": "oku-trade-history:router_swap:49"
+  },
+  {
+    "address": "0x616185600989Bf8339b58aC9e539d49536598343",
+    "symbol": "SPLUSD",
+    "source": "oku-trade-history:router_swap:81"
+  },
+  {
+    "address": "0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+    "symbol": "SUSDAI",
+    "source": "oku-trade-history:router_swap:414"
+  },
+  {
+    "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+    "symbol": "SUSDE",
+    "source": "oku-trade-history:router_swap:438"
+  },
+  {
+    "address": "0xC4374775489CB9C56003BF2C9b12495fC64F0771",
+    "symbol": "SYRUPUSDT",
+    "source": "oku-trade-history:router_swap:37"
+  },
+  {
+    "address": "0xa9C251F8304b1B3Fc2b9e8fcae78D94Eff82Ac66",
+    "symbol": "TCUSDT0",
+    "source": "oku-trade-history:router_swap:38"
+  },
+  {
+    "address": "0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+    "symbol": "USDAI",
+    "source": "oku-trade-history:router_swap:730"
+  },
+  {
+    "address": "0x2d661C89D812261039AF9764eceaAee884f5F67F",
+    "symbol": "USDC",
+    "source": "coingecko:usd-coin"
+  },
+  {
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDE",
+    "source": "coingecko:ethena-usde"
+  },
+  {
+    "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+    "symbol": "USDT0",
+    "source": "coingecko:usdt0"
+  },
+  {
+    "address": "0x6eAf19b2FC24552925dB245F9Ff613157a7dbb4C",
+    "symbol": "XUSD",
+    "source": "oku-trade-history:router_swap:60"
+  },
+  {
+    "address": "0x6695c0f8706C5ACe3Bdf8995073179cCA47926dc",
+    "symbol": "YZUSD",
+    "source": "oku-trade-history:router_swap:46"
+  }
+]

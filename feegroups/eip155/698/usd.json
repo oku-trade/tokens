@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x679Dc08cC3A4acFeea2f7CAFAa37561aE0b41Ce7",
+    "symbol": "USDC",
+    "source": "https://raw.githubusercontent.com/hyperlane-xyz/hyperlane-registry/ebc1353ff2b48a62f02a20a58051ca0bb7c9f1a7/deployments/warp_routes/USDC/matchain-config.yaml"
+  },
+  {
+    "address": "0xa0e73E30945B80010503E68e53AbFd0B6B6a6ed9",
+    "symbol": "USDT",
+    "source": "https://raw.githubusercontent.com/hyperlane-xyz/hyperlane-registry/ebc1353ff2b48a62f02a20a58051ca0bb7c9f1a7/deployments/warp_routes/USDT/matchain-config.yaml"
+  }
+]

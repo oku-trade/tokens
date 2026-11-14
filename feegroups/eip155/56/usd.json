@@ -1,0 +1,92 @@
+[
+  {
+    "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "symbol": "AUSD",
+    "source": "coingecko:agora-dollar"
+  },
+  {
+    "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
+    "symbol": "AXLUSDC",
+    "source": "coingecko:axlusdc"
+  },
+  {
+    "address": "0x55d398326f99059fF775485246999027B3197955",
+    "symbol": "BSC-USD",
+    "source": "coingecko:binance-bridged-usdt-bnb-smart-chain"
+  },
+  {
+    "address": "0xe2fb3F127f5450DeE44afe054385d74C392BdeF4",
+    "symbol": "CRVUSD",
+    "source": "coingecko:crvusd"
+  },
+  {
+    "address": "0x64748ea3E31d0B7916F0fF91b017B9f404DED8eF",
+    "symbol": "CUSDO",
+    "source": "oku-trade-history:router_swap:104"
+  },
+  {
+    "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+    "symbol": "DAI",
+    "source": "coingecko:binance-peg-dai"
+  },
+  {
+    "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+    "symbol": "FDUSD",
+    "source": "coingecko:first-digital-usd"
+  },
+  {
+    "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
+    "symbol": "FRAX",
+    "source": "coingecko:frax"
+  },
+  {
+    "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+    "symbol": "FRXUSD",
+    "source": "coingecko:frax-usd"
+  },
+  {
+    "address": "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+    "symbol": "LISUSD",
+    "source": "oku-trade-history:router_swap:35"
+  },
+  {
+    "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
+    "symbol": "USD1",
+    "source": "oku-trade-history:router_swap:715"
+  },
+  {
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "symbol": "USDC",
+    "source": "coingecko:binance-bridged-usdc-bnb-smart-chain"
+  },
+  {
+    "address": "0xB04906e95AB5D797aDA81508115611fee694c2b3",
+    "symbol": "USDCET",
+    "source": "coingecko:usd-coin-wormhole-from-ethereum"
+  },
+  {
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDE",
+    "source": "coingecko:ethena-usde"
+  },
+  {
+    "address": "0x5A110fC00474038f6c02E89C707D638602EA44B5",
+    "symbol": "USDF",
+    "source": "oku-trade-history:router_swap:74"
+  },
+  {
+    "address": "0xb3b02E4A9Fb2bD28CC2ff97B0aB3F6B3Ec1eE9D2",
+    "symbol": "USDF",
+    "source": "oku-trade-history:router_swap:24"
+  },
+  {
+    "address": "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc",
+    "symbol": "USDT",
+    "source": "coingecko:tether-usd-wormhole-from-ethereum"
+  },
+  {
+    "address": "0xeA953eA6634d55dAC6697C436B1e81A679Db5882",
+    "symbol": "USDU",
+    "source": "oku-trade-history:router_swap:40"
+  }
+]

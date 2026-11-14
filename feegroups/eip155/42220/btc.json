@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x8aC2901Dd8A1F17a1A4768A6bA4C3751e3995B2D",
+    "symbol": "WBTC",
+    "source": "coingecko:celo-bridged-wbtc-celo"
+  },
+  {
+    "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
+    "symbol": "WBTC",
+    "source": "coingecko:bridged-wbtc"
+  }
+]

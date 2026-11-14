@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x82bbd1b6f6De2B7bb63D3e1546e6b1553508BE99",
+    "symbol": "FRXETH",
+    "source": "coingecko:frax-ether"
+  },
+  {
+    "address": "0xecf91116348aF1cfFe335e9807f0051332BE128D",
+    "symbol": "SFRXETH",
+    "source": "coingecko:staked-frax-ether"
+  }
+]

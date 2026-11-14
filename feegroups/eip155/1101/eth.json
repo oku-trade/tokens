@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "source": "chain-config@v1.12.36/polygon_zkevm.go"
+  },
+  {
+    "address": "0xCf7eceE185f19e2E970a301eE37F93536ed66179",
+    "symbol": "FRXETH",
+    "source": "coingecko:frax-ether"
+  },
+  {
+    "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "symbol": "WETH",
+    "source": "coingecko:polygon-hermez-bridged-weth-polygon-zkevm"
+  }
+]

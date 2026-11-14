@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0xb73603C5d87fA094B7314C74ACE2e64D165016fb",
+    "symbol": "USDC",
+    "source": "coingecko:bridged-usd-coin-manta-pacific"
+  },
+  {
+    "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "symbol": "USDE",
+    "source": "coingecko:ethena-usde"
+  },
+  {
+    "address": "0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
+    "symbol": "USDT",
+    "source": "coingecko:bridged-tether-manta-pacific"
+  }
+]

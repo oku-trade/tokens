@@ -1,0 +1,57 @@
+[
+  {
+    "address": "0xC0333cb85B59a788d8C7CAe5e1Fd6E229A3E5a65",
+    "symbol": "AGNOUSDCE",
+    "source": "oku-trade-history:router_swap:28"
+  },
+  {
+    "address": "0x7a5c3860a77a8DC1b225BD46d0fb2ac1C6D191BC",
+    "symbol": "ASDAI",
+    "source": "oku-trade-history:router_swap:14"
+  },
+  {
+    "address": "0xaBEf652195F98A91E490f047A5006B71c85f058d",
+    "symbol": "CRVUSD",
+    "source": "coingecko:crvusd"
+  },
+  {
+    "address": "0x44fA8E6f47987339850636F88629646662444217",
+    "symbol": "DAI",
+    "source": "coingecko:omnibridge-bridged-dai-gnosis-chain"
+  },
+  {
+    "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
+    "symbol": "GHO",
+    "source": "coingecko:gho"
+  },
+  {
+    "address": "0xaf204776c7245bF4147c2612BF6e5972Ee483701",
+    "symbol": "SDAI",
+    "source": "oku-trade-history:router_swap:229"
+  },
+  {
+    "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+    "symbol": "USDC",
+    "source": "coingecko:gnosis-xdai-bridged-usdc-gnosis"
+  },
+  {
+    "address": "0x2a22f9c3b484c3629090FeED35F17Ff8F88f76F0",
+    "symbol": "USDC.E",
+    "source": "coingecko:bridged-usdc-gnosis"
+  },
+  {
+    "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
+    "symbol": "USDT",
+    "source": "coingecko:gnosis-xdai-bridged-usdt-gnosis"
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XDAI",
+    "source": "chain-config@v1.12.36/gnosis.go"
+  },
+  {
+    "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+    "symbol": "XDAI",
+    "source": "coingecko:xdai"
+  }
+]

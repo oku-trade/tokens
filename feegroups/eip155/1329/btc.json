@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+    "symbol": "SOLVBTC",
+    "source": "coingecko:solv-btc"
+  },
+  {
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "symbol": "WBTC",
+    "source": "coingecko:wrapped-bitcoin"
+  }
+]

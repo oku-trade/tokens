@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+    "symbol": "DAI",
+    "source": "coingecko:polygon-zkevm-bridged-dai-polygon-zkevm"
+  },
+  {
+    "address": "0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D",
+    "symbol": "FRAX",
+    "source": "coingecko:frax"
+  },
+  {
+    "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+    "symbol": "FRXUSD",
+    "source": "coingecko:frax-usd"
+  },
+  {
+    "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "symbol": "USDC",
+    "source": "coingecko:polygon-hermez-bridged-usdc-polygon-zkevm"
+  },
+  {
+    "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "symbol": "USDT",
+    "source": "coingecko:polygon-hermez-bridged-usdt-polygon-zkevm"
+  }
+]

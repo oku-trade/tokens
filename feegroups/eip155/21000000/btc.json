@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "BTCN",
+    "source": "chain-config@v1.12.36/corn.go"
+  },
+  {
+    "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+    "symbol": "LBTC",
+    "source": "coingecko:lombard-staked-btc"
+  },
+  {
+    "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+    "symbol": "SOLVBTC",
+    "source": "coingecko:solv-btc"
+  },
+  {
+    "address": "0xda5dDd7270381A7C2717aD10D1c0ecB19e3CDFb2",
+    "symbol": "WBTCN",
+    "source": "coingecko:wrapped-bitcorn"
+  }
+]

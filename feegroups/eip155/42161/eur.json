@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
+    "symbol": "AGEUR",
+    "source": "oku-trade-history:router_swap:15"
+  },
+  {
+    "address": "0x0c06cCF38114ddfc35e07427B9424adcca9F44F8",
+    "symbol": "EURE",
+    "source": "coingecko:monerium-eur-money-2"
+  }
+]

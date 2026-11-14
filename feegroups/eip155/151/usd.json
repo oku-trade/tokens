@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x8201c02d4AB2214471E8C3AD6475C8b0CD9F2D06",
+    "symbol": "USDC.E",
+    "source": "coingecko:redbelly-bridged-usdc-redbelly"
+  },
+  {
+    "address": "0xE08DED898D7782B085cD240d7B234063696765aD",
+    "symbol": "USDC.E",
+    "source": "https://vine.redbelly.network/bridged-tokens/layerzero"
+  },
+  {
+    "address": "0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B",
+    "symbol": "USDT",
+    "source": "coingecko:redbelly-bridged-usdt-redbelly"
+  },
+  {
+    "address": "0x420e07cec544b8A52B7d0c62b1C9BF990cc58083",
+    "symbol": "USDT0",
+    "source": "https://vine.redbelly.network/bridged-tokens/layerzero"
+  }
+]

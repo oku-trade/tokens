@@ -1,5 +1,6 @@
 import * as path from "path";
 import * as fs from "fs/promises";
+import { loadFeeGroups } from "./feeGroups";
 import { actuallyStrictIsAddress } from "./isAddress";
 import { Token } from "./types";
 
@@ -69,7 +70,16 @@ async function validateJsonFiles(baseDirectory: string) {
 }
 
 const chainsDirectory = "./chains/evm";
-validateJsonFiles(chainsDirectory).catch((error) => {
-  console.error(error);
-  process.exit(1);
-});
+validateJsonFiles(chainsDirectory)
+  .then(async () => {
+    const chains = await loadFeeGroups("./feegroups");
+    const groups = Object.values(chains).flatMap((byGroup) => Object.values(byGroup));
+    const count = groups.reduce((n, assets) => n + assets.length, 0);
+    console.log(
+      `Fee groups are valid: ${Object.keys(chains).length} chains, ${groups.length} groups, ${count} assets.`,
+    );
+  })
+  .catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });
