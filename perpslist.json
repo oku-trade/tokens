@@ -63,8 +63,24 @@
   ],
   "io": [
     [
+      "AAPL",
+      "https://cdn.oku.trade/perps/io/AAPL/logo.svg"
+    ],
+    [
       "ANTH",
       "https://cdn.oku.trade/perps/io/ANTH/logo.svg"
+    ],
+    [
+      "CRCL",
+      "https://cdn.oku.trade/perps/io/CRCL/logo.svg"
+    ],
+    [
+      "DRAM",
+      "https://cdn.oku.trade/perps/io/DRAM/logo.svg"
+    ],
+    [
+      "EWY",
+      "https://cdn.oku.trade/perps/io/EWY/logo.svg"
     ],
     [
       "GPRO",
@@ -79,8 +95,32 @@
       "https://cdn.oku.trade/perps/io/NBIS/logo.svg"
     ],
     [
+      "NVDA",
+      "https://cdn.oku.trade/perps/io/NVDA/logo.svg"
+    ],
+    [
       "OAI",
       "https://cdn.oku.trade/perps/io/OAI/logo.svg"
+    ],
+    [
+      "PRL",
+      "https://cdn.oku.trade/perps/io/PRL/logo.png"
+    ],
+    [
+      "SKHX",
+      "https://cdn.oku.trade/perps/io/SKHX/logo.svg"
+    ],
+    [
+      "SNDK",
+      "https://cdn.oku.trade/perps/io/SNDK/logo.svg"
+    ],
+    [
+      "TCNT",
+      "https://cdn.oku.trade/perps/io/TCNT/logo.png"
+    ],
+    [
+      "XIAOMI",
+      "https://cdn.oku.trade/perps/io/XIAOMI/logo.svg"
     ]
   ],
   "mkts": [
