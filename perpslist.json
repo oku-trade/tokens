@@ -125,6 +125,10 @@
   ],
   "mkts": [
     [
+      "BVIV",
+      "https://cdn.oku.trade/perps/mkts/BVIV/logo.svg"
+    ],
+    [
       "IWM",
       "https://cdn.oku.trade/perps/mkts/IWM/logo.png"
     ],
@@ -345,6 +349,10 @@
       "https://cdn.oku.trade/perps/xyz/MRNA/logo.svg"
     ],
     [
+      "MUU",
+      "https://cdn.oku.trade/perps/xyz/MUU/logo.svg"
+    ],
+    [
       "NATGAS",
       "https://cdn.oku.trade/perps/xyz/NATGAS/logo.svg"
     ],
@@ -367,6 +375,10 @@
     [
       "SNXX",
       "https://cdn.oku.trade/perps/xyz/SNXX/logo.svg"
+    ],
+    [
+      "TTWO",
+      "https://cdn.oku.trade/perps/xyz/TTWO/logo.svg"
     ],
     [
       "URNM",

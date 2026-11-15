@@ -2956,6 +2956,7 @@
   "perps/io/SNDK/logo.svg": "9df6994562395d705f1bca7ad1b7b0c79129eb172926679f332a236f077160f8",
   "perps/io/TCNT/logo.png": "1d8ed408dc0a3469f35450bd766a32ded46ae2d9dd909d40def09f0d8f60b2f1",
   "perps/io/XIAOMI/logo.svg": "c8efa9c9d3074a62134a3e084ecd7d71b4b72ce24c7cfe137928108c8fc04b44",
+  "perps/mkts/BVIV/logo.svg": "0628d84301c30b7d8d5fafccd90e65a78873cad8cdd397e19c86b1dfc3565634",
   "perps/mkts/IWM/logo.png": "68dd3921b763c662d41cf127009295f865f01c91cc45c593bd14d005cadcdae9",
   "perps/mkts/QQQ/logo.svg": "84c657069791f8f32648011917466062a8cd2f3d0ec1ba2bb6c8c6339048557c",
   "perps/mkts/SMALL2000/logo.svg": "19b424cfc4d258df11f192d77ce3ca68fbc25606d94fb33d6d00f6ef37970bda",
@@ -3010,13 +3011,15 @@
   "perps/xyz/IREN/logo.svg": "419ec9e35c1b52493760355d16cf8a887e9a6e2d5877909a7d024293e99a9e71",
   "perps/xyz/KSTR/logo.svg": "8a1ffa1d88ab9e854e36e308992ec0c750fab6fd99f5c0a63a412719ba505346",
   "perps/xyz/MRNA/logo.svg": "8a3ac7e01d9ba2f1c3f6ecbe4cc391481e0dd1445028da0101c59bb9490cdad4",
+  "perps/xyz/MUU/logo.svg": "dcde1d9b145f9f49367fc13e72bf73250ca250af6b500fcadcccb7c339d0f933",
   "perps/xyz/NATGAS/logo.svg": "2669845894d8042c5d1f128be901bc8a2bff4eff1d910a372754510cbdc50198",
   "perps/xyz/NET/logo.svg": "a861b108acafbd9d7b11bd4fec879b71cb78164ab8910d4d19c38242a3b6beed",
   "perps/xyz/PURRDAT/logo.svg": "fa18955f2f866e7e52f1b5d4bf8b7ccd8d1a93ed2eb6f57efdc96e9aa29bea3a",
   "perps/xyz/QCOM/logo.svg": "e80b9a771fe51bba8e0b11ac7c576964de9870bf275b86349848d52df85ba9f1",
   "perps/xyz/SHEIN/logo.png": "6245ce360387f1de1875f547e18e03bd1fc21987c7945dfb7228a97f1fac68dd",
   "perps/xyz/SNXX/logo.svg": "fe39f0083572d3fcfeba80e7bf8e51ae2d650945580337e95ef2b864419adec9",
+  "perps/xyz/TTWO/logo.svg": "8d1968b532b25af9e21dbce254176e3719ee5222d5c165bed0d0d0a3a6094430",
   "perps/xyz/URNM/logo.svg": "da9588ab26aa4fbc87daf6ffc8d5ec4d7000ca3b2d44c5fedaaf2f5b6cdecadb",
   "perps/xyz/XBI/logo.svg": "4f14c08c625287709bd304ed24dc585e2e6d5086cb25b6c9b0170465a5a67424",
-  "perpslist.json": "3c17911b200778c44fe69b63ddd6ebfa7acef453037802bb510c6fcacc77c515"
+  "perpslist.json": "d227b09821562377972e6529ad19e369a44b1f0931b7d97e593f1355c3dac292"
 }
