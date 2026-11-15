@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-5 -3.8 35 35">
+  <title>BVIV (Volmex)</title>
+  <circle cx="12.5" cy="13.7" r="17.5" fill="#000"/>
+  <path fill="#fff" d="M0 9.47445V4H5.47445V9.47445H0Z"/>
+  <path fill="#fff" d="M6.56934 9.47445V4H12.0438V9.47445H6.56934Z"/>
+  <path fill="#fff" d="M13.1388 9.47445V4H18.6132V9.47445H13.1388Z"/>
+  <path fill="#fff" d="M0 16.0438V10.5694H5.47445V16.0438H0Z"/>
+  <path fill="#fff" d="M13.1388 16.0438V10.5694H18.6132V16.0438H13.1388Z"/>
+  <path fill="#fff" d="M0 22.4307V16.9562H5.47445V22.4307H0Z"/>
+  <path fill="#fff" d="M13.1388 22.4307V16.9562H18.6132V22.4307H13.1388Z"/>
+  <path fill="#fff" d="M6.56934 22.4307V16.9562H12.0438V22.4307H6.56934Z"/>
+  <path fill="#fff" d="M19.5255 9.47445V4H25V9.47445H19.5255Z"/>
+</svg>
