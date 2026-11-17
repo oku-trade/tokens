@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-11-15T18:30:19.067Z",
+  "timestamp": "2026-11-17T18:05:36.800Z",
   "version": {
     "major": 49,
-    "minor": 2606,
+    "minor": 2643,
     "patch": 1936
   },
   "tokens": [
@@ -24199,12 +24199,66 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xaa6cccdce193698d33deb9ffd4be74eaa74c4898.png"
     },
     {
+      "address": "0xB2000000000000000000000d8Ce462E99ee7A47B",
+      "name": "Advanced Micro Devices, Inc.",
+      "symbol": "AMDc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB2000000000000000000000d8Ce462E99ee7A47B",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000000d8ce462e99ee7a47b.png"
+    },
+    {
+      "address": "0xB20000000000000000000017BB66E9301E913A99",
+      "name": "Banco Santander, S.A.",
+      "symbol": "SANc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB20000000000000000000017BB66E9301E913A99",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000017bb66e9301e913a99.png"
+    },
+    {
       "address": "0xB20000000000000000000019f6E7C675b73C2e4D",
       "name": "Circle Internet Group Inc.",
       "symbol": "CRCLc",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000019f6e7c675b73c2e4d.png"
+    },
+    {
+      "address": "0xB20000000000000000000026215D755356E5043f",
+      "name": "Arm Holdings plc",
+      "symbol": "ARMc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB20000000000000000000026215D755356E5043f",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000026215d755356e5043f.png"
+    },
+    {
+      "address": "0xB2000000000000000000003088798F6d0722AaAC",
+      "name": "Sea Limited",
+      "symbol": "SEc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB2000000000000000000003088798F6d0722AaAC",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000003088798f6d0722aaac.png"
+    },
+    {
+      "address": "0xB200000000000000000000349ef3Aa93a0897476",
+      "name": "Unilever Plc",
+      "symbol": "ULc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB200000000000000000000349ef3Aa93a0897476",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000349ef3aa93a0897476.png"
+    },
+    {
+      "address": "0xB20000000000000000000043a599976181Bcf336",
+      "name": "Hims & Hers Health, Inc.",
+      "symbol": "HIMSc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB20000000000000000000043a599976181Bcf336",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000043a599976181bcf336.png"
     },
     {
       "address": "0xB2000000000000000000004AFF16039bA04bdFBc",
@@ -24215,12 +24269,102 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000004aff16039ba04bdfbc.png"
     },
     {
+      "address": "0xB2000000000000000000005ac674f707E357409c",
+      "name": "Nokia Corporation",
+      "symbol": "NOKc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB2000000000000000000005ac674f707E357409c",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000005ac674f707e357409c.png"
+    },
+    {
+      "address": "0xB20000000000000000000063376b142C0764B489",
+      "name": "Vale S.A.",
+      "symbol": "VALEc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB20000000000000000000063376b142C0764B489",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000063376b142c0764b489.png"
+    },
+    {
       "address": "0xB200000000000000000000Ab99cFa739E253872B",
       "name": "Microsoft Corporation",
       "symbol": "MSFTc",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000ab99cfa739e253872b.png"
+    },
+    {
+      "address": "0xB200000000000000000000F111184A74720787E6",
+      "name": "CoreWeave, Inc.",
+      "symbol": "CRWVc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB200000000000000000000F111184A74720787E6",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000f111184a74720787e6.png"
+    },
+    {
+      "address": "0xB200000000000000000000Fc737aeA6196aB5a4c",
+      "name": "Broadcom Inc.",
+      "symbol": "AVGOc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB200000000000000000000Fc737aeA6196aB5a4c",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000fc737aea6196ab5a4c.png"
+    },
+    {
+      "address": "0xB200000000000000000000c36ce081Dd09e86cA2",
+      "name": "Anheuser-Busch InBev SA/NV",
+      "symbol": "BUDc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB200000000000000000000c36ce081Dd09e86cA2",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000c36ce081dd09e86ca2.png"
+    },
+    {
+      "address": "0xB200000000000000000000c8A7223510467D8563",
+      "name": "PDD Holdings Inc.",
+      "symbol": "PDDc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB200000000000000000000c8A7223510467D8563",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000c8a7223510467d8563.png"
+    },
+    {
+      "address": "0xB200000000000000000000e215e9B76ecBA02468",
+      "name": "Moderna, Inc.",
+      "symbol": "MRNAc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB200000000000000000000e215e9B76ecBA02468",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000e215e9b76ecba02468.png"
+    },
+    {
+      "address": "0xB200000000000000000000eC3c4c7395Cc609813",
+      "name": "Marvell Technology, Inc.",
+      "symbol": "MRVLc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB200000000000000000000eC3c4c7395Cc609813",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000ec3c4c7395cc609813.png"
+    },
+    {
+      "address": "0xB200000000000000000000eDA6C2c6F11E0F838f",
+      "name": "Lumentum Holdings Inc",
+      "symbol": "LITEc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB200000000000000000000eDA6C2c6F11E0F838f",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000eda6c2c6f11e0f838f.png"
+    },
+    {
+      "address": "0xB200000000000000000000f1a0F91e34892E4718",
+      "name": "Eli Lilly & Co",
+      "symbol": "LLYc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xB200000000000000000000f1a0F91e34892E4718",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000f1a0f91e34892e4718.png"
     },
     {
       "address": "0xB200000000000000000000f720C26062Bc3067Da",
@@ -24415,6 +24559,24 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb08d4ca999155d71dcb63d897d891b8fa8b29f8b.png"
     },
     {
+      "address": "0xb20000000000000000000016f9dfe862feBA122b",
+      "name": "Bloom Energy Corporation",
+      "symbol": "BEc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb20000000000000000000016f9dfe862feBA122b",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000016f9dfe862feba122b.png"
+    },
+    {
+      "address": "0xb200000000000000000000187f7071D6E321a7d2",
+      "name": "SK hynix Inc.",
+      "symbol": "SKHYc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000187f7071D6E321a7d2",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000187f7071d6e321a7d2.png"
+    },
+    {
       "address": "0xb2000000000000000000001e800a7f5189430cD0",
       "name": "Tesla Inc.",
       "symbol": "TSLAc",
@@ -24423,12 +24585,39 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000001e800a7f5189430cd0.png"
     },
     {
+      "address": "0xb20000000000000000000024170488e788CBbCb4",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "symbol": "BRK.Bc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb20000000000000000000024170488e788CBbCb4",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000024170488e788cbbcb4.png"
+    },
+    {
       "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
       "name": "Alphabet Inc.",
       "symbol": "GOOGLc",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000002d0ba3164cc74f58b7.png"
+    },
+    {
+      "address": "0xb2000000000000000000002D2B5dc53c61f1bA06",
+      "name": "NIO Inc.",
+      "symbol": "NIOc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb2000000000000000000002D2B5dc53c61f1bA06",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000002d2b5dc53c61f1ba06.png"
+    },
+    {
+      "address": "0xb200000000000000000000347AFbA223D7B6b63C",
+      "name": "Oracle Corporation",
+      "symbol": "ORCLc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000347AFbA223D7B6b63C",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000347afba223d7b6b63c.png"
     },
     {
       "address": "0xb200000000000000000000397293Cb8cda9a10c5",
@@ -24447,6 +24636,33 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000004884b426556b92883d.png"
     },
     {
+      "address": "0xb20000000000000000000058B8c947e44011dFE6",
+      "name": "Netflix Inc",
+      "symbol": "NFLXc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb20000000000000000000058B8c947e44011dFE6",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000058b8c947e44011dfe6.png"
+    },
+    {
+      "address": "0xb2000000000000000000006F944897540579D3f2",
+      "name": "Robinhood Markets, Inc.",
+      "symbol": "HOODc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb2000000000000000000006F944897540579D3f2",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000006f944897540579d3f2.png"
+    },
+    {
+      "address": "0xb200000000000000000000720133EeDF525f93E2",
+      "name": "Cerebras Systems Inc.",
+      "symbol": "CBRSc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000720133EeDF525f93E2",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000720133eedf525f93e2.png"
+    },
+    {
       "address": "0xb20000000000000000000078ee7ce2fE4908108C",
       "name": "NVIDIA Corporation",
       "symbol": "NVDAc",
@@ -24463,12 +24679,39 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000007b9fcbd005511acbd5.png"
     },
     {
+      "address": "0xb2000000000000000000007d16372840dF4dAbbe",
+      "name": "Palantir Technologies Inc.",
+      "symbol": "PLTRc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb2000000000000000000007d16372840dF4dAbbe",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000007d16372840df4dabbe.png"
+    },
+    {
+      "address": "0xb2000000000000000000008D5328e9208773dC58",
+      "name": "Novo Nordisk A/S",
+      "symbol": "NVOc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb2000000000000000000008D5328e9208773dC58",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000008d5328e9208773dc58.png"
+    },
+    {
       "address": "0xb2000000000000000000008bC8786B856E61707C",
       "name": "Meta Platforms Inc.",
       "symbol": "METAc",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000008bc8786b856e61707c.png"
+    },
+    {
+      "address": "0xb2000000000000000000008fde21a1F5c69FeC0b",
+      "name": "Western Digital Corporation",
+      "symbol": "WDCc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb2000000000000000000008fde21a1F5c69FeC0b",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000008fde21a1f5c69fec0b.png"
     },
     {
       "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
@@ -24479,6 +24722,42 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000c2e324d24d7eecd1fb.png"
     },
     {
+      "address": "0xb200000000000000000000D61eFD9F54A23ef9eB",
+      "name": "Li Auto Inc.",
+      "symbol": "LIc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000D61eFD9F54A23ef9eB",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000d61efd9f54a23ef9eb.png"
+    },
+    {
+      "address": "0xb200000000000000000000F6b0417af5F52341FC",
+      "name": "Infosys Limited",
+      "symbol": "INFYc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000F6b0417af5F52341FC",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000f6b0417af5f52341fc.png"
+    },
+    {
+      "address": "0xb200000000000000000000Fd2f87532B90095211",
+      "name": "Micron Technology Inc.",
+      "symbol": "MUc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000Fd2f87532B90095211",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000fd2f87532b90095211.png"
+    },
+    {
+      "address": "0xb200000000000000000000a26326a922FFA87f6C",
+      "name": "Sony Group Corporation",
+      "symbol": "SONYc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000a26326a922FFA87f6C",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000a26326a922ffa87f6c.png"
+    },
+    {
       "address": "0xb200000000000000000000c85a31389D71F3ecfb",
       "name": "Coinbase Global Inc.",
       "symbol": "COINc",
@@ -24487,12 +24766,66 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000c85a31389d71f3ecfb.png"
     },
     {
+      "address": "0xb200000000000000000000ca7C6D1438e7245eb6",
+      "name": "Bilibili Inc.",
+      "symbol": "BILIc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000ca7C6D1438e7245eb6",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000ca7c6d1438e7245eb6.png"
+    },
+    {
+      "address": "0xb200000000000000000000cf36D05963A3E2205c",
+      "name": "Applied Optoelectronics Inc",
+      "symbol": "AAOIc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000cf36D05963A3E2205c",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000cf36d05963a3e2205c.png"
+    },
+    {
+      "address": "0xb200000000000000000000d2b7D9aeE52F6C6BEf",
+      "name": "Baidu, Inc.",
+      "symbol": "BIDUc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000d2b7D9aeE52F6C6BEf",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000d2b7d9aee52f6c6bef.png"
+    },
+    {
       "address": "0xb200000000000000000000d9192b6B456483C2E8",
       "name": "Amazon.com Inc.",
       "symbol": "AMZNc",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000d9192b6b456483c2e8.png"
+    },
+    {
+      "address": "0xb200000000000000000000da6F64c306234127E0",
+      "name": "SAP SE",
+      "symbol": "SAPc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000da6F64c306234127E0",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000da6f64c306234127e0.png"
+    },
+    {
+      "address": "0xb200000000000000000000e88EFe88D8aDE3f0dA",
+      "name": "WeRide Inc.",
+      "symbol": "WRDc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000e88EFe88D8aDE3f0dA",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000e88efe88d8ade3f0da.png"
+    },
+    {
+      "address": "0xb200000000000000000000f3049F4aa834b23b64",
+      "name": "Hesai Group",
+      "symbol": "HSAIc",
+      "decimals": 8,
+      "explorer": "https://basescan.org/token/0xb200000000000000000000f3049F4aa834b23b64",
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000f3049f4aa834b23b64.png"
     },
     {
       "address": "0xb290b4612Ad0374CE5Ab16465194Ca5954FCcD60",
