@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-11-17T18:05:36.800Z",
+  "timestamp": "2026-11-19T17:45:54.433Z",
   "version": {
     "major": 49,
-    "minor": 2643,
+    "minor": 2644,
     "patch": 1936
   },
   "tokens": [
@@ -24557,6 +24557,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb08d4ca999155d71dcb63d897d891b8fa8b29f8b.png"
+    },
+    {
+      "address": "0xb20000000000000000000016e38FD364d271Ba28",
+      "name": "Anthropic, PBC",
+      "symbol": "ANTc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000016e38fd364d271ba28.png"
     },
     {
       "address": "0xb20000000000000000000016f9dfe862feBA122b",
