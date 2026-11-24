@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-11-19T17:45:54.433Z",
+  "timestamp": "2026-11-24T02:59:05.621Z",
   "version": {
     "major": 49,
-    "minor": 2644,
+    "minor": 2645,
     "patch": 1936
   },
   "tokens": [
@@ -2557,6 +2557,17 @@
       "decimals": 18,
       "chainId": 1672,
       "logoURI": "https://cdn.oku.trade/logos/1672/0x54df79d8edf36d15cd83fbedbdd90807fc828934.png"
+    },
+    {
+      "address": "0x6b0A44c64190279f7034b77c13a566E914FE5Ec4",
+      "name": "stPROS",
+      "symbol": "stPROS",
+      "decimals": 18,
+      "website": "https://app.faroo.xyz/",
+      "description": "A liquid-staking token on Pharos. Users deposit native PROS or WPROS and receive stPROS shares. Redemptions are queued; claims require both the waiting period to expire and sufficient liquidity to be available.",
+      "explorer": "https://www.pharosscan.xyz/address/0x6b0a44c64190279f7034b77c13a566e914fe5ec4",
+      "chainId": 1672,
+      "logoURI": "https://cdn.oku.trade/logos/1672/0x6b0a44c64190279f7034b77c13a566e914fe5ec4.png"
     },
     {
       "address": "0xC879C018dB60520F4355C26eD1a6D572cdAC1815",

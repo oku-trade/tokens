@@ -87,8 +87,20 @@
       "https://cdn.oku.trade/perps/io/GPRO/logo.svg"
     ],
     [
+      "INTC",
+      "https://cdn.oku.trade/perps/io/INTC/logo.svg"
+    ],
+    [
       "IONQ",
       "https://cdn.oku.trade/perps/io/IONQ/logo.svg"
+    ],
+    [
+      "META",
+      "https://cdn.oku.trade/perps/io/META/logo.svg"
+    ],
+    [
+      "MU",
+      "https://cdn.oku.trade/perps/io/MU/logo.svg"
     ],
     [
       "NBIS",
@@ -359,6 +371,10 @@
     [
       "NET",
       "https://cdn.oku.trade/perps/xyz/NET/logo.svg"
+    ],
+    [
+      "PANW",
+      "https://cdn.oku.trade/perps/xyz/PANW/logo.svg"
     ],
     [
       "PURRDAT",

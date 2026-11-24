@@ -311,6 +311,7 @@
   "logos/1672/0x51e2a24742db77604b881d6781ee16b5b8fcbe29.png": "a95d1837c46ce299e9fdc956fa61f9cd4f9d37d278062bf7fe562bc9453f93d9",
   "logos/1672/0x52c48d4213107b20bc583832b0d951fb9ca8f0b0.png": "2db773289b0b8f0eff2e62558ba705f1ab2235bd6cb4580031b8ca52951ac3cb",
   "logos/1672/0x54df79d8edf36d15cd83fbedbdd90807fc828934.png": "df9309a068b3c2ded305297c28271808ecd4286347d7f3cdc67541b0284ac7e2",
+  "logos/1672/0x6b0a44c64190279f7034b77c13a566e914fe5ec4.png": "2608498fc03696c67810f2d00a6ad753a8db03845e71ba01796777e8adc30c78",
   "logos/1672/0xc879c018db60520f4355c26ed1a6d572cdac1815.png": "86074339be8aad528151bfe5eb599026ddf0bbe35fd4c18bfcffb9ffd0c2b939",
   "logos/169/0x305e88d809c9dc03179554bfbf85ac05ce8f18d6.png": "64970340856c5f376f259f392d47ea7a1faad1e426b3f358e49d005dcd0ae395",
   "logos/169/0x4220e94f507dc9e14169cfa0f2912463ace8c8ff.png": "f6f3c54268ff4f5c19fc8c759ec9fff5e95ae775dee415fbe290138bb75f57b6",
@@ -2985,7 +2986,10 @@
   "perps/io/DRAM/logo.svg": "81c989320c1eae228cf9c8c731be90e0d667e70945d5d731f0bc5220ee31d6b9",
   "perps/io/EWY/logo.svg": "7f9ad9a8b4f1f4b56a0b82e597472e06cd661587eebe4a8433b7ad0120681fe0",
   "perps/io/GPRO/logo.svg": "662f23a07599167d9ec4da5c7c9fc268c8bb82ec40f1df88b07ccc3f5adea0b7",
+  "perps/io/INTC/logo.svg": "84e7a06a26bba1add5b935cda33edfbfba5b063772e9cda93b4749a4effae73b",
   "perps/io/IONQ/logo.svg": "2f33e0703a642e51853a720ba1b545301f4a84ab1bd10cbb761071c6e50eaf6c",
+  "perps/io/META/logo.svg": "fc56dc3be4aa640295b51d54c9a83a945eb3685215679053849a45aae23e1153",
+  "perps/io/MU/logo.svg": "dcde1d9b145f9f49367fc13e72bf73250ca250af6b500fcadcccb7c339d0f933",
   "perps/io/NBIS/logo.svg": "066e545f04c7d6543a9298172f6538c6fb136163357c3712498330f2bf39def7",
   "perps/io/NVDA/logo.svg": "0e441484415fc1982d1405bc1c7e471485274c3ac77144ec277985677bf113a2",
   "perps/io/OAI/logo.svg": "218e66b0d2f7fe439f83cc97a87cd7b4c3c8b97a938351bf3204222dba765415",
@@ -3052,6 +3056,7 @@
   "perps/xyz/MUU/logo.svg": "dcde1d9b145f9f49367fc13e72bf73250ca250af6b500fcadcccb7c339d0f933",
   "perps/xyz/NATGAS/logo.svg": "2669845894d8042c5d1f128be901bc8a2bff4eff1d910a372754510cbdc50198",
   "perps/xyz/NET/logo.svg": "a861b108acafbd9d7b11bd4fec879b71cb78164ab8910d4d19c38242a3b6beed",
+  "perps/xyz/PANW/logo.svg": "2c0489b2ff443221cfa99390da520c7404c8d6decf5e6baa1407d1f1dc4d2c0c",
   "perps/xyz/PURRDAT/logo.svg": "fa18955f2f866e7e52f1b5d4bf8b7ccd8d1a93ed2eb6f57efdc96e9aa29bea3a",
   "perps/xyz/QCOM/logo.svg": "e80b9a771fe51bba8e0b11ac7c576964de9870bf275b86349848d52df85ba9f1",
   "perps/xyz/SHEIN/logo.png": "6245ce360387f1de1875f547e18e03bd1fc21987c7945dfb7228a97f1fac68dd",
@@ -3059,5 +3064,5 @@
   "perps/xyz/TTWO/logo.svg": "8d1968b532b25af9e21dbce254176e3719ee5222d5c165bed0d0d0a3a6094430",
   "perps/xyz/URNM/logo.svg": "da9588ab26aa4fbc87daf6ffc8d5ec4d7000ca3b2d44c5fedaaf2f5b6cdecadb",
   "perps/xyz/XBI/logo.svg": "4f14c08c625287709bd304ed24dc585e2e6d5086cb25b6c9b0170465a5a67424",
-  "perpslist.json": "d227b09821562377972e6529ad19e369a44b1f0931b7d97e593f1355c3dac292"
+  "perpslist.json": "7e6be4e20c89ad84a1554313ff7d93d668b1db8599a75947e4dcd2c4a9e60c42"
 }
