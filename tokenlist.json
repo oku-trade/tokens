@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-11-24T02:59:05.621Z",
+  "timestamp": "2026-11-26T04:50:02.030Z",
   "version": {
     "major": 49,
-    "minor": 2645,
+    "minor": 2671,
     "patch": 1936
   },
   "tokens": [
@@ -24254,6 +24254,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000003088798f6d0722aaac.png"
     },
     {
+      "address": "0xB20000000000000000000034975347FF1848AAb9",
+      "name": "Lam Research Corporation",
+      "symbol": "LRCXc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000034975347ff1848aab9.png"
+    },
+    {
       "address": "0xB200000000000000000000349ef3Aa93a0897476",
       "name": "Unilever Plc",
       "symbol": "ULc",
@@ -24261,6 +24269,30 @@
       "explorer": "https://basescan.org/token/0xB200000000000000000000349ef3Aa93a0897476",
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000349ef3aa93a0897476.png"
+    },
+    {
+      "address": "0xB2000000000000000000003958003d801724F9d3",
+      "name": "MP Materials Corp.",
+      "symbol": "MPc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000003958003d801724f9d3.png"
+    },
+    {
+      "address": "0xB2000000000000000000003e4249C65bd6c037d9",
+      "name": "Rivian Automotive, Inc.",
+      "symbol": "RIVNc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000003e4249c65bd6c037d9.png"
+    },
+    {
+      "address": "0xB2000000000000000000003eF37a7c863DC1482A",
+      "name": "SoFi Technologies, Inc.",
+      "symbol": "SOFIc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000003ef37a7c863dc1482a.png"
     },
     {
       "address": "0xB20000000000000000000043a599976181Bcf336",
@@ -24278,6 +24310,14 @@
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000004aff16039ba04bdfbc.png"
+    },
+    {
+      "address": "0xB2000000000000000000005672D78eFF30D24665",
+      "name": "Qualcomm Incorporated",
+      "symbol": "QCOMc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000005672d78eff30d24665.png"
     },
     {
       "address": "0xB2000000000000000000005ac674f707E357409c",
@@ -24298,12 +24338,68 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000063376b142c0764b489.png"
     },
     {
+      "address": "0xB2000000000000000000006432a3a7991e718DBB",
+      "name": "Salesforce, Inc.",
+      "symbol": "CRMc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000006432a3a7991e718dbb.png"
+    },
+    {
+      "address": "0xB20000000000000000000079DC24fe2FBD09110f",
+      "name": "Vistra Corp.",
+      "symbol": "VSTc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000079dc24fe2fbd09110f.png"
+    },
+    {
+      "address": "0xB200000000000000000000989dc22D3656717734",
+      "name": "lululemon athletica inc.",
+      "symbol": "LULUc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000989dc22d3656717734.png"
+    },
+    {
       "address": "0xB200000000000000000000Ab99cFa739E253872B",
       "name": "Microsoft Corporation",
       "symbol": "MSFTc",
       "decimals": 8,
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000ab99cfa739e253872b.png"
+    },
+    {
+      "address": "0xB200000000000000000000CD7e6b8042cb7c2BB5",
+      "name": "AMC Entertainment Holdings, Inc.",
+      "symbol": "AMCc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000cd7e6b8042cb7c2bb5.png"
+    },
+    {
+      "address": "0xB200000000000000000000E3e784CDF88Df2959d",
+      "name": "Bank of America Corporation",
+      "symbol": "BACc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000e3e784cdf88df2959d.png"
+    },
+    {
+      "address": "0xB200000000000000000000E4A60215E10D6D8c2b",
+      "name": "Chipotle Mexican Grill, Inc.",
+      "symbol": "CMGc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000e4a60215e10d6d8c2b.png"
+    },
+    {
+      "address": "0xB200000000000000000000E71D4E45D1421251cb",
+      "name": "Arista Networks, Inc.",
+      "symbol": "ANETc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000e71d4e45d1421251cb.png"
     },
     {
       "address": "0xB200000000000000000000F111184A74720787E6",
@@ -24322,6 +24418,14 @@
       "explorer": "https://basescan.org/token/0xB200000000000000000000Fc737aeA6196aB5a4c",
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000fc737aea6196ab5a4c.png"
+    },
+    {
+      "address": "0xB200000000000000000000b2E8dBA585B1ffB158",
+      "name": "Vertiv Holdings Co",
+      "symbol": "VRTc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000b2e8dba585b1ffb158.png"
     },
     {
       "address": "0xB200000000000000000000c36ce081Dd09e86cA2",
@@ -24349,6 +24453,14 @@
       "explorer": "https://basescan.org/token/0xB200000000000000000000e215e9B76ecBA02468",
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000e215e9b76ecba02468.png"
+    },
+    {
+      "address": "0xB200000000000000000000eA2df44A307CaB279C",
+      "name": "BitMine Immersion Technologies, Inc.",
+      "symbol": "BMNRc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000ea2df44a307cab279c.png"
     },
     {
       "address": "0xB200000000000000000000eC3c4c7395Cc609813",
@@ -24570,6 +24682,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb08d4ca999155d71dcb63d897d891b8fa8b29f8b.png"
     },
     {
+      "address": "0xb20000000000000000000006f910a0e7BBD3c168",
+      "name": "AppLovin Corporation",
+      "symbol": "APPc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000006f910a0e7bbd3c168.png"
+    },
+    {
       "address": "0xb20000000000000000000016e38FD364d271Ba28",
       "name": "Anthropic, PBC",
       "symbol": "ANTc",
@@ -24613,6 +24733,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000024170488e788cbbcb4.png"
     },
     {
+      "address": "0xb200000000000000000000241fe94fe97FcBf034",
+      "name": "Merck & Co., Inc.",
+      "symbol": "MRKc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000241fe94fe97fcbf034.png"
+    },
+    {
       "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
       "name": "Alphabet Inc.",
       "symbol": "GOOGLc",
@@ -24647,6 +24775,22 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000397293cb8cda9a10c5.png"
     },
     {
+      "address": "0xb200000000000000000000428E3a3eebBb20692B",
+      "name": "Trump Media & Technology Group Corp.",
+      "symbol": "DJTc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000428e3a3eebbb20692b.png"
+    },
+    {
+      "address": "0xb200000000000000000000450ad3abE5d4846c6E",
+      "name": "PayPal Holdings, Inc.",
+      "symbol": "PYPLc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000450ad3abe5d4846c6e.png"
+    },
+    {
       "address": "0xb2000000000000000000004884b426556b92883d",
       "name": "Strategy Inc.",
       "symbol": "MSTRc",
@@ -24662,6 +24806,22 @@
       "explorer": "https://basescan.org/token/0xb20000000000000000000058B8c947e44011dFE6",
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000058b8c947e44011dfe6.png"
+    },
+    {
+      "address": "0xb2000000000000000000005BCdE0a6926919FEF9",
+      "name": "Monster Beverage Corporation",
+      "symbol": "MNSTc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000005bcde0a6926919fef9.png"
+    },
+    {
+      "address": "0xb20000000000000000000066242d4067724cB7A1",
+      "name": "Reddit, Inc.",
+      "symbol": "RDDTc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000066242d4067724cb7a1.png"
     },
     {
       "address": "0xb2000000000000000000006F944897540579D3f2",
@@ -24733,6 +24893,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb2000000000000000000008fde21a1f5c69fec0b.png"
     },
     {
+      "address": "0xb20000000000000000000090658e3f9b29E2f5C2",
+      "name": "Johnson & Johnson",
+      "symbol": "JNJc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb20000000000000000000090658e3f9b29e2f5c2.png"
+    },
+    {
       "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
       "name": "Apple Inc.",
       "symbol": "AAPLc",
@@ -24768,6 +24936,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000fd2f87532b90095211.png"
     },
     {
+      "address": "0xb200000000000000000000Ffb10718f880A48274",
+      "name": "Carvana Co.",
+      "symbol": "CVNAc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000ffb10718f880a48274.png"
+    },
+    {
       "address": "0xb200000000000000000000a26326a922FFA87f6C",
       "name": "Sony Group Corporation",
       "symbol": "SONYc",
@@ -24775,6 +24951,14 @@
       "explorer": "https://basescan.org/token/0xb200000000000000000000a26326a922FFA87f6C",
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000a26326a922ffa87f6c.png"
+    },
+    {
+      "address": "0xb200000000000000000000c367d37d07150182A2",
+      "name": "UnitedHealth Group Incorporated",
+      "symbol": "UNHc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000c367d37d07150182a2.png"
     },
     {
       "address": "0xb200000000000000000000c85a31389D71F3ecfb",
@@ -24812,6 +24996,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000d2b7d9aee52f6c6bef.png"
     },
     {
+      "address": "0xb200000000000000000000d5c0393796E92FCAB0",
+      "name": "Southwest Airlines Company",
+      "symbol": "LUVc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000d5c0393796e92fcab0.png"
+    },
+    {
       "address": "0xb200000000000000000000d9192b6B456483C2E8",
       "name": "Amazon.com Inc.",
       "symbol": "AMZNc",
@@ -24829,6 +25021,14 @@
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000da6f64c306234127e0.png"
     },
     {
+      "address": "0xb200000000000000000000df14B76C292A32982d",
+      "name": "GitLab Inc.",
+      "symbol": "GTLBc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000df14b76c292a32982d.png"
+    },
+    {
       "address": "0xb200000000000000000000e88EFe88D8aDE3f0dA",
       "name": "WeRide Inc.",
       "symbol": "WRDc",
@@ -24836,6 +25036,14 @@
       "explorer": "https://basescan.org/token/0xb200000000000000000000e88EFe88D8aDE3f0dA",
       "chainId": 8453,
       "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000e88efe88d8ade3f0da.png"
+    },
+    {
+      "address": "0xb200000000000000000000e8E50CBbb9a3861a3C",
+      "name": "Rocket Lab Corporation",
+      "symbol": "RKLBc",
+      "decimals": 8,
+      "chainId": 8453,
+      "logoURI": "https://cdn.oku.trade/logos/8453/0xb200000000000000000000e8e50cbbb9a3861a3c.png"
     },
     {
       "address": "0xb200000000000000000000f3049F4aa834b23b64",

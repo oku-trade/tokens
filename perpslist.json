@@ -83,6 +83,10 @@
       "https://cdn.oku.trade/perps/io/EWY/logo.svg"
     ],
     [
+      "GOOGL",
+      "https://cdn.oku.trade/perps/io/GOOGL/logo.svg"
+    ],
+    [
       "GPRO",
       "https://cdn.oku.trade/perps/io/GPRO/logo.svg"
     ],
@@ -391,6 +395,14 @@
     [
       "SNXX",
       "https://cdn.oku.trade/perps/xyz/SNXX/logo.svg"
+    ],
+    [
+      "SOXS",
+      "https://cdn.oku.trade/perps/xyz/SOXS/logo.png"
+    ],
+    [
+      "TQQQ",
+      "https://cdn.oku.trade/perps/xyz/TQQQ/logo.png"
     ],
     [
       "TTWO",
